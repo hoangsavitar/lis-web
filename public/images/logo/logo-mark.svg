@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Elegant Arch Frame -->
+  <rect x="8" y="8" width="64" height="64" rx="32" stroke="#B99054" stroke-width="1.2" stroke-opacity="0.6"/>
+  <rect x="12" y="12" width="56" height="56" rx="28" stroke="#1C1917" stroke-width="0.8" stroke-dasharray="2 2" stroke-opacity="0.3"/>
+  <!-- Interlocking L Monogram -->
+  <text x="40" y="50" text-anchor="middle" font-family="'Playfair Display', serif" font-size="36" font-style="italic" font-weight="700" fill="#1C1917">L</text>
+  <circle cx="40" cy="18" r="2" fill="#B99054"/>
+</svg>

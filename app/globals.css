@@ -1,0 +1,124 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-canvas: #F8F6F0;
+    --bg-surface: #FFFFFF;
+    --bg-subtle: #F2EFEB;
+    --bg-dark: #121110;
+    --text-main: #18181B;
+    --text-body: #52525B;
+    --text-muted: #71717A;
+    --accent-rose: #9A2C46;
+    --accent-gold: #C5A880;
+    --accent-butter: #F5EEDB;
+    --border-hairline: rgba(24, 24, 27, 0.08);
+    --border-subtle: rgba(24, 24, 27, 0.05);
+    --border-dark: #18181B;
+  }
+
+  body {
+    background-color: var(--bg-canvas);
+    color: var(--text-main);
+    font-family: var(--font-sans), sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  /* Custom luxury scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #F8F6F0;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D4D4D8;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #A1A1AA;
+  }
+}
+
+/* Glassmorphism & Backdrop blur */
+.glass-nav {
+  background: rgba(248, 246, 240, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.glass-drawer {
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+/* Product Card Chic Styling */
+.proloop-card {
+  position: relative;
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  background: #FFFFFF;
+  border-radius: 1.25rem;
+  border: 1px solid rgba(24, 24, 27, 0.05);
+  overflow: hidden;
+}
+
+.proloop-card:hover {
+  z-index: 30;
+  border-color: rgba(24, 24, 27, 0.15);
+  box-shadow: 0 20px 40px -15px rgba(24, 24, 27, 0.08);
+  transform: translateY(-2px);
+}
+
+/* Image Cross-fade */
+.card-img-primary {
+  transition: opacity 0.35s ease, transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.card-img-hover {
+  opacity: 0;
+  transition: opacity 0.35s ease, transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.proloop-card:hover .card-img-primary {
+  opacity: 0;
+}
+.proloop-card:hover .card-img-hover {
+  opacity: 1;
+  transform: scale(1.04);
+}
+
+/* Quick add button reveal */
+.proloop-action-panel {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.25s ease, transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.proloop-card:hover .proloop-action-panel {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Freeship shimmer bar */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.shimmer-progress {
+  background: linear-gradient(
+    90deg,
+    #B99054 0%,
+    #E6CA85 50%,
+    #B99054 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2.5s infinite;
+}
