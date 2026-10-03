@@ -9,7 +9,10 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "deploy": "opennextjs-cloudflare deploy",
-    "preview": "opennextjs-cloudflare preview"
+    "preview": "opennextjs-cloudflare preview",
+    "images:sync": "node scripts/sync-product-images.mjs",
+    "prebuild": "npm run images:sync",
+    "prebuild:worker": "npm run images:sync"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.0",
@@ -20,7 +23,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.0.2",
-    "zustand": "^5.0.3"
+    "zustand": "^5.0.3",
+    "sharp": "^0.35.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.9",

@@ -1,78 +1,49 @@
-# LIS — Contemporary Chic & Youthful Luxury
+# LIS — Bộ sưu tập túi & charm
 
-Website thương mại điện tử thời trang đồ da cao cấp **LIS**, lấy cảm hứng từ các thương hiệu thời trang dẫn đầu trào lưu giới trẻ toàn cầu (**Jacquemus, Stand Oil, By Far, Coperni, Gentle Monster**).
+Website giới thiệu 8 mẫu LIS và 25 lựa chọn màu từ bảng `[LIS] Sản phẩm`. Khách có thể xem ảnh đúng màu, tìm kiếm, lọc bộ sưu tập và lưu mẫu để tư vấn. Giá hiện là **Liên hệ giá**; danh sách lưu chưa phải đơn hàng hay thanh toán.
 
----
+## Thêm hoặc thay ảnh sản phẩm
 
-## ✨ Điểm Nổi Bật Về Giao Diện & Trải Nghiệm (UI/UX)
+Ảnh nguồn nằm trong **[`product-images/`](./product-images/README.md)**, chia theo mẫu và màu:
 
-* **Phong cách Contemporary Chic & Youthful Luxury**: Tông màu Sữa yến mạch Oat Milk (`#F8F6F0`), Đen Espresso (`#18181B`), Đỏ Cherry Muted Berry (`#9A2C46`) và Vàng Champagne Satin (`#C5A880`).
-* **Hệ Typography 3 Tầng**:
-  - `Plus Jakarta Sans`: Font chủ đạo, tiêu đề & giao diện, nét cong hình học mịn màng, hỗ trợ tiếng Việt 100%.
-  - `Cormorant Garamond` (Italic): Điểm xuyết thơ mộng cho các tiêu đề thời trang.
-  - `Space Grotesk`: Hiển thị giá cả, mã SKU và metadata sắc sảo.
-* **Thẻ Sản Phẩm Vi Tương Tác 60-120 FPS**:
-  - Lật ảnh 2 lớp (Hover Image Cross-fade 350ms).
-  - Khung bo góc `rounded-2xl` mềm mại.
-  - Chấm tròn Swatch đổi ảnh tức thì.
-  - Nút "BỎ TÚI NGAY" dạng viên thuốc `rounded-full`.
-* **Hệ Thống Giỏ Hàng Tương Tác (Mini-Cart Drawer)**:
-  - Hiệu ứng trượt kính mờ `backdrop-blur-xl`.
-  - Thanh tiến trình Freeship realtime tính toán số tiền còn thiếu.
-  - Đề xuất phụ kiện mua kèm (In-cart Cross-sell: Khăn lụa Twilly, Charm ngựa da).
-  - Tự động đồng bộ giỏ hàng vào `localStorage` qua Zustand.
-* **Bộ Tìm Kiếm Chia Đôi Màn Hình (Split Mega-Search)**:
-  - Tìm kiếm trực tiếp thời gian thực (Live autocomplete) + Cột tạp chí thời trang.
-* **Trang Chi Tiết Sản Phẩm (PDP)**:
-  - Gallery ảnh đa góc chụp, chọn màu/size, thanh ghim đáy màn hình (Sticky Add-to-cart Bar).
+```text
+product-images/
+  mia-bag/
+    avocado/
+      01-front.jpg
+      02-angle.jpg
+      03-detail.jpg
+```
 
----
+1. Mở đúng thư mục mẫu/màu trong [bảng thư mục ảnh](./product-images/README.md).
+2. Thay `01-front.jpg` hoặc thêm `02-angle.jpg`, `03-detail.jpg` của cùng màu. Hỗ trợ JPG, JPEG, PNG, WebP. Nếu đổi định dạng, xóa file ảnh cũ tương ứng.
+3. Commit và push lên GitHub. Khi dịch vụ deploy chạy `npm run build` hoặc `npm run build:worker`, ảnh sẽ tự tối ưu sang WebP và gallery được cập nhật.
 
-## 🛠 Ngăn Xếp Công Nghệ (Tech Stack)
+Không cần sửa code khi thêm/thay góc ảnh của màu đã có. Thêm sản phẩm hoặc màu mới cần cập nhật `data/catalog.json`. Push lên GitHub chỉ xuất bản website nếu dịch vụ hosting đã được cấu hình build/deploy từ Git.
 
-* **Framework**: [Next.js 15](https://nextjs.org/) (App Router, React 19)
-* **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-* **State Management**: [Zustand](https://zustand-demo.pmnd.rs/) (Persist LocalStorage)
-* **Icons**: [@phosphor-icons/react](https://phosphoricons.com/)
-* **Typography**: Google Fonts via `next/font/google`
-* **Deployment Target**: Cloudflare Workers / Pages (`@opennextjs/cloudflare`)
-
----
-
-## 🚀 Hướng Dẫn Cài Đặt & Khởi Chạy
+## Chạy local
 
 ```bash
-# 1. Cài đặt các gói phụ thuộc
-npm install
-
-# 2. Khởi chạy máy chủ phát triển
+npm ci
+npm run images:sync
 npm run dev
-
-# 3. Mở trình duyệt tại địa chỉ
-http://localhost:3000
 ```
 
----
+Mở `http://localhost:3000`. Kiểm tra bản production bằng `npm run build`, rồi `npm start`. Kiểm tra kiểu dữ liệu bằng `npm run typecheck`.
 
-## 📂 Cấu Trúc Dự Án
+## Cấu trúc
 
-```
-├── app/                  # Next.js 15 App Router (layout, globals.css, pages)
-│   ├── collections/      # Trang danh mục & bộ lọc
-│   ├── products/         # Trang chi tiết sản phẩm (PDP)
-│   └── page.tsx          # Trang chủ chính
-├── components/           # Các khối UI tái sử dụng
-│   ├── cart/             # MiniCartDrawer & giỏ hàng
-│   ├── home/             # HeroSection, CategoryGrid, FeaturedProducts, Story, Lookbook
-│   ├── layout/           # Header, Footer, AnnouncementBar
-│   ├── product/          # ProductCard vi tương tác
-│   └── search/           # SearchDrawer chia đôi màn hình
-├── data/                 # Catalog 24 sản phẩm mẫu & dữ liệu Lookbook
-├── design-system/        # Master tokens & tài liệu thiết kế UI/UX
-├── lib/                  # Zustand stores (cart-store, search-store) & utils
-└── public/               # Vector logo và tài nguyên đồ họa
-```
+| Thư mục | Nội dung |
+|---|---|
+| `product-images/` | Ảnh gốc để thêm/thay và push |
+| `public/images/catalog/` | Ảnh WebP responsive do script tạo |
+| `data/catalog.json` | Sản phẩm, màu, ảnh, SKU và dữ liệu nguồn |
+| `scripts/sync-product-images.mjs` | Tạo ảnh web và cập nhật gallery từ thư mục ảnh |
+| `app/`, `components/` | Trang chủ, bộ sưu tập, chi tiết, tìm kiếm và danh sách lưu |
+| `lib/store/` | Lưu mẫu/màu trong localStorage và chuyển dữ liệu giỏ cũ |
+| `planning/source-audit/` | Đối chiếu dữ liệu và manifest ảnh |
+| `planning/11-product-showcase-plan.md` | Kế hoạch và ghi nhận triển khai |
 
----
+Stack: Next.js 15, React 19, Tailwind CSS 4, Zustand, Sharp. Giao diện dùng Plus Jakarta Sans và Cormorant Garamond, chuyển ảnh sau khi decode, gallery scroll-snap, drawer có quản lý focus và hỗ trợ giảm chuyển động.
 
-© 2026 LIS Studio. All Rights Reserved.
+Dữ liệu không có giá/tồn kho xác nhận. Chất liệu ghi theo nguồn là PU; không hiển thị giá giả, đánh giá giả hay cam kết da thật. SKU Nina Nâu Socola cần xác nhận nên được ẩn. Bản build local đã kiểm tra; chưa có báo cáo hiệu năng trên Cloudflare production.

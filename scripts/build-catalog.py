@@ -1,0 +1,37 @@
+"""Rebuild assets from approved XLSX: python scripts/build-catalog.py export.xlsx."""
+import io,json,sys
+from pathlib import Path
+import openpyxl
+from PIL import Image,ImageOps
+ROOT=Path(__file__).resolve().parents[1]
+source=json.loads((ROOT/'planning/source-audit/catalog-source.json').read_text(encoding='utf-8'))
+book=openpyxl.load_workbook(sys.argv[1]); images={}
+for sheet in book:
+ for image in sheet._images:
+  a=image.anchor._from
+  images[f'{openpyxl.utils.get_column_letter(a.col+1)}{a.row+1}']=ImageOps.exif_transpose(Image.open(io.BytesIO(image._data()))).convert('RGB')
+slugs=['mila-bag','nina-bag','lucia-tote','elena-tote','lucky-charm','mia-bag','calla-bag','lily-charm']
+colors=[['burgundy','earth','milk'],['burgundy','chocolate','milk'],['chocolate','milk','earth','black'],['brown','black'],['brown','red','beige'],['beige','brown','avocado','red'],['moss','brown','black'],['brown','red','beige']]
+hexes=[['#702e38','#996345','#d4c5a7'],['#602630','#392d28','#d8cebc'],['#49312b','#d0b78e','#a86745','#242322'],['#985b36','#22221f'],['#a16f43','#a4464c','#d8c7a3'],['#dfd8bd','#483032','#9eac75','#7b303c'],['#464c35','#423930','#202321'],['#b67b50','#ae3c42','#d6c19b']]
+dims=['19 × 12 × 12 cm','20.5 × 11.5 × 21.5 cm','38 × 11 × 28 cm','32 × 12 × 26 cm','6 cm','21 × 10 × 16 cm','26 × 6 × 26 cm','6 cm']
+subtitles=['Nhỏ gọn. Ba cách mang.','Đường cong của mỗi ngày.','Mang theo cả một ngày.','Mềm mại, rộng rãi, có đôi.','Một chút may mắn, rất riêng.','Một chiếc túi. Nhiều nhịp sống.','Nét đan lớn. Dấu ấn riêng.','Một bông hoa cho ngày mới.']
+summaries=['Bề mặt đan nhỏ, hai dây tháo rời và chân đế kim loại. Mila theo bạn từ bàn làm việc đến buổi cà phê cuối tuần.','Phom hobo mềm mại cùng khóa nam châm. Đổi dây để chuyển giữa cầm tay, đeo vai và đeo chéo.','Tote đan với lớp lót mềm và nhiều ngăn. Dành cho tài liệu, sổ tay và laptop mỏng 13–14 inch phù hợp kích thước.','Đan bản lớn, phom rũ tự nhiên và một chiếc pouch rời đi kèm. Sắp xếp ngày dài theo cách của bạn.','Dây treo đồng màu, đường viền nhỏ xinh. Một chi tiết để chiếc túi quen thuộc trở nên khác biệt.','Khóa zip, hai ngăn phụ và dây đeo linh hoạt. Phom cong nhỏ gọn với bốn sắc màu để lựa chọn.','Đan bản lớn phối bề mặt da PU và lớp chất liệu mềm. Túi dây rút bên trong, kèm charm hoa đồng màu.','Hoa năm cánh với khoen kim loại ánh vàng. Một điểm nhấn nhỏ cho túi xách hoặc chùm chìa khóa.']
+catalog=[]; manifest=[]
+for idx,item in enumerate(source['products']):
+ slug=slugs[idx]; variants=[]
+ for j,v in enumerate(item['variants']):
+  cell=f"D{v['sourceRow']}"; im=images[cell]
+  folder=ROOT/'public/images/catalog'/slug/colors[idx][j];folder.mkdir(parents=True,exist_ok=True);sizes=[]
+  for width in [320,480,640,960,1280]:
+   width=min(width,im.width)
+   if width in sizes:continue
+   sizes.append(width)
+   im.resize((width,round(im.height*width/im.width)),Image.Resampling.LANCZOS).save(folder/f'front-{width}.webp','WEBP',quality=83,method=6)
+  base=f'/images/catalog/{slug}/{colors[idx][j]}/front'
+  asset={'src':f'{base}-{max(sizes)}.webp','width':im.width,'height':im.height,'widths':sizes,'base':base,'kind':'lifestyle' if idx in [0,2,3] and cell!='D11' else 'packshot','sourceCell':cell,'alt':f"{item['name']} — {v['color']}"}
+  variants.append({'id':f'{slug}-{colors[idx][j]}','name':v['color'],'hex':hexes[idx][j],'image':asset['src'],'gallery':[asset],'sku':v['rawSku'].strip(),'skuVerified':cell!='D6','availability':'unknown','price':None,'sourceRow':v['sourceRow']})
+  manifest.append({'product':slug,'variant':variants[-1]['id'],**asset})
+ catalog.append({'id':slug,'slug':slug,'title':item['name'],'subtitle':subtitles[idx],'description':summaries[idx],'collection':'The New Classic' if idx<5 else 'Urban Heartbeat','dimensions':dims[idx],'material':'Da PU','category':'phu-kien-charm' if idx in [4,7] else ('tui-tote' if idx in [2,3] else 'tui-xach-tay'),'variants':variants,'heroVariantId':variants[2]['id'] if idx==5 else variants[0]['id'],'sourceCell':item['sourceCell'],'details':(['Kèm charm hoa đồng màu','Túi dây rút và hai ngăn phụ bên trong'] if idx==6 else ['Kèm pouch rời'] if idx==3 else []),'price':0,'comparePrice':0,'discountPercentage':0,'inStock':False,'rating':0,'reviewCount':0,'weight':'','sizes':['Tiêu chuẩn'],'categoryName':'Charm & phụ kiện' if idx in [4,7] else 'Túi xách','mainImage':variants[2]['image'] if idx==5 else variants[0]['image'],'hoverImage':'','gallery':[v['image'] for v in variants],'colors':[{'name':v['name'],'hex':v['hex'],'image':v['image']} for v in variants],'sku':variants[0]['sku']})
+(ROOT/'data/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf-8')
+(ROOT/'planning/source-audit/asset-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
+print(f'Built {len(catalog)} products, {len(manifest)} variants')

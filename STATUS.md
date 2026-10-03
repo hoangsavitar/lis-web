@@ -1,51 +1,23 @@
-# Báo Cáo Trạng Thái Dự Án: LIS — Contemporary Chic & Youthful Luxury
+# Trạng thái LIS
 
-* **Thời gian cập nhật**: 05/09/2026 (23:40)
-* **Phiên bản thiết kế**: 2.0 (Contemporary Chic & Youthful Luxury — Trẻ trung, Mịn, Xịn, Sang)
-* **Kỹ năng ứng dụng**: `ui-ux-pro-max` + `design-system`
-* **Môi trường hoạt động**: Local Dev (`http://localhost:3000`), kiểm tra render 100% không lỗi
+Cập nhật: 03/10/2026.
 
----
+- Đã triển khai trang chủ theo chương sản phẩm, bộ sưu tập có bộ lọc và trang chi tiết giữ lựa chọn màu trong URL.
+- Catalog có 8 mẫu, 25 màu, 26 ảnh; ảnh Lucia Đen gồm ảnh chính và góc chụp bổ sung từ nguồn Drive.
+- Ảnh nguồn được chia rõ theo mẫu/màu trong `product-images/`. Script tự tạo WebP responsive và cập nhật gallery trước build Next.js/Cloudflare.
+- Hiển thị **Liên hệ giá**. Khách lưu mẫu/màu, thay số lượng và sao chép danh sách để tư vấn. Chưa có checkout hoặc giá/tồn kho xác nhận.
+- Đã xử lý lưu variant và migration dữ liệu giỏ cũ, tìm kiếm không phân biệt dấu tiếng Việt, drawer native dialog và reduced motion.
+- API import Excel cũ đã ngừng hoạt động; website chạy từ catalog và ảnh trong repo, không phụ thuộc workbook trên máy dev.
 
-## 1. Định Hình Phong Cách Mới (Đã Áp Dụng Toàn Diện Vào Code)
+## Kiểm tra
 
-1. **Bộ Typography "Mịn — Xịn — Sang"**:
-   - Đã gỡ bỏ hoàn toàn `Playfair Display` cổ lỗ, khô cứng.
-   - **`Plus Jakarta Sans`**: Đã nạp làm font chủ đạo (`font-sans`), bo tròn mịn màng, hỗ trợ tiếng Việt 100%, nét chữ hiện đại chuẩn tỷ lệ vàng.
-   - **`Cormorant Garamond` (Italic)**: Điểm xuyết thơ mộng cho các tiêu đề thời trang (*Đồ Da Độc Bản*, *Đương Đại*, *Sành Điệu*, *Sự Giản Đơn Tinh Tế*).
-   - **`Space Grotesk`**: Nạp cho giá tiền, mã SKU và metadata (`font-mono`).
-2. **Căn Chỉnh Spacing & Khắc Phục Lỗi Chữ Đè Lên Nhau (Hero Section)**:
-   - Sửa triệt để lỗi `leading-none` khiến các dòng tiếng Việt đè lên nhau.
-   - Thiết lập `leading-[1.25] sm:leading-[1.22]`, tách riêng dòng `Nghệ Thuật Chế Tác` (`pb-1 sm:pb-2 block`) và `Đồ Da Độc Bản` (`pt-1 sm:pt-2 block`), khoảng đệm trên dưới rộng rãi, dấu thanh điệu tiếng Việt không bao giờ bị chạm hay đè lên nhau.
-   - Nhãn pill tiếng Pháp `DE LA SIMPLICITÉ NAÎT L'ÉLÉGANCE` được đặt khoảng cách `mb-8` thoáng đãng.
-   - Nút Call-To-Action bo tròn viên thuốc mềm mại `rounded-full` kèm hiệu ứng hover thời thượng.
-3. **Bảng Màu & Bo Góc Thời Thượng**:
-   - Nền Sữa yến mạch Oat Milk (`#F8F6F0`) dịu mắt, Đen Espresso (`#18181B`), Đỏ Cherry Muted Berry (`#9A2C46`), Vàng Champagne Satin (`#C5A880`).
-   - Bo góc hiện đại `rounded-2xl` cho khung ảnh, `rounded-xl` cho card và `rounded-full` cho các nút bấm / tag.
+- `npm run build`: thành công, gồm đồng bộ ảnh và kiểm tra kiểu dữ liệu.
+- Đối chiếu tham chiếu ảnh: đủ 8 sản phẩm, 25 màu, 26 ảnh; mọi ảnh nguồn và kích thước WebP được tham chiếu đều tồn tại.
+- Kiểm tra trình duyệt ở desktop và rộng 390px: đổi màu Mia cập nhật ảnh/URL/SKU; lưu và tải lại giữ đúng màu, không có ảnh lỗi hoặc lỗi console trong luồng đã kiểm tra.
+- First Load JS theo build Next.js: trang chủ 112 kB, trang chi tiết 115 kB. Đây là số của build local, không phải kết quả đo Core Web Vitals.
 
----
+## Còn cần dữ liệu hoặc triển khai riêng
 
-## 2. Bảng Theo Dõi Tiến Độ Chi Tiết (Module Status Matrix)
-
-| Hạng mục / Module | Thành phần | Trạng thái | Chi tiết cập nhật |
-|---|---|:---:|---|
-| **1. Design Tokens & Typography** | `app/layout.tsx` | **HOÀN TẤT** | Nạp `Plus_Jakarta_Sans`, `Cormorant_Garamond`, `Space_Grotesk` hỗ trợ tiếng Việt. |
-| | `app/globals.css` | **HOÀN TẤT** | Bảng màu Oat Milk, Deep Espresso, bo góc `rounded-2xl`, glass blur trong trẻo. |
-| **2. Header & Announcement** | `announcement-bar.tsx` | **HOÀN TẤT** | Ticker chạy thông điệp freeship, font sans trẻ trung, sao Champagne lấp lánh. |
-| | `header.tsx` | **HOÀN TẤT** | Logo LIS tối giản kiểu Jacquemus, mega-menu bo góc `rounded-2xl`, pill cart badge đỏ Cherry. |
-| **3. Hero Section** | `hero-section.tsx` | **HOÀN TẤT** | Sửa hoàn toàn lỗi đè chữ, spacing chuẩn 32px, tiêu đề 2 dòng tách biệt, nút pill bo tròn. |
-| **4. Danh Mục & Sản Phẩm** | `category-grid.tsx` | **HOÀN TẤT** | Bo góc `rounded-2xl`, bỏ gạch chia cũ, tag chữ nổi hiện đại. |
-| | `featured-products.tsx` | **HOÀN TẤT** | Dải tabs lọc dạng viên thuốc `rounded-full`, scale 105 mượt mà. |
-| | `product-card.tsx` | **HOÀN TẤT** | Bo góc `rounded-2xl`, pill badges "NEW DROP", lật ảnh 2 lớp 350ms, nút "BỎ TÚI NGAY" pill. |
-| **5. Giỏ Hàng (Mini-Cart Drawer)** | `mini-cart-drawer.tsx` | **HOÀN TẤT** | Kính mờ `backdrop-blur-xl`, thanh Freeship vàng lấp lánh, nút số lượng pill, gợi ý charm da. |
-| **6. Bộ Tìm Kiếm (Search Drawer)** | `search-drawer.tsx` | **HOÀN TẤT** | Cột trái tìm kiếm realtime + autocomplete; Cột phải tạp chí phong cách Paris. |
-| **7. Trang Chi Tiết (PDP)** | `app/products/[handle]/page.tsx` | **HOÀN TẤT** | Gallery ảnh bo góc `rounded-2xl`, swatches pill, nút "BỎ TÚI NGAY" và sticky bar pill. |
-| **8. Story & Lookbook & Footer** | `story-section.tsx` | **HOÀN TẤT** | Khối chế tác da Ý bo góc `rounded-2xl`, huy hiệu nổi Saddle Stitch sang trọng. |
-| | `lookbook-section.tsx` | **HOÀN TẤT** | Grid tạp chí phong cách sống thời thượng bo góc `rounded-2xl`. |
-| | `footer.tsx` | **HOÀN TẤT** | Nền đen nhung sâu `#121110`, 4 cam kết da thật, form newsletter pill mềm mại. |
-
----
-
-## 3. Kết Quả Kiểm Tra
-* Đã kiểm tra render trực tiếp từ server cục bộ Next.js (`http://localhost:3000`).
-* Toàn bộ mã nguồn biên dịch sạch sẽ, không lỗi runtime, hot-reload nhận đầy đủ style mới.
+- Giá, tồn kho, liên hệ tư vấn chính thức và chính sách giao nhận/đổi trả.
+- Xác nhận SKU Nina Nâu Socola và thông tin sức chứa Elena đang mâu thuẫn trong nguồn.
+- Deploy và đo hiệu năng trên hosting thực tế. Chưa xác nhận website production đạt các ngân sách trong kế hoạch.

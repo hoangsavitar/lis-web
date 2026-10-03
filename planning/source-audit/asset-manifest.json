@@ -1,0 +1,490 @@
+[
+  {
+    "product": "mila-bag",
+    "variant": "mila-bag-burgundy",
+    "src": "/images/catalog/mila-bag/burgundy/front-1280.webp",
+    "width": 1366,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mila-bag/burgundy/front",
+    "kind": "lifestyle",
+    "sourceCell": "D2",
+    "sourceFile": "product-images/mila-bag/burgundy/01-front.jpg",
+    "alt": "Mila — Đỏ đô"
+  },
+  {
+    "product": "mila-bag",
+    "variant": "mila-bag-earth",
+    "src": "/images/catalog/mila-bag/earth/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mila-bag/earth/front",
+    "kind": "lifestyle",
+    "sourceCell": "D3",
+    "sourceFile": "product-images/mila-bag/earth/01-front.jpg",
+    "alt": "Mila — Nâu đất"
+  },
+  {
+    "product": "mila-bag",
+    "variant": "mila-bag-milk",
+    "src": "/images/catalog/mila-bag/milk/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mila-bag/milk/front",
+    "kind": "lifestyle",
+    "sourceCell": "D4",
+    "sourceFile": "product-images/mila-bag/milk/01-front.jpg",
+    "alt": "Mila — Be sữa"
+  },
+  {
+    "product": "nina-bag",
+    "variant": "nina-bag-burgundy",
+    "src": "/images/catalog/nina-bag/burgundy/front-800.webp",
+    "width": 800,
+    "height": 800,
+    "widths": [
+      320,
+      480,
+      640,
+      800
+    ],
+    "base": "/images/catalog/nina-bag/burgundy/front",
+    "kind": "packshot",
+    "sourceCell": "D5",
+    "sourceFile": "product-images/nina-bag/burgundy/01-front.jpg",
+    "alt": "Nina — Đỏ burgundy"
+  },
+  {
+    "product": "nina-bag",
+    "variant": "nina-bag-chocolate",
+    "src": "/images/catalog/nina-bag/chocolate/front-800.webp",
+    "width": 800,
+    "height": 800,
+    "widths": [
+      320,
+      480,
+      640,
+      800
+    ],
+    "base": "/images/catalog/nina-bag/chocolate/front",
+    "kind": "packshot",
+    "sourceCell": "D6",
+    "sourceFile": "product-images/nina-bag/chocolate/01-front.jpg",
+    "alt": "Nina — Nâu Socola"
+  },
+  {
+    "product": "nina-bag",
+    "variant": "nina-bag-milk",
+    "src": "/images/catalog/nina-bag/milk/front-800.webp",
+    "width": 800,
+    "height": 800,
+    "widths": [
+      320,
+      480,
+      640,
+      800
+    ],
+    "base": "/images/catalog/nina-bag/milk/front",
+    "kind": "packshot",
+    "sourceCell": "D7",
+    "sourceFile": "product-images/nina-bag/milk/01-front.jpg",
+    "alt": "Nina — Be sữa"
+  },
+  {
+    "product": "lucia-tote",
+    "variant": "lucia-tote-chocolate",
+    "src": "/images/catalog/lucia-tote/chocolate/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/chocolate/front",
+    "kind": "lifestyle",
+    "sourceCell": "D8",
+    "sourceFile": "product-images/lucia-tote/chocolate/01-front.jpg",
+    "alt": "Lucia Tote — Nâu Socola"
+  },
+  {
+    "product": "lucia-tote",
+    "variant": "lucia-tote-milk",
+    "src": "/images/catalog/lucia-tote/milk/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/milk/front",
+    "kind": "lifestyle",
+    "sourceCell": "D9",
+    "sourceFile": "product-images/lucia-tote/milk/01-front.jpg",
+    "alt": "Lucia Tote — Be sữa"
+  },
+  {
+    "product": "lucia-tote",
+    "variant": "lucia-tote-earth",
+    "src": "/images/catalog/lucia-tote/earth/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/earth/front",
+    "kind": "lifestyle",
+    "sourceCell": "D10",
+    "sourceFile": "product-images/lucia-tote/earth/01-front.jpg",
+    "alt": "Lucia Tote — Nâu đất"
+  },
+  {
+    "product": "lucia-tote",
+    "variant": "lucia-tote-black",
+    "src": "/images/catalog/lucia-tote/black/front-1280.webp",
+    "width": 1600,
+    "height": 1600,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/black/front",
+    "kind": "packshot",
+    "sourceCell": "D11",
+    "sourceFile": "product-images/lucia-tote/black/01-front.jpg",
+    "alt": "Lucia Tote — Đen"
+  },
+  {
+    "product": "lucia-tote",
+    "variant": "lucia-tote-black",
+    "src": "/images/catalog/lucia-tote/black/angle-2-1280.webp",
+    "width": 1600,
+    "height": 1600,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/black/angle-2",
+    "kind": "packshot",
+    "sourceCell": "D11",
+    "sourceFile": "product-images/lucia-tote/black/02-angle.jpg",
+    "alt": "Lucia Tote — Đen — góc 2"
+  },
+  {
+    "product": "elena-tote",
+    "variant": "elena-tote-brown",
+    "src": "/images/catalog/elena-tote/brown/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/elena-tote/brown/front",
+    "kind": "lifestyle",
+    "sourceCell": "D12",
+    "sourceFile": "product-images/elena-tote/brown/01-front.jpg",
+    "alt": "Elena Tote — Nâu"
+  },
+  {
+    "product": "elena-tote",
+    "variant": "elena-tote-black",
+    "src": "/images/catalog/elena-tote/black/front-1280.webp",
+    "width": 2048,
+    "height": 2048,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/elena-tote/black/front",
+    "kind": "lifestyle",
+    "sourceCell": "D13",
+    "sourceFile": "product-images/elena-tote/black/01-front.jpg",
+    "alt": "Elena Tote — Đen"
+  },
+  {
+    "product": "lucky-charm",
+    "variant": "lucky-charm-brown",
+    "src": "/images/catalog/lucky-charm/brown/front-1280.webp",
+    "width": 1920,
+    "height": 1920,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucky-charm/brown/front",
+    "kind": "packshot",
+    "sourceCell": "D14",
+    "sourceFile": "product-images/lucky-charm/brown/01-front.jpg",
+    "alt": "Lucky charm — Nâu"
+  },
+  {
+    "product": "lucky-charm",
+    "variant": "lucky-charm-red",
+    "src": "/images/catalog/lucky-charm/red/front-1280.webp",
+    "width": 1920,
+    "height": 1920,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucky-charm/red/front",
+    "kind": "packshot",
+    "sourceCell": "D15",
+    "sourceFile": "product-images/lucky-charm/red/01-front.jpg",
+    "alt": "Lucky charm — Đỏ"
+  },
+  {
+    "product": "lucky-charm",
+    "variant": "lucky-charm-beige",
+    "src": "/images/catalog/lucky-charm/beige/front-1280.webp",
+    "width": 1920,
+    "height": 1920,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucky-charm/beige/front",
+    "kind": "packshot",
+    "sourceCell": "D16",
+    "sourceFile": "product-images/lucky-charm/beige/01-front.jpg",
+    "alt": "Lucky charm — Be"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-beige",
+    "src": "/images/catalog/mia-bag/beige/front-1280.webp",
+    "width": 1800,
+    "height": 1800,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/beige/front",
+    "kind": "packshot",
+    "sourceCell": "D17",
+    "sourceFile": "product-images/mia-bag/beige/01-front.jpg",
+    "alt": "Mia Bag — Be"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-brown",
+    "src": "/images/catalog/mia-bag/brown/front-1280.webp",
+    "width": 1800,
+    "height": 1800,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/brown/front",
+    "kind": "packshot",
+    "sourceCell": "D18",
+    "sourceFile": "product-images/mia-bag/brown/01-front.jpg",
+    "alt": "Mia Bag — Nâu"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-avocado",
+    "src": "/images/catalog/mia-bag/avocado/front-1280.webp",
+    "width": 1800,
+    "height": 1800,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/avocado/front",
+    "kind": "packshot",
+    "sourceCell": "D19",
+    "sourceFile": "product-images/mia-bag/avocado/01-front.jpg",
+    "alt": "Mia Bag — Xanh bơ"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-red",
+    "src": "/images/catalog/mia-bag/red/front-1280.webp",
+    "width": 1800,
+    "height": 1800,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/red/front",
+    "kind": "packshot",
+    "sourceCell": "D20",
+    "sourceFile": "product-images/mia-bag/red/01-front.jpg",
+    "alt": "Mia Bag — Đỏ"
+  },
+  {
+    "product": "calla-bag",
+    "variant": "calla-bag-moss",
+    "src": "/images/catalog/calla-bag/moss/front-800.webp",
+    "width": 800,
+    "height": 800,
+    "widths": [
+      320,
+      480,
+      640,
+      800
+    ],
+    "base": "/images/catalog/calla-bag/moss/front",
+    "kind": "packshot",
+    "sourceCell": "D21",
+    "sourceFile": "product-images/calla-bag/moss/01-front.jpg",
+    "alt": "Calla Bag — Xanh rêu"
+  },
+  {
+    "product": "calla-bag",
+    "variant": "calla-bag-brown",
+    "src": "/images/catalog/calla-bag/brown/front-800.webp",
+    "width": 800,
+    "height": 800,
+    "widths": [
+      320,
+      480,
+      640,
+      800
+    ],
+    "base": "/images/catalog/calla-bag/brown/front",
+    "kind": "packshot",
+    "sourceCell": "D22",
+    "sourceFile": "product-images/calla-bag/brown/01-front.jpg",
+    "alt": "Calla Bag — Nâu"
+  },
+  {
+    "product": "calla-bag",
+    "variant": "calla-bag-black",
+    "src": "/images/catalog/calla-bag/black/front-800.webp",
+    "width": 800,
+    "height": 800,
+    "widths": [
+      320,
+      480,
+      640,
+      800
+    ],
+    "base": "/images/catalog/calla-bag/black/front",
+    "kind": "packshot",
+    "sourceCell": "D23",
+    "sourceFile": "product-images/calla-bag/black/01-front.jpg",
+    "alt": "Calla Bag — Đen"
+  },
+  {
+    "product": "lily-charm",
+    "variant": "lily-charm-brown",
+    "src": "/images/catalog/lily-charm/brown/front-1280.webp",
+    "width": 1350,
+    "height": 1350,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lily-charm/brown/front",
+    "kind": "packshot",
+    "sourceCell": "D24",
+    "sourceFile": "product-images/lily-charm/brown/01-front.jpg",
+    "alt": "Lily Charm — Nâu"
+  },
+  {
+    "product": "lily-charm",
+    "variant": "lily-charm-red",
+    "src": "/images/catalog/lily-charm/red/front-1280.webp",
+    "width": 1350,
+    "height": 1350,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lily-charm/red/front",
+    "kind": "packshot",
+    "sourceCell": "D25",
+    "sourceFile": "product-images/lily-charm/red/01-front.jpg",
+    "alt": "Lily Charm — Đỏ"
+  },
+  {
+    "product": "lily-charm",
+    "variant": "lily-charm-beige",
+    "src": "/images/catalog/lily-charm/beige/front-1280.webp",
+    "width": 1350,
+    "height": 1350,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lily-charm/beige/front",
+    "kind": "packshot",
+    "sourceCell": "D26",
+    "sourceFile": "product-images/lily-charm/beige/01-front.jpg",
+    "alt": "Lily Charm — Be"
+  }
+]

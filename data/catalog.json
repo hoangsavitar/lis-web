@@ -1,0 +1,1173 @@
+[
+  {
+    "id": "mila-bag",
+    "slug": "mila-bag",
+    "title": "Mila",
+    "subtitle": "Nhỏ gọn. Ba cách mang.",
+    "description": "Bề mặt đan nhỏ, hai dây tháo rời và chân đế kim loại. Mila theo bạn từ bàn làm việc đến buổi cà phê cuối tuần.",
+    "collection": "The New Classic",
+    "dimensions": "19 × 12 × 12 cm",
+    "material": "Da PU",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "mila-bag-burgundy",
+        "name": "Đỏ đô",
+        "hex": "#702e38",
+        "image": "/images/catalog/mila-bag/burgundy/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mila-bag/burgundy/front-1280.webp",
+            "width": 1366,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mila-bag/burgundy/front",
+            "kind": "lifestyle",
+            "sourceCell": "D2",
+            "sourceFile": "product-images/mila-bag/burgundy/01-front.jpg",
+            "alt": "Mila — Đỏ đô"
+          }
+        ],
+        "sku": "LIS-TNC25-MILA -DO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 2
+      },
+      {
+        "id": "mila-bag-earth",
+        "name": "Nâu đất",
+        "hex": "#996345",
+        "image": "/images/catalog/mila-bag/earth/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mila-bag/earth/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mila-bag/earth/front",
+            "kind": "lifestyle",
+            "sourceCell": "D3",
+            "sourceFile": "product-images/mila-bag/earth/01-front.jpg",
+            "alt": "Mila — Nâu đất"
+          }
+        ],
+        "sku": "LIS-TNC25-MILA -NAU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 3
+      },
+      {
+        "id": "mila-bag-milk",
+        "name": "Be sữa",
+        "hex": "#d4c5a7",
+        "image": "/images/catalog/mila-bag/milk/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mila-bag/milk/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mila-bag/milk/front",
+            "kind": "lifestyle",
+            "sourceCell": "D4",
+            "sourceFile": "product-images/mila-bag/milk/01-front.jpg",
+            "alt": "Mila — Be sữa"
+          }
+        ],
+        "sku": "LIS-TNC25-MILA -BE",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 4
+      }
+    ],
+    "heroVariantId": "mila-bag-burgundy",
+    "sourceCell": "B2",
+    "details": [],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/mila-bag/burgundy/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/mila-bag/burgundy/front-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Đỏ đô",
+        "hex": "#702e38",
+        "image": "/images/catalog/mila-bag/burgundy/front-1280.webp"
+      },
+      {
+        "name": "Nâu đất",
+        "hex": "#996345",
+        "image": "/images/catalog/mila-bag/earth/front-1280.webp"
+      },
+      {
+        "name": "Be sữa",
+        "hex": "#d4c5a7",
+        "image": "/images/catalog/mila-bag/milk/front-1280.webp"
+      }
+    ],
+    "sku": "LIS-TNC25-MILA -DO"
+  },
+  {
+    "id": "nina-bag",
+    "slug": "nina-bag",
+    "title": "Nina",
+    "subtitle": "Đường cong của mỗi ngày.",
+    "description": "Phom hobo mềm mại cùng khóa nam châm. Đổi dây để chuyển giữa cầm tay, đeo vai và đeo chéo.",
+    "collection": "The New Classic",
+    "dimensions": "20.5 × 11.5 × 21.5 cm",
+    "material": "Da PU",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "nina-bag-burgundy",
+        "name": "Đỏ burgundy",
+        "hex": "#602630",
+        "image": "/images/catalog/nina-bag/burgundy/front-800.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/nina-bag/burgundy/front-800.webp",
+            "width": 800,
+            "height": 800,
+            "widths": [
+              320,
+              480,
+              640,
+              800
+            ],
+            "base": "/images/catalog/nina-bag/burgundy/front",
+            "kind": "packshot",
+            "sourceCell": "D5",
+            "sourceFile": "product-images/nina-bag/burgundy/01-front.jpg",
+            "alt": "Nina — Đỏ burgundy"
+          }
+        ],
+        "sku": "LIS-TNC25-NINA -DO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 5
+      },
+      {
+        "id": "nina-bag-chocolate",
+        "name": "Nâu Socola",
+        "hex": "#392d28",
+        "image": "/images/catalog/nina-bag/chocolate/front-800.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/nina-bag/chocolate/front-800.webp",
+            "width": 800,
+            "height": 800,
+            "widths": [
+              320,
+              480,
+              640,
+              800
+            ],
+            "base": "/images/catalog/nina-bag/chocolate/front",
+            "kind": "packshot",
+            "sourceCell": "D6",
+            "sourceFile": "product-images/nina-bag/chocolate/01-front.jpg",
+            "alt": "Nina — Nâu Socola"
+          }
+        ],
+        "sku": "LIS-TNC25-MILA -CHOCO",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 6
+      },
+      {
+        "id": "nina-bag-milk",
+        "name": "Be sữa",
+        "hex": "#d8cebc",
+        "image": "/images/catalog/nina-bag/milk/front-800.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/nina-bag/milk/front-800.webp",
+            "width": 800,
+            "height": 800,
+            "widths": [
+              320,
+              480,
+              640,
+              800
+            ],
+            "base": "/images/catalog/nina-bag/milk/front",
+            "kind": "packshot",
+            "sourceCell": "D7",
+            "sourceFile": "product-images/nina-bag/milk/01-front.jpg",
+            "alt": "Nina — Be sữa"
+          }
+        ],
+        "sku": "LIS-TNC25-NINA -TRANG",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 7
+      }
+    ],
+    "heroVariantId": "nina-bag-burgundy",
+    "sourceCell": "B5",
+    "details": [],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/nina-bag/burgundy/front-800.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/nina-bag/burgundy/front-800.webp"
+    ],
+    "colors": [
+      {
+        "name": "Đỏ burgundy",
+        "hex": "#602630",
+        "image": "/images/catalog/nina-bag/burgundy/front-800.webp"
+      },
+      {
+        "name": "Nâu Socola",
+        "hex": "#392d28",
+        "image": "/images/catalog/nina-bag/chocolate/front-800.webp"
+      },
+      {
+        "name": "Be sữa",
+        "hex": "#d8cebc",
+        "image": "/images/catalog/nina-bag/milk/front-800.webp"
+      }
+    ],
+    "sku": "LIS-TNC25-NINA -DO"
+  },
+  {
+    "id": "lucia-tote",
+    "slug": "lucia-tote",
+    "title": "Lucia Tote",
+    "subtitle": "Mang theo cả một ngày.",
+    "description": "Tote đan với lớp lót mềm và nhiều ngăn. Dành cho tài liệu, sổ tay và laptop mỏng 13–14 inch phù hợp kích thước.",
+    "collection": "The New Classic",
+    "dimensions": "38 × 11 × 28 cm",
+    "material": "Da PU",
+    "category": "tui-tote",
+    "variants": [
+      {
+        "id": "lucia-tote-chocolate",
+        "name": "Nâu Socola",
+        "hex": "#49312b",
+        "image": "/images/catalog/lucia-tote/chocolate/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucia-tote/chocolate/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucia-tote/chocolate/front",
+            "kind": "lifestyle",
+            "sourceCell": "D8",
+            "sourceFile": "product-images/lucia-tote/chocolate/01-front.jpg",
+            "alt": "Lucia Tote — Nâu Socola"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCIA-CHOCO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 8
+      },
+      {
+        "id": "lucia-tote-milk",
+        "name": "Be sữa",
+        "hex": "#d0b78e",
+        "image": "/images/catalog/lucia-tote/milk/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucia-tote/milk/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucia-tote/milk/front",
+            "kind": "lifestyle",
+            "sourceCell": "D9",
+            "sourceFile": "product-images/lucia-tote/milk/01-front.jpg",
+            "alt": "Lucia Tote — Be sữa"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCIA-BE",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 9
+      },
+      {
+        "id": "lucia-tote-earth",
+        "name": "Nâu đất",
+        "hex": "#a86745",
+        "image": "/images/catalog/lucia-tote/earth/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucia-tote/earth/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucia-tote/earth/front",
+            "kind": "lifestyle",
+            "sourceCell": "D10",
+            "sourceFile": "product-images/lucia-tote/earth/01-front.jpg",
+            "alt": "Lucia Tote — Nâu đất"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCIA-NAU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 10
+      },
+      {
+        "id": "lucia-tote-black",
+        "name": "Đen",
+        "hex": "#242322",
+        "image": "/images/catalog/lucia-tote/black/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucia-tote/black/front-1280.webp",
+            "width": 1600,
+            "height": 1600,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucia-tote/black/front",
+            "kind": "packshot",
+            "sourceCell": "D11",
+            "sourceFile": "product-images/lucia-tote/black/01-front.jpg",
+            "alt": "Lucia Tote — Đen"
+          },
+          {
+            "src": "/images/catalog/lucia-tote/black/angle-2-1280.webp",
+            "width": 1600,
+            "height": 1600,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucia-tote/black/angle-2",
+            "kind": "packshot",
+            "sourceCell": "D11",
+            "sourceFile": "product-images/lucia-tote/black/02-angle.jpg",
+            "alt": "Lucia Tote — Đen — góc 2"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCIA-DEN",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 11
+      }
+    ],
+    "heroVariantId": "lucia-tote-chocolate",
+    "sourceCell": "B8",
+    "details": [],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/lucia-tote/chocolate/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/lucia-tote/chocolate/front-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Nâu Socola",
+        "hex": "#49312b",
+        "image": "/images/catalog/lucia-tote/chocolate/front-1280.webp"
+      },
+      {
+        "name": "Be sữa",
+        "hex": "#d0b78e",
+        "image": "/images/catalog/lucia-tote/milk/front-1280.webp"
+      },
+      {
+        "name": "Nâu đất",
+        "hex": "#a86745",
+        "image": "/images/catalog/lucia-tote/earth/front-1280.webp"
+      },
+      {
+        "name": "Đen",
+        "hex": "#242322",
+        "image": "/images/catalog/lucia-tote/black/front-1280.webp"
+      }
+    ],
+    "sku": "LIS-TNC25-LUCIA-CHOCO"
+  },
+  {
+    "id": "elena-tote",
+    "slug": "elena-tote",
+    "title": "Elena Tote",
+    "subtitle": "Mềm mại, rộng rãi, có đôi.",
+    "description": "Đan bản lớn, phom rũ tự nhiên và một chiếc pouch rời đi kèm. Sắp xếp ngày dài theo cách của bạn.",
+    "collection": "The New Classic",
+    "dimensions": "32 × 12 × 26 cm",
+    "material": "Da PU",
+    "category": "tui-tote",
+    "variants": [
+      {
+        "id": "elena-tote-brown",
+        "name": "Nâu",
+        "hex": "#985b36",
+        "image": "/images/catalog/elena-tote/brown/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/elena-tote/brown/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/elena-tote/brown/front",
+            "kind": "lifestyle",
+            "sourceCell": "D12",
+            "sourceFile": "product-images/elena-tote/brown/01-front.jpg",
+            "alt": "Elena Tote — Nâu"
+          }
+        ],
+        "sku": "LIS-TNC25-ELENA-NAU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 12
+      },
+      {
+        "id": "elena-tote-black",
+        "name": "Đen",
+        "hex": "#22221f",
+        "image": "/images/catalog/elena-tote/black/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/elena-tote/black/front-1280.webp",
+            "width": 2048,
+            "height": 2048,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/elena-tote/black/front",
+            "kind": "lifestyle",
+            "sourceCell": "D13",
+            "sourceFile": "product-images/elena-tote/black/01-front.jpg",
+            "alt": "Elena Tote — Đen"
+          }
+        ],
+        "sku": "LIS-TNC25-ELENA-DEN",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 13
+      }
+    ],
+    "heroVariantId": "elena-tote-brown",
+    "sourceCell": "B12",
+    "details": [
+      "Kèm pouch rời"
+    ],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/elena-tote/brown/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/elena-tote/brown/front-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Nâu",
+        "hex": "#985b36",
+        "image": "/images/catalog/elena-tote/brown/front-1280.webp"
+      },
+      {
+        "name": "Đen",
+        "hex": "#22221f",
+        "image": "/images/catalog/elena-tote/black/front-1280.webp"
+      }
+    ],
+    "sku": "LIS-TNC25-ELENA-NAU"
+  },
+  {
+    "id": "lucky-charm",
+    "slug": "lucky-charm",
+    "title": "Lucky charm",
+    "subtitle": "Một chút may mắn, rất riêng.",
+    "description": "Dây treo đồng màu, đường viền nhỏ xinh. Một chi tiết để chiếc túi quen thuộc trở nên khác biệt.",
+    "collection": "The New Classic",
+    "dimensions": "6 cm",
+    "material": "Da PU",
+    "category": "phu-kien-charm",
+    "variants": [
+      {
+        "id": "lucky-charm-brown",
+        "name": "Nâu",
+        "hex": "#a16f43",
+        "image": "/images/catalog/lucky-charm/brown/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucky-charm/brown/front-1280.webp",
+            "width": 1920,
+            "height": 1920,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucky-charm/brown/front",
+            "kind": "packshot",
+            "sourceCell": "D14",
+            "sourceFile": "product-images/lucky-charm/brown/01-front.jpg",
+            "alt": "Lucky charm — Nâu"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCKYCHARM-NAU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 14
+      },
+      {
+        "id": "lucky-charm-red",
+        "name": "Đỏ",
+        "hex": "#a4464c",
+        "image": "/images/catalog/lucky-charm/red/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucky-charm/red/front-1280.webp",
+            "width": 1920,
+            "height": 1920,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucky-charm/red/front",
+            "kind": "packshot",
+            "sourceCell": "D15",
+            "sourceFile": "product-images/lucky-charm/red/01-front.jpg",
+            "alt": "Lucky charm — Đỏ"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCKYCHARM-DO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 15
+      },
+      {
+        "id": "lucky-charm-beige",
+        "name": "Be",
+        "hex": "#d8c7a3",
+        "image": "/images/catalog/lucky-charm/beige/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lucky-charm/beige/front-1280.webp",
+            "width": 1920,
+            "height": 1920,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lucky-charm/beige/front",
+            "kind": "packshot",
+            "sourceCell": "D16",
+            "sourceFile": "product-images/lucky-charm/beige/01-front.jpg",
+            "alt": "Lucky charm — Be"
+          }
+        ],
+        "sku": "LIS-TNC25-LUCKYCHARM-BE",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 16
+      }
+    ],
+    "heroVariantId": "lucky-charm-brown",
+    "sourceCell": "B14",
+    "details": [],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Charm & phụ kiện",
+    "mainImage": "/images/catalog/lucky-charm/brown/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/lucky-charm/brown/front-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Nâu",
+        "hex": "#a16f43",
+        "image": "/images/catalog/lucky-charm/brown/front-1280.webp"
+      },
+      {
+        "name": "Đỏ",
+        "hex": "#a4464c",
+        "image": "/images/catalog/lucky-charm/red/front-1280.webp"
+      },
+      {
+        "name": "Be",
+        "hex": "#d8c7a3",
+        "image": "/images/catalog/lucky-charm/beige/front-1280.webp"
+      }
+    ],
+    "sku": "LIS-TNC25-LUCKYCHARM-NAU"
+  },
+  {
+    "id": "mia-bag",
+    "slug": "mia-bag",
+    "title": "Mia Bag",
+    "subtitle": "Một chiếc túi. Nhiều nhịp sống.",
+    "description": "Khóa zip, hai ngăn phụ và dây đeo linh hoạt. Phom cong nhỏ gọn với bốn sắc màu để lựa chọn.",
+    "collection": "Urban Heartbeat",
+    "dimensions": "21 × 10 × 16 cm",
+    "material": "Da PU",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "mia-bag-beige",
+        "name": "Be",
+        "hex": "#dfd8bd",
+        "image": "/images/catalog/mia-bag/beige/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mia-bag/beige/front-1280.webp",
+            "width": 1800,
+            "height": 1800,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mia-bag/beige/front",
+            "kind": "packshot",
+            "sourceCell": "D17",
+            "sourceFile": "product-images/mia-bag/beige/01-front.jpg",
+            "alt": "Mia Bag — Be"
+          }
+        ],
+        "sku": "LIS-UH26-MIA-BE",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 17
+      },
+      {
+        "id": "mia-bag-brown",
+        "name": "Nâu",
+        "hex": "#483032",
+        "image": "/images/catalog/mia-bag/brown/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mia-bag/brown/front-1280.webp",
+            "width": 1800,
+            "height": 1800,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mia-bag/brown/front",
+            "kind": "packshot",
+            "sourceCell": "D18",
+            "sourceFile": "product-images/mia-bag/brown/01-front.jpg",
+            "alt": "Mia Bag — Nâu"
+          }
+        ],
+        "sku": "LIS-UH26-MIA-CHOCOLATE",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 18
+      },
+      {
+        "id": "mia-bag-avocado",
+        "name": "Xanh bơ",
+        "hex": "#9eac75",
+        "image": "/images/catalog/mia-bag/avocado/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mia-bag/avocado/front-1280.webp",
+            "width": 1800,
+            "height": 1800,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mia-bag/avocado/front",
+            "kind": "packshot",
+            "sourceCell": "D19",
+            "sourceFile": "product-images/mia-bag/avocado/01-front.jpg",
+            "alt": "Mia Bag — Xanh bơ"
+          }
+        ],
+        "sku": "LIS-UH26-MIA-XANHBO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 19
+      },
+      {
+        "id": "mia-bag-red",
+        "name": "Đỏ",
+        "hex": "#7b303c",
+        "image": "/images/catalog/mia-bag/red/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/mia-bag/red/front-1280.webp",
+            "width": 1800,
+            "height": 1800,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/mia-bag/red/front",
+            "kind": "packshot",
+            "sourceCell": "D20",
+            "sourceFile": "product-images/mia-bag/red/01-front.jpg",
+            "alt": "Mia Bag — Đỏ"
+          }
+        ],
+        "sku": "LIS-UH26-MIA-ĐO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 20
+      }
+    ],
+    "heroVariantId": "mia-bag-avocado",
+    "sourceCell": "B17",
+    "details": [],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/mia-bag/avocado/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/mia-bag/avocado/front-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Be",
+        "hex": "#dfd8bd",
+        "image": "/images/catalog/mia-bag/beige/front-1280.webp"
+      },
+      {
+        "name": "Nâu",
+        "hex": "#483032",
+        "image": "/images/catalog/mia-bag/brown/front-1280.webp"
+      },
+      {
+        "name": "Xanh bơ",
+        "hex": "#9eac75",
+        "image": "/images/catalog/mia-bag/avocado/front-1280.webp"
+      },
+      {
+        "name": "Đỏ",
+        "hex": "#7b303c",
+        "image": "/images/catalog/mia-bag/red/front-1280.webp"
+      }
+    ],
+    "sku": "LIS-UH26-MIA-BE"
+  },
+  {
+    "id": "calla-bag",
+    "slug": "calla-bag",
+    "title": "Calla Bag",
+    "subtitle": "Nét đan lớn. Dấu ấn riêng.",
+    "description": "Đan bản lớn phối bề mặt da PU và lớp chất liệu mềm. Túi dây rút bên trong, kèm charm hoa đồng màu.",
+    "collection": "Urban Heartbeat",
+    "dimensions": "26 × 6 × 26 cm",
+    "material": "Da PU",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "calla-bag-moss",
+        "name": "Xanh rêu",
+        "hex": "#464c35",
+        "image": "/images/catalog/calla-bag/moss/front-800.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/calla-bag/moss/front-800.webp",
+            "width": 800,
+            "height": 800,
+            "widths": [
+              320,
+              480,
+              640,
+              800
+            ],
+            "base": "/images/catalog/calla-bag/moss/front",
+            "kind": "packshot",
+            "sourceCell": "D21",
+            "sourceFile": "product-images/calla-bag/moss/01-front.jpg",
+            "alt": "Calla Bag — Xanh rêu"
+          }
+        ],
+        "sku": "LIS-UH26-CALLA-XANHREU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 21
+      },
+      {
+        "id": "calla-bag-brown",
+        "name": "Nâu",
+        "hex": "#423930",
+        "image": "/images/catalog/calla-bag/brown/front-800.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/calla-bag/brown/front-800.webp",
+            "width": 800,
+            "height": 800,
+            "widths": [
+              320,
+              480,
+              640,
+              800
+            ],
+            "base": "/images/catalog/calla-bag/brown/front",
+            "kind": "packshot",
+            "sourceCell": "D22",
+            "sourceFile": "product-images/calla-bag/brown/01-front.jpg",
+            "alt": "Calla Bag — Nâu"
+          }
+        ],
+        "sku": "LIS-UH26-CALLA-NAU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 22
+      },
+      {
+        "id": "calla-bag-black",
+        "name": "Đen",
+        "hex": "#202321",
+        "image": "/images/catalog/calla-bag/black/front-800.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/calla-bag/black/front-800.webp",
+            "width": 800,
+            "height": 800,
+            "widths": [
+              320,
+              480,
+              640,
+              800
+            ],
+            "base": "/images/catalog/calla-bag/black/front",
+            "kind": "packshot",
+            "sourceCell": "D23",
+            "sourceFile": "product-images/calla-bag/black/01-front.jpg",
+            "alt": "Calla Bag — Đen"
+          }
+        ],
+        "sku": "LIS-UH26-CALLA-DEN",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 23
+      }
+    ],
+    "heroVariantId": "calla-bag-moss",
+    "sourceCell": "B21",
+    "details": [
+      "Kèm charm hoa đồng màu",
+      "Túi dây rút và hai ngăn phụ bên trong"
+    ],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/calla-bag/moss/front-800.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/calla-bag/moss/front-800.webp"
+    ],
+    "colors": [
+      {
+        "name": "Xanh rêu",
+        "hex": "#464c35",
+        "image": "/images/catalog/calla-bag/moss/front-800.webp"
+      },
+      {
+        "name": "Nâu",
+        "hex": "#423930",
+        "image": "/images/catalog/calla-bag/brown/front-800.webp"
+      },
+      {
+        "name": "Đen",
+        "hex": "#202321",
+        "image": "/images/catalog/calla-bag/black/front-800.webp"
+      }
+    ],
+    "sku": "LIS-UH26-CALLA-XANHREU"
+  },
+  {
+    "id": "lily-charm",
+    "slug": "lily-charm",
+    "title": "Lily Charm",
+    "subtitle": "Một bông hoa cho ngày mới.",
+    "description": "Hoa năm cánh với khoen kim loại ánh vàng. Một điểm nhấn nhỏ cho túi xách hoặc chùm chìa khóa.",
+    "collection": "Urban Heartbeat",
+    "dimensions": "6 cm",
+    "material": "Da PU",
+    "category": "phu-kien-charm",
+    "variants": [
+      {
+        "id": "lily-charm-brown",
+        "name": "Nâu",
+        "hex": "#b67b50",
+        "image": "/images/catalog/lily-charm/brown/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lily-charm/brown/front-1280.webp",
+            "width": 1350,
+            "height": 1350,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lily-charm/brown/front",
+            "kind": "packshot",
+            "sourceCell": "D24",
+            "sourceFile": "product-images/lily-charm/brown/01-front.jpg",
+            "alt": "Lily Charm — Nâu"
+          }
+        ],
+        "sku": "LIS-UH26-LILYCHARM-NAU",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 24
+      },
+      {
+        "id": "lily-charm-red",
+        "name": "Đỏ",
+        "hex": "#ae3c42",
+        "image": "/images/catalog/lily-charm/red/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lily-charm/red/front-1280.webp",
+            "width": 1350,
+            "height": 1350,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lily-charm/red/front",
+            "kind": "packshot",
+            "sourceCell": "D25",
+            "sourceFile": "product-images/lily-charm/red/01-front.jpg",
+            "alt": "Lily Charm — Đỏ"
+          }
+        ],
+        "sku": "LIS-UH26-LILYCHARM-DO",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 25
+      },
+      {
+        "id": "lily-charm-beige",
+        "name": "Be",
+        "hex": "#d6c19b",
+        "image": "/images/catalog/lily-charm/beige/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lily-charm/beige/front-1280.webp",
+            "width": 1350,
+            "height": 1350,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lily-charm/beige/front",
+            "kind": "packshot",
+            "sourceCell": "D26",
+            "sourceFile": "product-images/lily-charm/beige/01-front.jpg",
+            "alt": "Lily Charm — Be"
+          }
+        ],
+        "sku": "LIS-UH26-LILYCHARM-BE",
+        "skuVerified": true,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 26
+      }
+    ],
+    "heroVariantId": "lily-charm-brown",
+    "sourceCell": "B24",
+    "details": [],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Charm & phụ kiện",
+    "mainImage": "/images/catalog/lily-charm/brown/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/lily-charm/brown/front-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Nâu",
+        "hex": "#b67b50",
+        "image": "/images/catalog/lily-charm/brown/front-1280.webp"
+      },
+      {
+        "name": "Đỏ",
+        "hex": "#ae3c42",
+        "image": "/images/catalog/lily-charm/red/front-1280.webp"
+      },
+      {
+        "name": "Be",
+        "hex": "#d6c19b",
+        "image": "/images/catalog/lily-charm/beige/front-1280.webp"
+      }
+    ],
+    "sku": "LIS-UH26-LILYCHARM-NAU"
+  }
+]
