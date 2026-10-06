@@ -1,0 +1,35 @@
+================================================================================
+   LIS ATELIER — HƯỚNG DẪN TẢI & CHỌN ẢNH CHO: 05_Lucky_Charm
+   LUCKY CHARM — PHỤ KIỆN CHARM CỎ 4 LÁ THỦ CÔNG (SKU: LIS-TNC25-LUCKYCHARM-NAU)
+================================================================================
+
+[1] CÁC ĐƯỜNG LINK GOOGLE DRIVE ĐỂ LẤY ẢNH:
+   1. Thư mục Charm Lily + Lucky (Nền trơn & hiển thị):
+      -> https://drive.google.com/drive/folders/1cLoGDZz-DaGnjznmsa074XmPqrsST6rx?usp=drive_link
+
+[2] DANH SÁCH CÁC TÊN FILE CẦN COPY VÀO THƯ MỤC NÀY:
+--------------------------------------------------------------------------------
+1. TÊN FILE: 01_anh_chinh_hien_thi.jpg
+   - Mô tả loại ảnh cần chọn: Charm cỏ 4 lá may nổi 3D chụp đứng thẳng trên nền sạch sẽ.
+   - Vị trí hiển thị trên Web: Ảnh đại diện chính trên thẻ sản phẩm.
+
+2. TÊN FILE: 02_anh_hover_treo_tui.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh charm cỏ 4 lá được móc thử vào quai túi xách thực tế.
+   - Vị trí hiển thị trên Web: Hiệu ứng lật ảnh khi rê chuột vào sản phẩm.
+
+3. TÊN FILE: mau_nau_da_bo.jpg
+   - Mô tả loại ảnh cần chọn: Charm cỏ 4 lá phiên bản màu Nâu Da Bò.
+   - Vị trí hiển thị trên Web: Hiển thị khi khách chọn chấm màu Nâu.
+
+4. TÊN FILE: mau_xanh_mint.jpg
+   - Mô tả loại ảnh cần chọn: Charm cỏ 4 lá phiên bản màu Xanh Mint.
+   - Vị trí hiển thị trên Web: Hiển thị khi khách chọn chấm màu Xanh Mint.
+
+5. TÊN FILE: mau_do_cherry.jpg
+   - Mô tả loại ảnh cần chọn: Charm cỏ 4 lá phiên bản màu Đỏ Rượu Cherry.
+   - Vị trí hiển thị trên Web: Hiển thị khi khách chọn chấm màu Đỏ.
+
+6. TÊN FILE: chi_tiet_khoen_khoa.jpg
+   - Mô tả loại ảnh cần chọn: Cận cảnh khoen xoay 360 độ mạ Champagne Satin và đường khâu 3D.
+   - Vị trí hiển thị trên Web: Gallery trang chi tiết.
+--------------------------------------------------------------------------------

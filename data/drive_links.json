@@ -1,0 +1,331 @@
+{
+  "excelFileName": "[LIS] Sản phẩm.xlsx",
+  "totalDriveLinksFound": 34,
+  "driveLinks": [
+    {
+      "rId": "rId20",
+      "cellRef": "E20",
+      "rowNum": 20,
+      "productName": "39",
+      "category": "Ảnh nền trơn",
+      "url": "https://drive.google.com/drive/folders/1h1R50efVbKHdh2noNcQNo6GMmadMcg1W?usp=sharing",
+      "type": "folder",
+      "fileId": "1h1R50efVbKHdh2noNcQNo6GMmadMcg1W",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1h1R50efVbKHdh2noNcQNo6GMmadMcg1W=w1600"
+    },
+    {
+      "rId": "rId22",
+      "cellRef": "E22",
+      "rowNum": 22,
+      "url": "https://drive.google.com/drive/folders/1CFxxQp0RBqpahaTng3Xk4Wql04KVhFN8?usp=drive_link",
+      "type": "folder",
+      "fileId": "1CFxxQp0RBqpahaTng3Xk4Wql04KVhFN8",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1CFxxQp0RBqpahaTng3Xk4Wql04KVhFN8=w1600"
+    },
+    {
+      "rId": "rId21",
+      "cellRef": "E21",
+      "rowNum": 21,
+      "url": "https://drive.google.com/drive/u/1/folders/1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd",
+      "type": "folder",
+      "fileId": "1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd=w1600"
+    },
+    {
+      "rId": "rId24",
+      "cellRef": "E24",
+      "rowNum": 24,
+      "url": "https://drive.google.com/drive/u/1/folders/1CEg_VUdfHBk7RABRsPsv-gJQt_uabztN",
+      "type": "folder",
+      "fileId": "1CEg_VUdfHBk7RABRsPsv-gJQt_uabztN",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1CEg_VUdfHBk7RABRsPsv-gJQt_uabztN=w1600"
+    },
+    {
+      "rId": "rId23",
+      "cellRef": "E23",
+      "rowNum": 23,
+      "url": "https://drive.google.com/file/d/14itlksDNgEcJ5yB799bJlIUnKk-XkzAO/view?usp=drive_link",
+      "type": "file",
+      "fileId": "14itlksDNgEcJ5yB799bJlIUnKk-XkzAO",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/14itlksDNgEcJ5yB799bJlIUnKk-XkzAO=w1600"
+    },
+    {
+      "rId": "rId1",
+      "cellRef": "E2",
+      "rowNum": 2,
+      "productName": "Mila Bag",
+      "category": "Ảnh hiển thị đầu tiên",
+      "url": "https://drive.google.com/file/d/1WJaBWAqaQbDJ0m_FAZLdzHxPsSrq8i_7/view?usp=drive_link",
+      "type": "file",
+      "fileId": "1WJaBWAqaQbDJ0m_FAZLdzHxPsSrq8i_7",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1WJaBWAqaQbDJ0m_FAZLdzHxPsSrq8i_7=w1600"
+    },
+    {
+      "rId": "rId2",
+      "cellRef": "H2",
+      "rowNum": 2,
+      "productName": "Mila Bag",
+      "category": "Ảnh hiển thị đầu tiên",
+      "url": "https://drive.google.com/drive/folders/16TRHOJ4J646QiHy6cxZVbmNBWABl9wNI?usp=sharing",
+      "type": "folder",
+      "fileId": "16TRHOJ4J646QiHy6cxZVbmNBWABl9wNI",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/16TRHOJ4J646QiHy6cxZVbmNBWABl9wNI=w1600"
+    },
+    {
+      "rId": "rId3",
+      "cellRef": "E3",
+      "rowNum": 3,
+      "url": "https://drive.google.com/drive/u/1/folders/1RISx4HHFPBZs5mjDy5hdh26Kp3gcG0fY",
+      "type": "folder",
+      "fileId": "1RISx4HHFPBZs5mjDy5hdh26Kp3gcG0fY",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1RISx4HHFPBZs5mjDy5hdh26Kp3gcG0fY=w1600"
+    },
+    {
+      "rId": "rId4",
+      "cellRef": "E4",
+      "rowNum": 4,
+      "url": "https://drive.google.com/drive/folders/1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL?usp=sharing",
+      "type": "folder",
+      "fileId": "1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL=w1600"
+    },
+    {
+      "rId": "rId9",
+      "cellRef": "E9",
+      "rowNum": 9,
+      "url": "https://drive.google.com/drive/u/1/folders/1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL",
+      "type": "folder",
+      "fileId": "1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL=w1600"
+    },
+    {
+      "rId": "rId26",
+      "cellRef": "E26",
+      "rowNum": 26,
+      "url": "https://drive.google.com/drive/u/1/folders/1U0XG9JQIVEfcEt3RtOx1vG0mOZoy5Wm0",
+      "type": "folder",
+      "fileId": "1U0XG9JQIVEfcEt3RtOx1vG0mOZoy5Wm0",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1U0XG9JQIVEfcEt3RtOx1vG0mOZoy5Wm0=w1600"
+    },
+    {
+      "rId": "rId25",
+      "cellRef": "E25",
+      "rowNum": 25,
+      "productName": "Mia Bag",
+      "category": "Ảnh nền trơn",
+      "url": "https://drive.google.com/drive/folders/18zOOtfNlnQiKl5mkWx_3W6TD_Z6YbQzU?usp=sharing",
+      "type": "folder",
+      "fileId": "18zOOtfNlnQiKl5mkWx_3W6TD_Z6YbQzU",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/18zOOtfNlnQiKl5mkWx_3W6TD_Z6YbQzU=w1600"
+    },
+    {
+      "rId": "rId28",
+      "cellRef": "E29",
+      "rowNum": 29,
+      "url": "https://drive.google.com/drive/u/1/folders/1UKFV3rr6YOtJTRCy7J1_bEw8Azjj8kjP",
+      "type": "folder",
+      "fileId": "1UKFV3rr6YOtJTRCy7J1_bEw8Azjj8kjP",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1UKFV3rr6YOtJTRCy7J1_bEw8Azjj8kjP=w1600"
+    },
+    {
+      "rId": "rId27",
+      "cellRef": "E27",
+      "rowNum": 27,
+      "url": "https://drive.google.com/file/d/1b1xdPHiaPuwsyCuQ8Yw-xNNdlDvz8W05/view?usp=drive_link",
+      "type": "file",
+      "fileId": "1b1xdPHiaPuwsyCuQ8Yw-xNNdlDvz8W05",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1b1xdPHiaPuwsyCuQ8Yw-xNNdlDvz8W05=w1600"
+    },
+    {
+      "rId": "rId5",
+      "cellRef": "E5",
+      "rowNum": 5,
+      "url": "https://drive.google.com/drive/folders/1JLlxeWx-I6qwKU61_lchXo8X0xaWz1qP?usp=drive_link",
+      "type": "folder",
+      "fileId": "1JLlxeWx-I6qwKU61_lchXo8X0xaWz1qP",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1JLlxeWx-I6qwKU61_lchXo8X0xaWz1qP=w1600"
+    },
+    {
+      "rId": "rId6",
+      "cellRef": "E6",
+      "rowNum": 6,
+      "url": "https://drive.google.com/drive/folders/15q-OWQVtdT4uSlYkE8oz3RBMsP7yjCyZ?usp=drive_link",
+      "type": "folder",
+      "fileId": "15q-OWQVtdT4uSlYkE8oz3RBMsP7yjCyZ",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/15q-OWQVtdT4uSlYkE8oz3RBMsP7yjCyZ=w1600"
+    },
+    {
+      "rId": "rId29",
+      "cellRef": "E30",
+      "rowNum": 30,
+      "productName": "75",
+      "category": "Ảnh nền trơn",
+      "url": "https://drive.google.com/drive/folders/1pMp9qnuCQTHGYeD5DSwV3vSL3vK72NVV?usp=sharing",
+      "type": "folder",
+      "fileId": "1pMp9qnuCQTHGYeD5DSwV3vSL3vK72NVV",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1pMp9qnuCQTHGYeD5DSwV3vSL3vK72NVV=w1600"
+    },
+    {
+      "rId": "rId7",
+      "cellRef": "E7",
+      "rowNum": 7,
+      "url": "https://drive.google.com/drive/folders/1AxXywCGuU-ZtexIJyUCwZspMQj1AHcrj?usp=drive_link",
+      "type": "folder",
+      "fileId": "1AxXywCGuU-ZtexIJyUCwZspMQj1AHcrj",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1AxXywCGuU-ZtexIJyUCwZspMQj1AHcrj=w1600"
+    },
+    {
+      "rId": "rId8",
+      "cellRef": "E8",
+      "rowNum": 8,
+      "productName": "54",
+      "category": "Ảnh nền trơn",
+      "url": "https://drive.google.com/drive/folders/1QZK-L9InPwcVXozD2-fgTRZZPyDhJ4ek?usp=sharing",
+      "type": "folder",
+      "fileId": "1QZK-L9InPwcVXozD2-fgTRZZPyDhJ4ek",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1QZK-L9InPwcVXozD2-fgTRZZPyDhJ4ek=w1600"
+    },
+    {
+      "rId": "rId31",
+      "cellRef": "E32",
+      "rowNum": 32,
+      "url": "https://drive.google.com/file/d/1k9ptyYuoZwykMG4VleWQJ7kJKiuuAW5S/view?usp=drive_link",
+      "type": "file",
+      "fileId": "1k9ptyYuoZwykMG4VleWQJ7kJKiuuAW5S",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1k9ptyYuoZwykMG4VleWQJ7kJKiuuAW5S=w1600"
+    },
+    {
+      "rId": "rId30",
+      "cellRef": "E31",
+      "rowNum": 31,
+      "url": "https://drive.google.com/drive/u/1/folders/1U0XG9JQIVEfcEt3RtOx1vG0mOZoy5Wm0",
+      "type": "folder",
+      "fileId": "1U0XG9JQIVEfcEt3RtOx1vG0mOZoy5Wm0",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1U0XG9JQIVEfcEt3RtOx1vG0mOZoy5Wm0=w1600"
+    },
+    {
+      "rId": "rId11",
+      "cellRef": "E11",
+      "rowNum": 11,
+      "url": "https://drive.google.com/drive/u/1/folders/1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd",
+      "type": "folder",
+      "fileId": "1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd=w1600"
+    },
+    {
+      "rId": "rId33",
+      "cellRef": "E34",
+      "rowNum": 34,
+      "url": "https://drive.google.com/drive/u/1/folders/1zQROMW5336fKkupxKvKIUSO2G2T4CmfC",
+      "type": "folder",
+      "fileId": "1zQROMW5336fKkupxKvKIUSO2G2T4CmfC",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1zQROMW5336fKkupxKvKIUSO2G2T4CmfC=w1600"
+    },
+    {
+      "rId": "rId10",
+      "cellRef": "E10",
+      "rowNum": 10,
+      "url": "https://drive.google.com/file/d/1l7KA8xnrGoaQ-msunrN8kcvYXRrKFV6T/view?usp=drive_link",
+      "type": "file",
+      "fileId": "1l7KA8xnrGoaQ-msunrN8kcvYXRrKFV6T",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1l7KA8xnrGoaQ-msunrN8kcvYXRrKFV6T=w1600"
+    },
+    {
+      "rId": "rId32",
+      "cellRef": "E33",
+      "rowNum": 33,
+      "url": "https://drive.google.com/drive/folders/18FPkuQWyCUnBJxmFLhhFrgKyuOVgoIa8?usp=drive_link",
+      "type": "folder",
+      "fileId": "18FPkuQWyCUnBJxmFLhhFrgKyuOVgoIa8",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/18FPkuQWyCUnBJxmFLhhFrgKyuOVgoIa8=w1600"
+    },
+    {
+      "rId": "rId13",
+      "cellRef": "E13",
+      "rowNum": 13,
+      "url": "https://drive.google.com/drive/u/1/folders/1CpA2DAISVxzp2jNz2kIMuWXeW6ZicR-P",
+      "type": "folder",
+      "fileId": "1CpA2DAISVxzp2jNz2kIMuWXeW6ZicR-P",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1CpA2DAISVxzp2jNz2kIMuWXeW6ZicR-P=w1600"
+    },
+    {
+      "rId": "rId12",
+      "cellRef": "E12",
+      "rowNum": 12,
+      "url": "https://drive.google.com/drive/folders/1M4pIURiuku0Bag2qQHFtA3SL52QuFpld?usp=drive_link",
+      "type": "folder",
+      "fileId": "1M4pIURiuku0Bag2qQHFtA3SL52QuFpld",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1M4pIURiuku0Bag2qQHFtA3SL52QuFpld=w1600"
+    },
+    {
+      "rId": "rId34",
+      "cellRef": "E35",
+      "rowNum": 35,
+      "productName": "101",
+      "url": "https://drive.google.com/drive/folders/1cLoGDZz-DaGnjznmsa074XmPqrsST6rx?usp=drive_link",
+      "type": "folder",
+      "fileId": "1cLoGDZz-DaGnjznmsa074XmPqrsST6rx",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1cLoGDZz-DaGnjznmsa074XmPqrsST6rx=w1600"
+    },
+    {
+      "rId": "rId15",
+      "cellRef": "E15",
+      "rowNum": 15,
+      "url": "https://drive.google.com/drive/u/1/folders/1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL",
+      "type": "folder",
+      "fileId": "1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1D5nqNrGeJLqo7JsrFJZ2aWQKQtItqypL=w1600"
+    },
+    {
+      "rId": "rId14",
+      "cellRef": "E14",
+      "rowNum": 14,
+      "productName": "50",
+      "category": "Ảnh nền trơn",
+      "url": "https://drive.google.com/drive/folders/1aru6ZwiX0CNAi64Y85yqHN29X7oWP9GF?usp=sharing",
+      "type": "folder",
+      "fileId": "1aru6ZwiX0CNAi64Y85yqHN29X7oWP9GF",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1aru6ZwiX0CNAi64Y85yqHN29X7oWP9GF=w1600"
+    },
+    {
+      "rId": "rId17",
+      "cellRef": "E17",
+      "rowNum": 17,
+      "url": "https://drive.google.com/drive/folders/11v8mipp3ptb-Mc5GtoxVKF7J0d0ciklt?usp=drive_link",
+      "type": "folder",
+      "fileId": "11v8mipp3ptb-Mc5GtoxVKF7J0d0ciklt",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/11v8mipp3ptb-Mc5GtoxVKF7J0d0ciklt=w1600"
+    },
+    {
+      "rId": "rId16",
+      "cellRef": "E16",
+      "rowNum": 16,
+      "url": "https://drive.google.com/file/d/1_1ocO-WRE34I4WEN6wanrNoFqq8xjwbI/view?usp=drive_link",
+      "type": "file",
+      "fileId": "1_1ocO-WRE34I4WEN6wanrNoFqq8xjwbI",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1_1ocO-WRE34I4WEN6wanrNoFqq8xjwbI=w1600"
+    },
+    {
+      "rId": "rId19",
+      "cellRef": "E19",
+      "rowNum": 19,
+      "url": "https://drive.google.com/drive/folders/1O3MXgmYqdLPF2NMbad0A1dtDwLxi8767?usp=sharing",
+      "type": "folder",
+      "fileId": "1O3MXgmYqdLPF2NMbad0A1dtDwLxi8767",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1O3MXgmYqdLPF2NMbad0A1dtDwLxi8767=w1600"
+    },
+    {
+      "rId": "rId18",
+      "cellRef": "E18",
+      "rowNum": 18,
+      "url": "https://drive.google.com/drive/folders/1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd?usp=sharing",
+      "type": "folder",
+      "fileId": "1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd",
+      "directThumbnail": "https://lh3.googleusercontent.com/d/1pY5OmlG5N8dwTKJjq7CnTIkDxvN4SMNd=w1600"
+    }
+  ],
+  "embeddedMediaExtracted": 35,
+  "productsCreated": 7,
+  "sheet1RowsCount": 26,
+  "sheet2RowsCount": 35
+}

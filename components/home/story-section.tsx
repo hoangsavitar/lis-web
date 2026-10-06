@@ -14,7 +14,7 @@ export function StorySection() {
           <div className="lg:col-span-6 relative">
             <div className="relative aspect-[4/5] w-full bg-[#E7E5E4] rounded-2xl overflow-hidden border border-black/5 shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85"
+                src="/images/story/artisan_craft.jpg"
                 alt="Artisan Crafting LIS Bag"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

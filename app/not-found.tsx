@@ -1,2 +1,4 @@
 import Link from "next/link";
-export default function NotFound(){return <div className="empty-state"><span className="eyebrow">LIS / 404</span><h1>Thiết kế chưa được tìm thấy.</h1><p>Khám phá những mẫu đang có trong bộ sưu tập.</p><Link className="button" href="/collections/all">Xem bộ sưu tập ↗</Link></div>}
+export default function NotFound(){
+ return <div className="not-found empty-state"><h1>Không tìm thấy trang này</h1><p>Liên kết có thể đã thay đổi. Bạn xem lại các sản phẩm LIS nhé.</p><Link className="button" href="/collections/all">Xem sản phẩm</Link></div>;
+}

@@ -44,6 +44,12 @@ Mở `http://localhost:3000`. Kiểm tra bản production bằng `npm run build`
 | `planning/source-audit/` | Đối chiếu dữ liệu và manifest ảnh |
 | `planning/11-product-showcase-plan.md` | Kế hoạch và ghi nhận triển khai |
 
-Stack: Next.js 15, React 19, Tailwind CSS 4, Zustand, Sharp. Giao diện dùng Plus Jakarta Sans và Cormorant Garamond, chuyển ảnh sau khi decode, gallery scroll-snap, drawer có quản lý focus và hỗ trợ giảm chuyển động.
+Stack: Next.js 15, React 19, Tailwind CSS 4, Zustand, Sharp. Giao diện dùng Manrope cho tiêu đề và Be Vietnam Pro cho nội dung, chuyển ảnh sau khi decode, gallery scroll-snap, drawer có quản lý focus và hỗ trợ giảm chuyển động.
 
 Dữ liệu không có giá/tồn kho xác nhận. Chất liệu ghi theo nguồn là PU; không hiển thị giá giả, đánh giá giả hay cam kết da thật. SKU Nina Nâu Socola cần xác nhận nên được ẩn. Bản build local đã kiểm tra; chưa có báo cáo hiệu năng trên Cloudflare production.
+
+## Giao diện cửa hàng (06/10/2026)
+
+Trang chủ có hero Mia gọn, bộ lọc và lưới đủ 8 mẫu. Menu gồm Sản phẩm, Túi xách, Tote, Charm, Về LIS; dưới 1024px mở drawer. Mọi nút Liên hệ giá mở Facebook LIS trong tab mới. Sao chép nội dung tư vấn là thao tác riêng.
+
+Logo gốc: brand-assets/lis/originals/. PNG web: public/brand/lis/. Tạo lại bằng node scripts/build-brand-assets.mjs. Cấu hình Facebook, menu và logo: data/site.ts. Hệ thống thiết kế hiện hành: design-system/lis/MASTER.md. Ghi nhận triển khai: planning/12-shop-redesign.md.

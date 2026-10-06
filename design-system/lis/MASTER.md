@@ -1,75 +1,54 @@
-# LIS Brand — Master Design System (Source of Truth)
+# LIS — Hệ thống giao diện cửa hàng
 
-> Generated using UI/UX Pro Max intelligence (`.agents/skills/ui-ux-pro-max`)
-> Target Archetype: **Contemporary Chic & Youthful Luxury (Trẻ trung, Mịn màng, Xịn xò)**
-> Benchmarks: **Jacquemus, Stand Oil, By Far, Coperni, Gentle Monster, Polène Paris (Modern Look)**
+Cập nhật 06/10/2026 theo kế hoạch đã được duyệt. Tài liệu này thay thế các quyết định font, màu, bố cục và tương tác cũ trong các bản kế hoạch trước.
 
----
+## Font và cỡ chữ
 
-## 1. Triết Lý Thiết Kế & Định Vị Mới
+Tiêu đề dùng Manrope 600. Nội dung, menu và nút dùng Be Vietnam Pro 400/500/600. Cả hai tải qua next/font, có subset tiếng Việt; không dùng tiêu đề nghiêng.
 
-* **Phong cách chủ đạo**: `Contemporary Chic + Soft Luxury + Modern Editorial`
-* **Cảm xúc mang lại**:
-  - Trẻ trung, phóng khoáng, thời thượng, mịn màng và tràn đầy năng lượng Gen Z / Modern Millennial.
-  - Loại bỏ hoàn toàn sự già cỗi, nặng nề, khuôn mẫu của font chữ cổ điển rập khuôn hay giao diện AI cứng nhắc.
-* **Quy tắc Hình khối & Không gian**:
-  - Bo góc mềm mại, sang xịn: `rounded-2xl` (16px) cho khung ảnh, `rounded-xl` (12px) cho card, `rounded-full` cho tags và nút bấm.
-  - Hiệu ứng kính mờ trong suốt: `backdrop-blur-xl bg-white/80` tạo chiều sâu thanh thoát.
-  - Khoảng thở thoáng đãng, padding rộng rãi, không bị nhồi nhét.
+| Thành phần | Desktop | Mobile |
+|---|---:|---:|
+| Nội dung | 18px | 16px |
+| Menu và nút | 16px | 16px |
+| Thông tin phụ | 14px trở lên | 14px trở lên |
+| Hero | 64px | 40px |
+| Tiêu đề mục | 36px | 28px |
+| Tên trên card | 22px | 18px |
 
----
+Line-height tiêu đề 1.25–1.4, nội dung 1.65–1.75 để đủ chỗ cho dấu tiếng Việt. Không dùng nhãn tiếng Anh viết hoa làm điểm nhấn.
 
-## 2. Bảng Màu "Mịn — Xịn — Sang" (Color System)
+## Màu và logo
 
-```css
-:root {
-  /* Canvas & Nền (Sữa yến mạch & Ngọc trai) */
-  --bg-canvas: #F8F6F0;           /* Oat Milk: Dịu mắt, mịn màng, cao cấp */
-  --bg-surface: #FFFFFF;          /* Pure White: Thẻ sản phẩm, drawer, modal */
-  --bg-subtle: #F0EDE4;           /* Warm Sand: Khối editorial, review */
-  --bg-dark: #121110;             /* Đen nhung sâu cho footer */
+- Nền kem #F8F6F1, mặt trắng #FFFFFF, chữ #222220.
+- Chữ phụ #62625C; viền #DEDED6.
+- Đỏ thương hiệu #630D1A lấy từ logo được cung cấp.
+- Footer #242622, chữ trắng và xám sáng.
+- Focus bàn phím #46535A, trên footer dùng màu sáng.
 
-  /* Text & Typography (Mềm mại, không bị đen gắt) */
-  --text-main: #18181B;           /* Deep Espresso / Zinc 900: Sắc sảo, hiện đại */
-  --text-body: #52525B;           /* Zinc 600: Thân thiện, dễ đọc */
-  --text-muted: #A1A1AA;          /* Zinc 400: Nhãn phụ, placeholder */
+Logo gốc giữ trong brand-assets/lis/originals/. Bản PNG web rộng 512 và 1024px giữ alpha, nằm trong public/brand/lis/. Header dùng đỏ, drawer đen, footer trắng. Không vẽ lại logo bằng font. Cấu hình đường dẫn nằm trong data/site.ts.
 
-  /* Điểm chạm Màu sắc Trẻ trung (Chic Accents) */
-  --accent-rose: #9A2C46;         /* Đỏ cherry chín / Muted Berry sang trọng */
-  --accent-gold: #C5A880;         /* Vàng Champagne satin mịn màng */
-  --accent-butter: #F4EBD9;       /* Vàng bơ mềm mại thời thượng */
-  --accent-green: #486954;        /* Xanh rêu sage hiện đại */
-  --accent-tag: #18181B;          /* Tag đen pill chic */
+## Bố cục
 
-  /* Đường viền Mịn (Hairline & Soft Ring) */
-  --border-subtle: rgba(24, 24, 27, 0.07);
-  --border-active: #18181B;
+Header desktop cao tối thiểu 80px với 5 mục: Sản phẩm, Túi xách, Tote, Charm, Về LIS. Có tìm kiếm, danh sách lưu và tư vấn Facebook. Dưới 1024px dùng menu drawer và các nút biểu tượng 44px.
 
-  /* Bóng đổ Êm ái (Soft Ambient Blur) */
-  --shadow-chic: 0 10px 30px -10px rgba(0, 0, 0, 0.05);
-  --shadow-hover: 0 20px 40px -15px rgba(0, 0, 0, 0.08);
-}
-```
+Trang chủ: Mia Bag → lọc danh mục/màu và lưới 8 sản phẩm → 3 lối chọn theo nhu cầu → footer. Hero không dùng chiều cao viewport. Lưới 4 cột từ 1200px, 3 cột từ 768px, 2 cột từ 360px, 1 cột khi nhỏ hơn 360px.
 
----
+Footer có logo trắng, giới thiệu ngắn, liên kết thật và 3 FAQ dùng details/summary. Không có giá, freeship, đánh giá hay chính sách giả.
 
-## 3. Hệ Thống Typography Mới (Loại Bỏ Font AI Cứng Nhắc)
+## Tương tác
 
-| Vai trò | Font Family | Tùy chọn kiểu | Điểm nhấn thiết kế |
-|---|---|---|---|
-| **Tiêu đề Chính & Giao diện (Primary UI & Headings)** | **`Plus Jakarta Sans`** | 500 Medium / 600 SemiBold / 700 Bold | Đường cong hình học mềm mại, tròn trịa, mịn màng, hiện đại, hỗ trợ 100% tiếng Việt hoàn hảo. |
-| **Điểm nhấn Nghệ thuật (Editorial Accents)** | **`Cormorant Garamond`** | Italic (Nghiêng nhẹ) | Thơ mộng như tạp chí thời trang Paris (dùng cho các từ khóa nhấn như *Collection*, *Atelier*, *New Muse*). |
-| **Giá cả & Metadata (Numbers & Tech)** | **`Space Grotesk`** | 500 Medium / 600 SemiBold | Hiện đại, sắc nét, mang hơi thở thời trang công nghệ tương lai. |
+- Ảnh và tên card mở đúng sản phẩm cùng tham số variant. Nút lưu luôn hiện.
+- Chấm màu có vùng bấm 44px, màu đang chọn có vòng đen. Hover nền xám nhẹ; chỉ click đổi ảnh. Focus bàn phím có vòng riêng.
+- Ảnh mới chỉ xuất hiện sau khi decode; ảnh cũ còn hiện trong lúc tải.
+- Tìm kiếm theo tên hoặc màu, không phân biệt chữ hoa/dấu. Kết quả màu mở đúng variant.
+- Liên hệ giá và Nhắn LIS trên Facebook mở URL trong data/site.ts ở tab mới.
+- Sao chép tư vấn là thao tác riêng. Website không tự gửi tin.
+- Danh sách lưu dùng schema localStorage lis_luxury_cart version 2 hiện có.
+- Dialog native quản lý focus, Escape và khóa cuộn nền.
+- Chuyển động nhẹ 160–250ms, bỏ chuyển động khi prefers-reduced-motion.
 
----
+## Nội dung và dữ liệu
 
-## 4. Quy Tắc Micro-Interactions (60-120 FPS)
+Viết ngắn, cụ thể, thân thiện. Mô tả nguồn được cập nhật trong catalog và scripts/build-catalog.py. Giữ 8 mẫu/25 màu, kích thước, PU và phụ kiện theo nguồn. SKU Nina Nâu Socola chưa xác nhận vẫn ẩn. Không khẳng định sức chứa laptop Elena khi dữ liệu còn mâu thuẫn.
 
-1. **Thẻ Sản Phẩm**:
-   - Khung bo tròn nhẹ `rounded-2xl` mềm mại.
-   - Khi hover: Ảnh chính chuyển sang ảnh lifestyle mượt mà trong 350ms (`scale: 1.03`), bóng đổ khuếch tán nhẹ nhàng, hiện thanh nút "Bỏ Túi Ngay" bo tròn viên thuốc (`rounded-full`).
-2. **Chấm màu Swatch**:
-   - Chấm tròn 16px viền mềm, khi active có vòng ring kép tinh xảo.
-3. **Mini-Cart Drawer**:
-   - Kính mờ trong trẻo `backdrop-blur-xl bg-white/90`.
-   - Thanh tiến trình Freeship lấp lánh nhẹ nhàng, nút tăng giảm bo tròn êm tay.
+Giá và tồn kho chưa được xác nhận. Nút Facebook phục vụ hỏi giá; lưu mẫu chưa tạo đơn hàng. Không thêm backend hoặc checkout.

@@ -1,0 +1,150 @@
+import { NextResponse } from "next/server";
+import fs from "node:fs";
+import path from "node:path";
+import zlib from "node:zlib";
+
+function parseZip(buffer: Buffer) {
+  const files: Record<string, Buffer> = {};
+  let offset = 0;
+
+  while (offset < buffer.length - 4) {
+    const sig = buffer.readUInt32LE(offset);
+    if (sig === 0x04034b50) {
+      // Local file header
+      const compressionMethod = buffer.readUInt16LE(offset + 8);
+      const compressedSize = buffer.readUInt32LE(offset + 18);
+      const uncompressedSize = buffer.readUInt32LE(offset + 22);
+      const fileNameLen = buffer.readUInt16LE(offset + 26);
+      const extraFieldLen = buffer.readUInt16LE(offset + 28);
+
+      const fileName = buffer.toString("utf8", offset + 30, offset + 30 + fileNameLen);
+      const dataStart = offset + 30 + fileNameLen + extraFieldLen;
+      const compressedData = buffer.subarray(dataStart, dataStart + compressedSize);
+
+      let fileData: Buffer;
+      if (compressionMethod === 0) {
+        fileData = compressedData;
+      } else if (compressionMethod === 8) {
+        try {
+          fileData = zlib.inflateRawSync(compressedData);
+        } catch {
+          fileData = Buffer.from("");
+        }
+      } else {
+        fileData = Buffer.from("");
+      }
+
+      files[fileName] = fileData;
+      offset = dataStart + compressedSize;
+    } else if (sig === 0x02014b50) {
+      // Central directory header - we can break or skip
+      break;
+    } else {
+      offset++;
+    }
+  }
+
+  return files;
+}
+
+function parseSharedStrings(xml: string): string[] {
+  const strings: string[] = [];
+  // Match each <si>...</si>
+  const siRegex = /<si>([\s\S]*?)<\/si>/g;
+  let match;
+  while ((match = siRegex.exec(xml)) !== null) {
+    const siContent = match[1];
+    // Find all <t...>text</t> inside <si>
+    const tRegex = /<t(?:[^>]*)>([\s\S]*?)<\/t>/g;
+    let tMatch;
+    let text = "";
+    while ((tMatch = tRegex.exec(siContent)) !== null) {
+      text += tMatch[1];
+    }
+    // Replace XML entities
+    text = text
+      .replace(/&amp;/g, "&")
+      .replace(/&lt;/g, "<")
+      .replace(/&gt;/g, ">")
+      .replace(/&quot;/g, '"')
+      .replace(/&apos;/g, "'");
+    strings.push(text);
+  }
+  return strings;
+}
+
+function parseSheetXml(xml: string, sharedStrings: string[]) {
+  const rows: Record<string, string>[] = [];
+  const rowRegex = /<row[^>]*>([\s\S]*?)<\/row>/g;
+  let rowMatch;
+
+  while ((rowMatch = rowRegex.exec(xml)) !== null) {
+    const rowContent = rowMatch[1];
+    const cellRegex = /<c\s+r="([A-Z]+)[0-9]+"([^>]*)>([\s\S]*?)<\/c>/g;
+    let cellMatch;
+    const rowData: Record<string, string> = {};
+
+    while ((cellMatch = cellRegex.exec(rowContent)) !== null) {
+      const col = cellMatch[1];
+      const attrs = cellMatch[2];
+      const cellInner = cellMatch[3];
+      const isString = attrs.includes('t="s"');
+      const isInlineStr = attrs.includes('t="inlineStr"');
+
+      let val = "";
+      if (isString) {
+        const vMatch = /<v>([0-9]+)<\/v>/.exec(cellInner);
+        if (vMatch) {
+          const idx = parseInt(vMatch[1], 10);
+          val = sharedStrings[idx] || "";
+        }
+      } else if (isInlineStr) {
+        const tMatch = /<t>([\s\S]*?)<\/t>/.exec(cellInner);
+        if (tMatch) val = tMatch[1];
+      } else {
+        const vMatch = /<v>([\s\S]*?)<\/v>/.exec(cellInner);
+        if (vMatch) val = vMatch[1];
+      }
+      rowData[col] = val;
+    }
+
+    if (Object.keys(rowData).length > 0) {
+      rows.push(rowData);
+    }
+  }
+
+  return rows;
+}
+
+export async function GET() {
+  try {
+    const filePath = path.join(process.cwd(), "[LIS] Sản phẩm.xlsx");
+    if (!fs.existsSync(filePath)) {
+      return NextResponse.json({ error: "File not found: " + filePath }, { status: 404 });
+    }
+
+    const fileBuffer = fs.readFileSync(filePath);
+    const files = parseZip(fileBuffer);
+    const fileNames = Object.keys(files);
+
+    const sharedStringsXml = files["xl/sharedStrings.xml"]?.toString("utf8") || "";
+    const sharedStrings = parseSharedStrings(sharedStringsXml);
+
+    const sheets: Record<string, Record<string, string>[]> = {};
+    for (const name of fileNames) {
+      if (name.startsWith("xl/worksheets/") && name.endsWith(".xml")) {
+        const sheetXml = files[name].toString("utf8");
+        sheets[name] = parseSheetXml(sheetXml, sharedStrings);
+      }
+    }
+
+    return NextResponse.json({
+      fileNames,
+      sharedStringsCount: sharedStrings.length,
+      sheets,
+    });
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : String(err);
+    return NextResponse.json({ error: message }, { status: 500 });
+  }
+}

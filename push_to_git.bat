@@ -1,36 +1,30 @@
 @echo off
 chcp 65001 > nul
 echo ========================================================
-echo   Đang khởi tạo và đẩy mã nguồn lên GitHub:
+echo   Đang chuẩn bị đẩy mã nguồn lên GitHub:
 echo   https://github.com/hoangsavitar/lis-web.git
 echo ========================================================
 
-if not exist .git (
-    echo [1/5] Khởi tạo git repository...
-    git init
-) else (
-    echo [1/5] Git repository đã tồn tại.
-)
+echo [1/4] Kiểm tra trạng thái Git...
+git status --short
 
-echo [2/5] Đang thêm toàn bộ tệp tin...
+echo.
+echo [2/4] Đang thêm toàn bộ tệp tin thay đổi (git add .)...
 git add .
 
-echo [3/5] Đang tạo commit...
-git commit -m "feat: hoàn thiện giao diện Contemporary Chic & Youthful Luxury, Mini-Cart Drawer và tối ưu typography"
+echo.
+echo [3/4] Đang tạo commit...
+git commit -m "feat: cập nhật giao diện shop LIS, brand assets, catalog sản phẩm và bộ công cụ ảnh Drive"
 
-echo [4/5] Thiết lập nhánh main và remote...
-git branch -M main
-git remote remove origin 2>nul
-git remote add origin https://github.com/hoangsavitar/lis-web.git
-
-echo [5/5] Đang đẩy lên GitHub...
-git push -u origin main
+echo.
+echo [4/4] Đang đẩy lên GitHub (git push origin main)...
+git push origin main
 
 if %errorlevel% neq 0 (
     echo.
-    echo [LƯU Ý] Nếu repo trên GitHub đã có sẵn README/LICENSE, hãy chạy lệnh sau:
+    echo [LƯU Ý] Nếu gặp lỗi xung đột hoặc branch chưa đồng bộ, hãy thử:
     echo git pull origin main --rebase
-    echo git push -u origin main
+    echo git push origin main
 ) else (
     echo.
     echo ========================================================

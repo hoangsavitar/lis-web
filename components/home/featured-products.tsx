@@ -20,6 +20,7 @@ const TABS: { label: string; value: TabFilter }[] = [
 export function FeaturedProducts() {
   const [activeTab, setActiveTab] = useState<TabFilter>("all");
 
+  // Dữ liệu sản phẩm LIS trích xuất từ Excel (Mila, Nina, Lucia, Elena, Mia, Calla, Charms)
   const filteredProducts =
     activeTab === "all"
       ? PRODUCTS

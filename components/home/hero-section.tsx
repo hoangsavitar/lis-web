@@ -11,7 +11,7 @@ export function HeroSection() {
       {/* Background Image with warm luxury gradient overlay */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=2000&q=85"
+          src="/images/hero/hero_editorial.jpg"
           alt="LIS Atelier Leather Collection"
           fill
           priority

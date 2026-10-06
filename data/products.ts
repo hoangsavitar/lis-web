@@ -11,8 +11,8 @@ export const PRODUCTS = catalog as Product[];
 export const getDefaultVariant = (p: Product) => p.variants.find(v => v.id === p.heroVariantId) || p.variants[0];
 export const productUrl = (p: Product, v = getDefaultVariant(p)) => `/products/${p.slug}?variant=${v.id}`;
 export const CATEGORIES = [
- {id:'bags',slug:'tui-xach-tay',name:'Túi xách',description:'Những thiết kế cho mỗi ngày.',image:PRODUCTS[5].mainImage,itemCount:4},
- {id:'totes',slug:'tui-tote',name:'Tote',description:'Mang theo cả một ngày.',image:PRODUCTS[2].mainImage,itemCount:2},
- {id:'charms',slug:'phu-kien-charm',name:'Charm',description:'Một chi tiết rất riêng.',image:PRODUCTS[7].mainImage,itemCount:2},
+ {id:'bags',slug:'tui-xach-tay',name:'Túi xách',description:'Túi nhỏ gọn để cầm tay, đeo vai hoặc đeo chéo.',image:PRODUCTS[5].mainImage,itemCount:4},
+ {id:'totes',slug:'tui-tote',name:'Tote',description:'Túi tote đan thanh lịch cho ngày đi làm, đi học và những món đồ cần mang theo.',image:PRODUCTS[2].mainImage,itemCount:2},
+ {id:'charms',slug:'phu-kien-charm',name:'Charm',description:'Charm cỏ bốn lá và hoa năm cánh để điểm xuyết cho chiếc túi.',image:PRODUCTS[7].mainImage,itemCount:2},
 ];
-export const LOOKBOOK_STORIES = [{id:'collection',title:'The New Classic',date:'',image:PRODUCTS[0].mainImage,readTime:'Khám phá bộ sưu tập',link:'/collections/all'}];
+export const LOOKBOOK_STORIES = [{id:'collection',title:'Túi xách & charm',date:'',image:PRODUCTS[0].mainImage,readTime:'Xem sản phẩm',link:'/collections/all'}];

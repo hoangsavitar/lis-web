@@ -14,7 +14,7 @@ export function VariantImage({ asset, sizes="(max-width: 700px) 100vw, 50vw", pr
  {/* Pre-sized, pre-encoded responsive images bypass runtime image transformation. */}
  {/* eslint-disable-next-line @next/next/no-img-element */}
  {enabled&&<img key={shown.src+retry} src={shown.src+(retry?`?retry=${retry}`:"")} srcSet={shown.widths.map(w=>`${shown.base}-${w}.webp${retry?`?retry=${retry}`:""} ${w}w`).join(", ")} sizes={sizes} width={shown.width} height={shown.height} alt={shown.alt} loading={priority?"eager":"lazy"} fetchPriority={priority?"high":"auto"} decoding="async" onLoad={()=>setFailed(false)} onError={()=>setFailed(true)} />}
- {loading&&!failed&&<span className="image-status" role="status">Đang tải ảnh màu đã chọn…</span>}
- {failed&&<span className="image-status" role="alert">Chưa tải được ảnh. <button onClick={()=>{setFailed(false);setRetry(n=>n+1)}}>Thử lại</button></span>}
+ {loading&&!failed&&<span className="image-status" role="status">Đang tải ảnh…</span>}
+ {failed&&<span className="image-status" role="alert">Không tải được ảnh. <button onClick={()=>{setFailed(false);setRetry(n=>n+1)}}>Thử lại</button></span>}
  </div>;
 }

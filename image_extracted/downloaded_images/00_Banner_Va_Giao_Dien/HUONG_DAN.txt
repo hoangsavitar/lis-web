@@ -1,0 +1,45 @@
+================================================================================
+   LIS ATELIER — HƯỚNG DẪN TẢI & CHỌN ẢNH CHO: 00_Banner_Va_Giao_Dien
+   ẢNH BANNER & GIAO DIỆN CHUNG TOÀN TRANG
+================================================================================
+
+[1] CÁC ĐƯỜNG LINK GOOGLE DRIVE ĐỂ LẤY ẢNH:
+   1. Thư mục Layout BST Summer 2026 / Editorial:
+      -> https://drive.google.com/drive/folders/1j4329i40EwYwXk32U3d_X3gq0G9gY9yY
+      (Hoặc giải nén tệp '26 summer-20260912T090627Z-1-001.zip' có sẵn trong thư mục LAYOUT)
+
+[2] DANH SÁCH CÁC TÊN FILE CẦN COPY VÀO THƯ MỤC NÀY:
+--------------------------------------------------------------------------------
+1. TÊN FILE: banner_hero_chinh.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh góc rộng (tỉ lệ ngang 16:9 hoặc 21:9) chụp người mẫu mang túi LIS trong bối cảnh sang trọng, ánh sáng ấm hoặc nền tối Quiet Luxury.
+   - Vị trí hiển thị trên Web: Ảnh nền lớn đập vào mắt ngay đầu trang chủ (phía sau câu slogan "DE LA SIMPLICITÉ NAÎT L'ÉLÉGANCE").
+
+2. TÊN FILE: category_tui_xach_tay.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh người mẫu xách túi dáng điêu khắc thanh lịch (tỉ lệ đứng 4:5).
+   - Vị trí hiển thị trên Web: Thẻ danh mục "Túi Xách Tay" ngoài trang chủ.
+
+3. TÊN FILE: category_tui_kep_nach.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh mẫu nữ kẹp nách túi Baguette phong cách Parisian (tỉ lệ đứng 4:5).
+   - Vị trí hiển thị trên Web: Thẻ danh mục "Túi Đeo Vai & Kẹp Nách" ngoài trang chủ.
+
+4. TÊN FILE: category_tui_deo_cheo.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh mẫu đeo túi chéo dáng hộp năng động dạo phố (tỉ lệ đứng 4:5).
+   - Vị trí hiển thị trên Web: Thẻ danh mục "Túi Đeo Chéo" ngoài trang chủ.
+
+5. TÊN FILE: category_tui_tote.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh mẫu công sở cầm túi tote lớn phong thái tự tin (tỉ lệ đứng 4:5).
+   - Vị trí hiển thị trên Web: Thẻ danh mục "Túi Tote Cao Cấp" ngoài trang chủ.
+
+6. TÊN FILE: category_phu_kien.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh chụp phụ kiện charm da gắn lên quai túi xách (tỉ lệ đứng 4:5).
+   - Vị trí hiển thị trên Web: Thẻ danh mục "Charm & Phụ Kiện Da".
+
+7. TÊN FILE: story_nghe_nhan.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh đôi bàn tay người nghệ nhân đang khâu chỉ yên ngựa hoặc chuốt sơn cạnh da bò Ý (tỉ lệ 4:5).
+   - Vị trí hiển thị trên Web: Khối câu chuyện "Triết Lý Chế Tác Thủ Công" giữa trang chủ.
+
+8. TÊN FILE: lookbook_01.jpg
+   - Mô tả loại ảnh cần chọn: Ảnh phong cách thời trang Editorial nghệ thuật (tỉ lệ ngang 16:10).
+   - Vị trí hiển thị trên Web: Khối tạp chí "Cảm Hứng Thời Trang" chân trang chủ.
+--------------------------------------------------------------------------------
+* Mẹo: Bạn chỉ cần tải ảnh về, đổi tên theo cột "TÊN FILE" rồi thả vào đây.
