@@ -1,0 +1,3307 @@
+{
+  "createdAt": "2026-10-10T13:22:53.048Z",
+  "scope": "Filesystem/build measurements only; no browser timings or hosted CWV.",
+  "routes": {
+    "/_not-found/page": {
+      "raw": 350885,
+      "gzip": 102971,
+      "brotli": 86675,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/_not-found/page-798c87c30dcb9b5b.js",
+          "bytes": 139,
+          "gzip": 130,
+          "brotli": 111
+        }
+      ]
+    },
+    "/not-found": {
+      "raw": 359466,
+      "gzip": 106392,
+      "brotli": 89730,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/619-ba102abea3e3d0e4.js",
+          "bytes": 8537,
+          "gzip": 3389,
+          "brotli": 3010
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/not-found-be3ea3a23c29e1b4.js",
+          "bytes": 183,
+          "gzip": 162,
+          "brotli": 156
+        }
+      ]
+    },
+    "/layout": {
+      "raw": 537124,
+      "gzip": 141609,
+      "brotli": 119771,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/css/1a0857304faf32c4.css",
+          "bytes": 92909,
+          "gzip": 17678,
+          "brotli": 15115
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/619-ba102abea3e3d0e4.js",
+          "bytes": 8537,
+          "gzip": 3389,
+          "brotli": 3010
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/415-55dd8ea6820af90f.js",
+          "bytes": 7783,
+          "gzip": 3105,
+          "brotli": 2694
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/438-2510358de63d894f.js",
+          "bytes": 13442,
+          "gzip": 2554,
+          "brotli": 2218
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/118-b2252fd3b9cda8af.js",
+          "bytes": 52866,
+          "gzip": 8108,
+          "brotli": 6747
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/layout-465ab7a11c519915.js",
+          "bytes": 10841,
+          "gzip": 3934,
+          "brotli": 3423
+        }
+      ]
+    },
+    "/api/extract/route": {
+      "raw": 350885,
+      "gzip": 102971,
+      "brotli": 86675,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/api/extract/route-798c87c30dcb9b5b.js",
+          "bytes": 139,
+          "gzip": 130,
+          "brotli": 111
+        }
+      ]
+    },
+    "/api/read-excel/route": {
+      "raw": 350885,
+      "gzip": 102971,
+      "brotli": 86675,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/api/read-excel/route-798c87c30dcb9b5b.js",
+          "bytes": 139,
+          "gzip": 130,
+          "brotli": 111
+        }
+      ]
+    },
+    "/page": {
+      "raw": 438986,
+      "gzip": 125034,
+      "brotli": 105753,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/619-ba102abea3e3d0e4.js",
+          "bytes": 8537,
+          "gzip": 3389,
+          "brotli": 3010
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/415-55dd8ea6820af90f.js",
+          "bytes": 7783,
+          "gzip": 3105,
+          "brotli": 2694
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/356-a8fff690733ed0f4.js",
+          "bytes": 13635,
+          "gzip": 5211,
+          "brotli": 4658
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/118-b2252fd3b9cda8af.js",
+          "bytes": 52866,
+          "gzip": 8108,
+          "brotli": 6747
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/page-5e3f50b631822fc1.js",
+          "bytes": 5419,
+          "gzip": 2380,
+          "brotli": 2080
+        }
+      ]
+    },
+    "/collections/[slug]/page": {
+      "raw": 432791,
+      "gzip": 122058,
+      "brotli": 103039,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/619-ba102abea3e3d0e4.js",
+          "bytes": 8537,
+          "gzip": 3389,
+          "brotli": 3010
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/415-55dd8ea6820af90f.js",
+          "bytes": 7783,
+          "gzip": 3105,
+          "brotli": 2694
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/118-b2252fd3b9cda8af.js",
+          "bytes": 52866,
+          "gzip": 8108,
+          "brotli": 6747
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/collections/[slug]/page-703b725bf1b195b3.js",
+          "bytes": 12859,
+          "gzip": 4615,
+          "brotli": 4024
+        }
+      ]
+    },
+    "/products/[handle]/page": {
+      "raw": 441917,
+      "gzip": 124256,
+      "brotli": 104901,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/619-ba102abea3e3d0e4.js",
+          "bytes": 8537,
+          "gzip": 3389,
+          "brotli": 3010
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/415-55dd8ea6820af90f.js",
+          "bytes": 7783,
+          "gzip": 3105,
+          "brotli": 2694
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/118-b2252fd3b9cda8af.js",
+          "bytes": 52866,
+          "gzip": 8108,
+          "brotli": 6747
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/products/[handle]/page-905c076ceb183549.js",
+          "bytes": 21985,
+          "gzip": 6813,
+          "brotli": 5886
+        }
+      ]
+    },
+    "/ve-lis/page": {
+      "raw": 360771,
+      "gzip": 107090,
+      "brotli": 90347,
+      "entries": [
+        {
+          "file": ".next-lis-preview/static/chunks/webpack-7728982d04a1965c.js",
+          "bytes": 3483,
+          "gzip": 1766,
+          "brotli": 1565
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/4bd1b696-c023c6e3521b1417.js",
+          "bytes": 173019,
+          "gzip": 54358,
+          "brotli": 46749
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/255-37e0f0325134c4d7.js",
+          "bytes": 173687,
+          "gzip": 46491,
+          "brotli": 38048
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/main-app-b0948b93868a2a40.js",
+          "bytes": 557,
+          "gzip": 226,
+          "brotli": 202
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/619-ba102abea3e3d0e4.js",
+          "bytes": 8537,
+          "gzip": 3389,
+          "brotli": 3010
+        },
+        {
+          "file": ".next-lis-preview/static/chunks/app/ve-lis/page-d6569b39631e096e.js",
+          "bytes": 1488,
+          "gzip": 860,
+          "brotli": 773
+        }
+      ]
+    }
+  },
+  "html": {
+    "file": ".next-lis-preview/server/app/index.html",
+    "bytes": 141497,
+    "gzip": 16500,
+    "brotli": 12311
+  },
+  "css": [
+    {
+      "file": ".next-lis-preview/static/css/1a0857304faf32c4.css",
+      "bytes": 92909,
+      "gzip": 17678,
+      "brotli": 15115
+    }
+  ],
+  "fonts": [
+    {
+      "file": "00f4982f357db61e-s.p.woff2",
+      "bytes": 5100
+    },
+    {
+      "file": "07338c85bc166100-s.woff2",
+      "bytes": 5228
+    },
+    {
+      "file": "2173e4bb28c315da-s.p.woff2",
+      "bytes": 5124
+    },
+    {
+      "file": "23e998e565136a3e-s.woff2",
+      "bytes": 1604
+    },
+    {
+      "file": "25ab8995c98996d7-s.p.woff2",
+      "bytes": 13428
+    },
+    {
+      "file": "3d8cee235d63a690-s.woff2",
+      "bytes": 8288
+    },
+    {
+      "file": "471dc1aef32e5fc3-s.p.woff2",
+      "bytes": 4376
+    },
+    {
+      "file": "5b0b94a8ecf4f99e-s.woff2",
+      "bytes": 7920
+    },
+    {
+      "file": "62a3c74fa0e47362-s.woff2",
+      "bytes": 7184
+    },
+    {
+      "file": "8201559e247ad180-s.p.woff2",
+      "bytes": 13324
+    },
+    {
+      "file": "89362aa296165c6d-s.woff2",
+      "bytes": 6880
+    },
+    {
+      "file": "bb2ad723e8eff800-s.p.woff2",
+      "bytes": 14148
+    },
+    {
+      "file": "c6f81e539d11fc99-s.woff2",
+      "bytes": 7152
+    },
+    {
+      "file": "cd79e1ff94fa521b-s.p.woff2",
+      "bytes": 4720
+    },
+    {
+      "file": "e11f95d95ac59fa4-s.p.woff2",
+      "bytes": 12908
+    }
+  ],
+  "banner": {
+    "file": "public/images/campaigns/20-10/campaign-20-10.jpg",
+    "bytes": 777630,
+    "width": 1702,
+    "height": 630,
+    "estimatedWebP85": [
+      {
+        "width": 640,
+        "bytes": 11102
+      },
+      {
+        "width": 1080,
+        "bytes": 22766
+      },
+      {
+        "width": 1280,
+        "bytes": 29586
+      },
+      {
+        "width": 1920,
+        "bytes": 45700
+      },
+      {
+        "width": 3840,
+        "bytes": 45700
+      }
+    ]
+  },
+  "images": [
+    {
+      "src": "/images/catalog/irisa-bag/pink/front-1280.webp",
+      "source": "product-images/irisa-bag/pink/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 2144
+        },
+        {
+          "width": 480,
+          "bytes": 3608
+        },
+        {
+          "width": 640,
+          "bytes": 5476
+        },
+        {
+          "width": 960,
+          "bytes": 10658
+        },
+        {
+          "width": 1280,
+          "bytes": 15096
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/pink/angle-2-1280.webp",
+      "source": "product-images/irisa-bag/pink/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5196
+        },
+        {
+          "width": 480,
+          "bytes": 9072
+        },
+        {
+          "width": 640,
+          "bytes": 13002
+        },
+        {
+          "width": 960,
+          "bytes": 24410
+        },
+        {
+          "width": 1280,
+          "bytes": 38080
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/pink/angle-3-1280.webp",
+      "source": "product-images/irisa-bag/pink/03-detail.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 16888
+        },
+        {
+          "width": 480,
+          "bytes": 38130
+        },
+        {
+          "width": 640,
+          "bytes": 64590
+        },
+        {
+          "width": 960,
+          "bytes": 147884
+        },
+        {
+          "width": 1280,
+          "bytes": 260158
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/pink/angle-4-1280.webp",
+      "source": "product-images/irisa-bag/pink/04-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7490
+        },
+        {
+          "width": 480,
+          "bytes": 13630
+        },
+        {
+          "width": 640,
+          "bytes": 20172
+        },
+        {
+          "width": 960,
+          "bytes": 36910
+        },
+        {
+          "width": 1280,
+          "bytes": 63308
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/pink/angle-5-1280.webp",
+      "source": "product-images/irisa-bag/pink/05-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7602
+        },
+        {
+          "width": 480,
+          "bytes": 12902
+        },
+        {
+          "width": 640,
+          "bytes": 18666
+        },
+        {
+          "width": 960,
+          "bytes": 33482
+        },
+        {
+          "width": 1280,
+          "bytes": 52238
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/pink/angle-6-1280.webp",
+      "source": "product-images/irisa-bag/pink/06-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6656
+        },
+        {
+          "width": 480,
+          "bytes": 11214
+        },
+        {
+          "width": 640,
+          "bytes": 16308
+        },
+        {
+          "width": 960,
+          "bytes": 27990
+        },
+        {
+          "width": 1280,
+          "bytes": 42082
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/pink/angle-7-1254.webp",
+      "source": "product-images/irisa-bag/pink/07-detail-size.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3640
+        },
+        {
+          "width": 480,
+          "bytes": 7642
+        },
+        {
+          "width": 640,
+          "bytes": 11458
+        },
+        {
+          "width": 960,
+          "bytes": 20956
+        },
+        {
+          "width": 1254,
+          "bytes": 31298
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/beige/front-1280.webp",
+      "source": "product-images/irisa-bag/beige/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 1786
+        },
+        {
+          "width": 480,
+          "bytes": 3070
+        },
+        {
+          "width": 640,
+          "bytes": 4872
+        },
+        {
+          "width": 960,
+          "bytes": 9242
+        },
+        {
+          "width": 1280,
+          "bytes": 15042
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/beige/angle-2-1280.webp",
+      "source": "product-images/irisa-bag/beige/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5996
+        },
+        {
+          "width": 480,
+          "bytes": 10144
+        },
+        {
+          "width": 640,
+          "bytes": 15138
+        },
+        {
+          "width": 960,
+          "bytes": 28018
+        },
+        {
+          "width": 1280,
+          "bytes": 42650
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/beige/angle-3-1280.webp",
+      "source": "product-images/irisa-bag/beige/03-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 10404
+        },
+        {
+          "width": 480,
+          "bytes": 18082
+        },
+        {
+          "width": 640,
+          "bytes": 26222
+        },
+        {
+          "width": 960,
+          "bytes": 46230
+        },
+        {
+          "width": 1280,
+          "bytes": 68428
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/beige/angle-4-1280.webp",
+      "source": "product-images/irisa-bag/beige/04-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7810
+        },
+        {
+          "width": 480,
+          "bytes": 13392
+        },
+        {
+          "width": 640,
+          "bytes": 20072
+        },
+        {
+          "width": 960,
+          "bytes": 35062
+        },
+        {
+          "width": 1280,
+          "bytes": 52536
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/irisa-bag/beige/angle-5-1280.webp",
+      "source": "product-images/irisa-bag/beige/05-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8600
+        },
+        {
+          "width": 480,
+          "bytes": 14558
+        },
+        {
+          "width": 640,
+          "bytes": 21312
+        },
+        {
+          "width": 960,
+          "bytes": 36984
+        },
+        {
+          "width": 1280,
+          "bytes": 54514
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/front-1280.webp",
+      "source": "product-images/dalia-bag/pink/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3144
+        },
+        {
+          "width": 480,
+          "bytes": 5498
+        },
+        {
+          "width": 640,
+          "bytes": 8324
+        },
+        {
+          "width": 960,
+          "bytes": 14536
+        },
+        {
+          "width": 1280,
+          "bytes": 22002
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/angle-2-1280.webp",
+      "source": "product-images/dalia-bag/pink/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7742
+        },
+        {
+          "width": 480,
+          "bytes": 13514
+        },
+        {
+          "width": 640,
+          "bytes": 20832
+        },
+        {
+          "width": 960,
+          "bytes": 37804
+        },
+        {
+          "width": 1280,
+          "bytes": 57728
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/angle-3-1280.webp",
+      "source": "product-images/dalia-bag/pink/03-detail.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7830
+        },
+        {
+          "width": 480,
+          "bytes": 14190
+        },
+        {
+          "width": 640,
+          "bytes": 21670
+        },
+        {
+          "width": 960,
+          "bytes": 46694
+        },
+        {
+          "width": 1280,
+          "bytes": 96060
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/angle-4-1280.webp",
+      "source": "product-images/dalia-bag/pink/04-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8430
+        },
+        {
+          "width": 480,
+          "bytes": 14354
+        },
+        {
+          "width": 640,
+          "bytes": 20912
+        },
+        {
+          "width": 960,
+          "bytes": 35370
+        },
+        {
+          "width": 1280,
+          "bytes": 52560
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/angle-5-1280.webp",
+      "source": "product-images/dalia-bag/pink/05-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5050
+        },
+        {
+          "width": 480,
+          "bytes": 8728
+        },
+        {
+          "width": 640,
+          "bytes": 12826
+        },
+        {
+          "width": 960,
+          "bytes": 22770
+        },
+        {
+          "width": 1280,
+          "bytes": 34446
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/angle-6-1280.webp",
+      "source": "product-images/dalia-bag/pink/06-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6764
+        },
+        {
+          "width": 480,
+          "bytes": 11586
+        },
+        {
+          "width": 640,
+          "bytes": 17216
+        },
+        {
+          "width": 960,
+          "bytes": 31218
+        },
+        {
+          "width": 1280,
+          "bytes": 47188
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/pink/angle-7-1254.webp",
+      "source": "product-images/dalia-bag/pink/07-detail-size.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 4812
+        },
+        {
+          "width": 480,
+          "bytes": 9078
+        },
+        {
+          "width": 640,
+          "bytes": 13966
+        },
+        {
+          "width": 960,
+          "bytes": 24234
+        },
+        {
+          "width": 1254,
+          "bytes": 34568
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/beige/front-1280.webp",
+      "source": "product-images/dalia-bag/beige/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 2528
+        },
+        {
+          "width": 480,
+          "bytes": 4528
+        },
+        {
+          "width": 640,
+          "bytes": 6840
+        },
+        {
+          "width": 960,
+          "bytes": 12174
+        },
+        {
+          "width": 1280,
+          "bytes": 18552
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/beige/angle-2-1280.webp",
+      "source": "product-images/dalia-bag/beige/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9624
+        },
+        {
+          "width": 480,
+          "bytes": 18580
+        },
+        {
+          "width": 640,
+          "bytes": 29456
+        },
+        {
+          "width": 960,
+          "bytes": 58968
+        },
+        {
+          "width": 1280,
+          "bytes": 93344
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/mint/front-1280.webp",
+      "source": "product-images/dalia-bag/mint/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3276
+        },
+        {
+          "width": 480,
+          "bytes": 5884
+        },
+        {
+          "width": 640,
+          "bytes": 8824
+        },
+        {
+          "width": 960,
+          "bytes": 16930
+        },
+        {
+          "width": 1280,
+          "bytes": 29930
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/dalia-bag/mint/angle-2-1280.webp",
+      "source": "product-images/dalia-bag/mint/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8702
+        },
+        {
+          "width": 480,
+          "bytes": 15096
+        },
+        {
+          "width": 640,
+          "bytes": 22342
+        },
+        {
+          "width": 960,
+          "bytes": 40768
+        },
+        {
+          "width": 1280,
+          "bytes": 67596
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/white/front-1280.webp",
+      "source": "product-images/lilia-bag/white/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 2886
+        },
+        {
+          "width": 480,
+          "bytes": 5884
+        },
+        {
+          "width": 640,
+          "bytes": 9130
+        },
+        {
+          "width": 960,
+          "bytes": 16698
+        },
+        {
+          "width": 1280,
+          "bytes": 24278
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/white/angle-2-1280.webp",
+      "source": "product-images/lilia-bag/white/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8944
+        },
+        {
+          "width": 480,
+          "bytes": 17206
+        },
+        {
+          "width": 640,
+          "bytes": 27662
+        },
+        {
+          "width": 960,
+          "bytes": 59726
+        },
+        {
+          "width": 1280,
+          "bytes": 102686
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/white/angle-3-1280.webp",
+      "source": "product-images/lilia-bag/white/03-packshot-angle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3670
+        },
+        {
+          "width": 480,
+          "bytes": 6756
+        },
+        {
+          "width": 640,
+          "bytes": 10216
+        },
+        {
+          "width": 960,
+          "bytes": 18768
+        },
+        {
+          "width": 1280,
+          "bytes": 27776
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/white/angle-4-1280.webp",
+      "source": "product-images/lilia-bag/white/04-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 10856
+        },
+        {
+          "width": 480,
+          "bytes": 21518
+        },
+        {
+          "width": 640,
+          "bytes": 35464
+        },
+        {
+          "width": 960,
+          "bytes": 73358
+        },
+        {
+          "width": 1280,
+          "bytes": 113984
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/white/angle-5-1280.webp",
+      "source": "product-images/lilia-bag/white/05-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8782
+        },
+        {
+          "width": 480,
+          "bytes": 16356
+        },
+        {
+          "width": 640,
+          "bytes": 26890
+        },
+        {
+          "width": 960,
+          "bytes": 58114
+        },
+        {
+          "width": 1280,
+          "bytes": 102638
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/front-1280.webp",
+      "source": "product-images/lilia-bag/black/01-packshot.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 4908
+        },
+        {
+          "width": 480,
+          "bytes": 8974
+        },
+        {
+          "width": 640,
+          "bytes": 14036
+        },
+        {
+          "width": 960,
+          "bytes": 38390
+        },
+        {
+          "width": 1280,
+          "bytes": 77284
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-2-1280.webp",
+      "source": "product-images/lilia-bag/black/02-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6648
+        },
+        {
+          "width": 480,
+          "bytes": 10836
+        },
+        {
+          "width": 640,
+          "bytes": 15920
+        },
+        {
+          "width": 960,
+          "bytes": 28078
+        },
+        {
+          "width": 1280,
+          "bytes": 44036
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-3-1280.webp",
+      "source": "product-images/lilia-bag/black/03-detail.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 15362
+        },
+        {
+          "width": 480,
+          "bytes": 35120
+        },
+        {
+          "width": 640,
+          "bytes": 67570
+        },
+        {
+          "width": 960,
+          "bytes": 189158
+        },
+        {
+          "width": 1280,
+          "bytes": 364962
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-4-1280.webp",
+      "source": "product-images/lilia-bag/black/04-packshot-angle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3324
+        },
+        {
+          "width": 480,
+          "bytes": 5984
+        },
+        {
+          "width": 640,
+          "bytes": 9026
+        },
+        {
+          "width": 960,
+          "bytes": 19494
+        },
+        {
+          "width": 1280,
+          "bytes": 36168
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-5-1280.webp",
+      "source": "product-images/lilia-bag/black/05-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7146
+        },
+        {
+          "width": 480,
+          "bytes": 12464
+        },
+        {
+          "width": 640,
+          "bytes": 18658
+        },
+        {
+          "width": 960,
+          "bytes": 36114
+        },
+        {
+          "width": 1280,
+          "bytes": 59280
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-6-1280.webp",
+      "source": "product-images/lilia-bag/black/06-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6908
+        },
+        {
+          "width": 480,
+          "bytes": 11772
+        },
+        {
+          "width": 640,
+          "bytes": 16880
+        },
+        {
+          "width": 960,
+          "bytes": 29892
+        },
+        {
+          "width": 1280,
+          "bytes": 45192
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-7-1280.webp",
+      "source": "product-images/lilia-bag/black/07-lifestyle.jpg",
+      "width": 2160,
+      "height": 2160,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6786
+        },
+        {
+          "width": 480,
+          "bytes": 11294
+        },
+        {
+          "width": 640,
+          "bytes": 16734
+        },
+        {
+          "width": 960,
+          "bytes": 29542
+        },
+        {
+          "width": 1280,
+          "bytes": 45918
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lilia-bag/black/angle-8-1254.webp",
+      "source": "product-images/lilia-bag/black/08-detail-size.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6946
+        },
+        {
+          "width": 480,
+          "bytes": 12942
+        },
+        {
+          "width": 640,
+          "bytes": 21638
+        },
+        {
+          "width": 960,
+          "bytes": 48846
+        },
+        {
+          "width": 1254,
+          "bytes": 81904
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mila-bag/burgundy/front-1280.webp",
+      "source": "product-images/mila-bag/burgundy/01-front.jpg",
+      "width": 1366,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 10928
+        },
+        {
+          "width": 480,
+          "bytes": 19252
+        },
+        {
+          "width": 640,
+          "bytes": 29250
+        },
+        {
+          "width": 960,
+          "bytes": 54234
+        },
+        {
+          "width": 1280,
+          "bytes": 82874
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mila-bag/burgundy/angle-2-1280.webp",
+      "source": "product-images/mila-bag/burgundy/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9082
+        },
+        {
+          "width": 480,
+          "bytes": 15142
+        },
+        {
+          "width": 640,
+          "bytes": 23270
+        },
+        {
+          "width": 960,
+          "bytes": 45672
+        },
+        {
+          "width": 1280,
+          "bytes": 76436
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mila-bag/earth/front-1280.webp",
+      "source": "product-images/mila-bag/earth/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7518
+        },
+        {
+          "width": 480,
+          "bytes": 13458
+        },
+        {
+          "width": 640,
+          "bytes": 20332
+        },
+        {
+          "width": 960,
+          "bytes": 38786
+        },
+        {
+          "width": 1280,
+          "bytes": 66794
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mila-bag/earth/angle-2-1280.webp",
+      "source": "product-images/mila-bag/earth/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9122
+        },
+        {
+          "width": 480,
+          "bytes": 16226
+        },
+        {
+          "width": 640,
+          "bytes": 25316
+        },
+        {
+          "width": 960,
+          "bytes": 49094
+        },
+        {
+          "width": 1280,
+          "bytes": 84846
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mila-bag/milk/front-1280.webp",
+      "source": "product-images/mila-bag/milk/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7590
+        },
+        {
+          "width": 480,
+          "bytes": 14100
+        },
+        {
+          "width": 640,
+          "bytes": 22510
+        },
+        {
+          "width": 960,
+          "bytes": 47636
+        },
+        {
+          "width": 1280,
+          "bytes": 77906
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mila-bag/milk/angle-2-1280.webp",
+      "source": "product-images/mila-bag/milk/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 14016
+        },
+        {
+          "width": 480,
+          "bytes": 29068
+        },
+        {
+          "width": 640,
+          "bytes": 45930
+        },
+        {
+          "width": 960,
+          "bytes": 91018
+        },
+        {
+          "width": 1280,
+          "bytes": 152854
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/nina-bag/burgundy/front-800.webp",
+      "source": "product-images/nina-bag/burgundy/01-front.jpg",
+      "width": 800,
+      "height": 800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 4978
+        },
+        {
+          "width": 480,
+          "bytes": 9800
+        },
+        {
+          "width": 640,
+          "bytes": 15872
+        },
+        {
+          "width": 800,
+          "bytes": 23206
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/nina-bag/burgundy/angle-2-1280.webp",
+      "source": "product-images/nina-bag/burgundy/02-lifestyle.jpg",
+      "width": 2400,
+      "height": 1600,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5586
+        },
+        {
+          "width": 480,
+          "bytes": 9682
+        },
+        {
+          "width": 640,
+          "bytes": 15370
+        },
+        {
+          "width": 960,
+          "bytes": 32676
+        },
+        {
+          "width": 1280,
+          "bytes": 58506
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/nina-bag/chocolate/front-800.webp",
+      "source": "product-images/nina-bag/chocolate/01-front.jpg",
+      "width": 800,
+      "height": 800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5098
+        },
+        {
+          "width": 480,
+          "bytes": 10078
+        },
+        {
+          "width": 640,
+          "bytes": 16294
+        },
+        {
+          "width": 800,
+          "bytes": 23702
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/nina-bag/chocolate/angle-2-1280.webp",
+      "source": "product-images/nina-bag/chocolate/02-lifestyle.jpg",
+      "width": 2400,
+      "height": 1600,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6238
+        },
+        {
+          "width": 480,
+          "bytes": 11548
+        },
+        {
+          "width": 640,
+          "bytes": 18576
+        },
+        {
+          "width": 960,
+          "bytes": 34154
+        },
+        {
+          "width": 1280,
+          "bytes": 53826
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/nina-bag/milk/front-800.webp",
+      "source": "product-images/nina-bag/milk/01-front.jpg",
+      "width": 800,
+      "height": 800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 4494
+        },
+        {
+          "width": 480,
+          "bytes": 9348
+        },
+        {
+          "width": 640,
+          "bytes": 14926
+        },
+        {
+          "width": 800,
+          "bytes": 21876
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/nina-bag/milk/angle-2-1280.webp",
+      "source": "product-images/nina-bag/milk/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9864
+        },
+        {
+          "width": 480,
+          "bytes": 19494
+        },
+        {
+          "width": 640,
+          "bytes": 34096
+        },
+        {
+          "width": 960,
+          "bytes": 76934
+        },
+        {
+          "width": 1280,
+          "bytes": 139654
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/chocolate/front-1280.webp",
+      "source": "product-images/lucia-tote/chocolate/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7584
+        },
+        {
+          "width": 480,
+          "bytes": 13574
+        },
+        {
+          "width": 640,
+          "bytes": 19118
+        },
+        {
+          "width": 960,
+          "bytes": 34006
+        },
+        {
+          "width": 1280,
+          "bytes": 52760
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/chocolate/angle-2-1280.webp",
+      "source": "product-images/lucia-tote/chocolate/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9000
+        },
+        {
+          "width": 480,
+          "bytes": 17250
+        },
+        {
+          "width": 640,
+          "bytes": 26398
+        },
+        {
+          "width": 960,
+          "bytes": 50960
+        },
+        {
+          "width": 1280,
+          "bytes": 87770
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/milk/front-1280.webp",
+      "source": "product-images/lucia-tote/milk/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9500
+        },
+        {
+          "width": 480,
+          "bytes": 18386
+        },
+        {
+          "width": 640,
+          "bytes": 28076
+        },
+        {
+          "width": 960,
+          "bytes": 50528
+        },
+        {
+          "width": 1280,
+          "bytes": 78998
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/milk/angle-2-1280.webp",
+      "source": "product-images/lucia-tote/milk/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 11860
+        },
+        {
+          "width": 480,
+          "bytes": 22380
+        },
+        {
+          "width": 640,
+          "bytes": 35540
+        },
+        {
+          "width": 960,
+          "bytes": 68180
+        },
+        {
+          "width": 1280,
+          "bytes": 115378
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/earth/front-1280.webp",
+      "source": "product-images/lucia-tote/earth/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 10366
+        },
+        {
+          "width": 480,
+          "bytes": 18938
+        },
+        {
+          "width": 640,
+          "bytes": 28168
+        },
+        {
+          "width": 960,
+          "bytes": 49762
+        },
+        {
+          "width": 1280,
+          "bytes": 76822
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/black/front-1280.webp",
+      "source": "product-images/lucia-tote/black/01-front.jpg",
+      "width": 1600,
+      "height": 1600,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 4700
+        },
+        {
+          "width": 480,
+          "bytes": 10398
+        },
+        {
+          "width": 640,
+          "bytes": 17268
+        },
+        {
+          "width": 960,
+          "bytes": 33158
+        },
+        {
+          "width": 1280,
+          "bytes": 51106
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucia-tote/black/angle-2-1280.webp",
+      "source": "product-images/lucia-tote/black/02-angle.jpg",
+      "width": 1600,
+      "height": 1600,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5032
+        },
+        {
+          "width": 480,
+          "bytes": 10910
+        },
+        {
+          "width": 640,
+          "bytes": 17240
+        },
+        {
+          "width": 960,
+          "bytes": 32122
+        },
+        {
+          "width": 1280,
+          "bytes": 49124
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/elena-tote/brown/front-1280.webp",
+      "source": "product-images/elena-tote/brown/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8670
+        },
+        {
+          "width": 480,
+          "bytes": 16074
+        },
+        {
+          "width": 640,
+          "bytes": 25730
+        },
+        {
+          "width": 960,
+          "bytes": 55992
+        },
+        {
+          "width": 1280,
+          "bytes": 100190
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/elena-tote/brown/angle-2-1280.webp",
+      "source": "product-images/elena-tote/brown/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 11266
+        },
+        {
+          "width": 480,
+          "bytes": 20344
+        },
+        {
+          "width": 640,
+          "bytes": 34718
+        },
+        {
+          "width": 960,
+          "bytes": 74564
+        },
+        {
+          "width": 1280,
+          "bytes": 138748
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/elena-tote/black/front-1280.webp",
+      "source": "product-images/elena-tote/black/01-front.jpg",
+      "width": 2048,
+      "height": 2048,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8778
+        },
+        {
+          "width": 480,
+          "bytes": 16484
+        },
+        {
+          "width": 640,
+          "bytes": 26276
+        },
+        {
+          "width": 960,
+          "bytes": 59754
+        },
+        {
+          "width": 1280,
+          "bytes": 107452
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/elena-tote/black/angle-2-1280.webp",
+      "source": "product-images/elena-tote/black/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 10242
+        },
+        {
+          "width": 480,
+          "bytes": 18382
+        },
+        {
+          "width": 640,
+          "bytes": 28870
+        },
+        {
+          "width": 960,
+          "bytes": 60444
+        },
+        {
+          "width": 1280,
+          "bytes": 106586
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucky-charm/brown/front-1280.webp",
+      "source": "product-images/lucky-charm/brown/01-front.jpg",
+      "width": 1920,
+      "height": 1920,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3328
+        },
+        {
+          "width": 480,
+          "bytes": 5876
+        },
+        {
+          "width": 640,
+          "bytes": 8792
+        },
+        {
+          "width": 960,
+          "bytes": 18880
+        },
+        {
+          "width": 1280,
+          "bytes": 27960
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucky-charm/red/front-1280.webp",
+      "source": "product-images/lucky-charm/red/01-front.jpg",
+      "width": 1920,
+      "height": 1920,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 3210
+        },
+        {
+          "width": 480,
+          "bytes": 5698
+        },
+        {
+          "width": 640,
+          "bytes": 8362
+        },
+        {
+          "width": 960,
+          "bytes": 18200
+        },
+        {
+          "width": 1280,
+          "bytes": 27334
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lucky-charm/beige/front-1280.webp",
+      "source": "product-images/lucky-charm/beige/01-front.jpg",
+      "width": 1920,
+      "height": 1920,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 2714
+        },
+        {
+          "width": 480,
+          "bytes": 4684
+        },
+        {
+          "width": 640,
+          "bytes": 6832
+        },
+        {
+          "width": 960,
+          "bytes": 13640
+        },
+        {
+          "width": 1280,
+          "bytes": 19260
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/beige/front-1280.webp",
+      "source": "product-images/mia-bag/beige/01-front.jpg",
+      "width": 1800,
+      "height": 1800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 4706
+        },
+        {
+          "width": 480,
+          "bytes": 9866
+        },
+        {
+          "width": 640,
+          "bytes": 15710
+        },
+        {
+          "width": 960,
+          "bytes": 29098
+        },
+        {
+          "width": 1280,
+          "bytes": 43152
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/beige/angle-2-1280.webp",
+      "source": "product-images/mia-bag/beige/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 16904
+        },
+        {
+          "width": 480,
+          "bytes": 33048
+        },
+        {
+          "width": 640,
+          "bytes": 53460
+        },
+        {
+          "width": 960,
+          "bytes": 100758
+        },
+        {
+          "width": 1280,
+          "bytes": 176692
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/beige/angle-3-1280.webp",
+      "source": "product-images/mia-bag/beige/03-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 20460
+        },
+        {
+          "width": 480,
+          "bytes": 39610
+        },
+        {
+          "width": 640,
+          "bytes": 64802
+        },
+        {
+          "width": 960,
+          "bytes": 127732
+        },
+        {
+          "width": 1280,
+          "bytes": 202100
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/brown/front-1280.webp",
+      "source": "product-images/mia-bag/brown/01-front.jpg",
+      "width": 1800,
+      "height": 1800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7918
+        },
+        {
+          "width": 480,
+          "bytes": 15580
+        },
+        {
+          "width": 640,
+          "bytes": 25500
+        },
+        {
+          "width": 960,
+          "bytes": 52656
+        },
+        {
+          "width": 1280,
+          "bytes": 90208
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/brown/angle-2-1280.webp",
+      "source": "product-images/mia-bag/brown/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 11762
+        },
+        {
+          "width": 480,
+          "bytes": 22160
+        },
+        {
+          "width": 640,
+          "bytes": 34668
+        },
+        {
+          "width": 960,
+          "bytes": 61704
+        },
+        {
+          "width": 1280,
+          "bytes": 91548
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/avocado/front-1280.webp",
+      "source": "product-images/mia-bag/avocado/01-front.jpg",
+      "width": 1800,
+      "height": 1800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7270
+        },
+        {
+          "width": 480,
+          "bytes": 14230
+        },
+        {
+          "width": 640,
+          "bytes": 22622
+        },
+        {
+          "width": 960,
+          "bytes": 42212
+        },
+        {
+          "width": 1280,
+          "bytes": 64776
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/avocado/angle-2-1280.webp",
+      "source": "product-images/mia-bag/avocado/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 14228
+        },
+        {
+          "width": 480,
+          "bytes": 26654
+        },
+        {
+          "width": 640,
+          "bytes": 42320
+        },
+        {
+          "width": 960,
+          "bytes": 81342
+        },
+        {
+          "width": 1280,
+          "bytes": 135818
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/red/front-1280.webp",
+      "source": "product-images/mia-bag/red/01-front.jpg",
+      "width": 1800,
+      "height": 1800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 7118
+        },
+        {
+          "width": 480,
+          "bytes": 13578
+        },
+        {
+          "width": 640,
+          "bytes": 21656
+        },
+        {
+          "width": 960,
+          "bytes": 40828
+        },
+        {
+          "width": 1280,
+          "bytes": 63802
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/red/angle-2-1280.webp",
+      "source": "product-images/mia-bag/red/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 13750
+        },
+        {
+          "width": 480,
+          "bytes": 27598
+        },
+        {
+          "width": 640,
+          "bytes": 43972
+        },
+        {
+          "width": 960,
+          "bytes": 79076
+        },
+        {
+          "width": 1280,
+          "bytes": 118858
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/red/angle-3-1280.webp",
+      "source": "product-images/mia-bag/red/03-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 13772
+        },
+        {
+          "width": 480,
+          "bytes": 28218
+        },
+        {
+          "width": 640,
+          "bytes": 48268
+        },
+        {
+          "width": 960,
+          "bytes": 100276
+        },
+        {
+          "width": 1280,
+          "bytes": 165278
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/mia-bag/red/angle-4-1280.webp",
+      "source": "product-images/mia-bag/red/04-detail.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 21894
+        },
+        {
+          "width": 480,
+          "bytes": 38840
+        },
+        {
+          "width": 640,
+          "bytes": 60502
+        },
+        {
+          "width": 960,
+          "bytes": 120468
+        },
+        {
+          "width": 1280,
+          "bytes": 195848
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/moss/front-800.webp",
+      "source": "product-images/calla-bag/moss/01-front.jpg",
+      "width": 800,
+      "height": 800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6966
+        },
+        {
+          "width": 480,
+          "bytes": 14116
+        },
+        {
+          "width": 640,
+          "bytes": 23786
+        },
+        {
+          "width": 800,
+          "bytes": 36006
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/moss/angle-2-1280.webp",
+      "source": "product-images/calla-bag/moss/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 9872
+        },
+        {
+          "width": 480,
+          "bytes": 18140
+        },
+        {
+          "width": 640,
+          "bytes": 28698
+        },
+        {
+          "width": 960,
+          "bytes": 59548
+        },
+        {
+          "width": 1280,
+          "bytes": 104602
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/moss/angle-3-1280.webp",
+      "source": "product-images/calla-bag/moss/03-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 10412
+        },
+        {
+          "width": 480,
+          "bytes": 18726
+        },
+        {
+          "width": 640,
+          "bytes": 28340
+        },
+        {
+          "width": 960,
+          "bytes": 48272
+        },
+        {
+          "width": 1280,
+          "bytes": 75762
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/moss/angle-4-1280.webp",
+      "source": "product-images/calla-bag/moss/04-detail.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 11976
+        },
+        {
+          "width": 480,
+          "bytes": 22124
+        },
+        {
+          "width": 640,
+          "bytes": 35486
+        },
+        {
+          "width": 960,
+          "bytes": 71128
+        },
+        {
+          "width": 1280,
+          "bytes": 118518
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/brown/front-800.webp",
+      "source": "product-images/calla-bag/brown/01-front.jpg",
+      "width": 800,
+      "height": 800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 6484
+        },
+        {
+          "width": 480,
+          "bytes": 12574
+        },
+        {
+          "width": 640,
+          "bytes": 21346
+        },
+        {
+          "width": 800,
+          "bytes": 33020
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/brown/angle-2-1280.webp",
+      "source": "product-images/calla-bag/brown/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 8928
+        },
+        {
+          "width": 480,
+          "bytes": 16424
+        },
+        {
+          "width": 640,
+          "bytes": 25012
+        },
+        {
+          "width": 960,
+          "bytes": 50622
+        },
+        {
+          "width": 1280,
+          "bytes": 86448
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/black/front-800.webp",
+      "source": "product-images/calla-bag/black/01-front.jpg",
+      "width": 800,
+      "height": 800,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 5298
+        },
+        {
+          "width": 480,
+          "bytes": 9382
+        },
+        {
+          "width": 640,
+          "bytes": 14946
+        },
+        {
+          "width": 800,
+          "bytes": 22788
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/calla-bag/black/angle-2-1280.webp",
+      "source": "product-images/calla-bag/black/02-lifestyle.jpg",
+      "width": 1600,
+      "height": 2400,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 12396
+        },
+        {
+          "width": 480,
+          "bytes": 22226
+        },
+        {
+          "width": 640,
+          "bytes": 34670
+        },
+        {
+          "width": 960,
+          "bytes": 66106
+        },
+        {
+          "width": 1280,
+          "bytes": 105716
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lily-charm/brown/front-1280.webp",
+      "source": "product-images/lily-charm/brown/01-front.jpg",
+      "width": 1350,
+      "height": 1350,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 1702
+        },
+        {
+          "width": 480,
+          "bytes": 2986
+        },
+        {
+          "width": 640,
+          "bytes": 4898
+        },
+        {
+          "width": 960,
+          "bytes": 10492
+        },
+        {
+          "width": 1280,
+          "bytes": 17212
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lily-charm/red/front-1280.webp",
+      "source": "product-images/lily-charm/red/01-front.jpg",
+      "width": 1350,
+      "height": 1350,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 1672
+        },
+        {
+          "width": 480,
+          "bytes": 3116
+        },
+        {
+          "width": 640,
+          "bytes": 5248
+        },
+        {
+          "width": 960,
+          "bytes": 11688
+        },
+        {
+          "width": 1280,
+          "bytes": 19524
+        }
+      ]
+    },
+    {
+      "src": "/images/catalog/lily-charm/beige/front-1280.webp",
+      "source": "product-images/lily-charm/beige/01-front.jpg",
+      "width": 1350,
+      "height": 1350,
+      "sizes": [
+        {
+          "width": 320,
+          "bytes": 1386
+        },
+        {
+          "width": 480,
+          "bytes": 2388
+        },
+        {
+          "width": 640,
+          "bytes": 3592
+        },
+        {
+          "width": 960,
+          "bytes": 7158
+        },
+        {
+          "width": 1280,
+          "bytes": 11868
+        }
+      ]
+    }
+  ],
+  "homeScriptTags": [
+    {
+      "src": "/_next/static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "bytes": 173019,
+      "gzip": 54358,
+      "brotli": 46749
+    },
+    {
+      "src": "/_next/static/chunks/255-37e0f0325134c4d7.js",
+      "bytes": 173687,
+      "gzip": 46491,
+      "brotli": 38048
+    },
+    {
+      "src": "/_next/static/chunks/main-app-b0948b93868a2a40.js",
+      "bytes": 557,
+      "gzip": 226,
+      "brotli": 202
+    },
+    {
+      "src": "/_next/static/chunks/619-ba102abea3e3d0e4.js",
+      "bytes": 8537,
+      "gzip": 3389,
+      "brotli": 3010
+    },
+    {
+      "src": "/_next/static/chunks/415-55dd8ea6820af90f.js",
+      "bytes": 7783,
+      "gzip": 3105,
+      "brotli": 2694
+    },
+    {
+      "src": "/_next/static/chunks/438-2510358de63d894f.js",
+      "bytes": 13442,
+      "gzip": 2554,
+      "brotli": 2218
+    },
+    {
+      "src": "/_next/static/chunks/118-b2252fd3b9cda8af.js",
+      "bytes": 52866,
+      "gzip": 8108,
+      "brotli": 6747
+    },
+    {
+      "src": "/_next/static/chunks/app/layout-465ab7a11c519915.js",
+      "bytes": 10841,
+      "gzip": 3934,
+      "brotli": 3423
+    },
+    {
+      "src": "/_next/static/chunks/356-a8fff690733ed0f4.js",
+      "bytes": 13635,
+      "gzip": 5211,
+      "brotli": 4658
+    },
+    {
+      "src": "/_next/static/chunks/app/page-5e3f50b631822fc1.js",
+      "bytes": 5419,
+      "gzip": 2380,
+      "brotli": 2080
+    },
+    {
+      "src": "/_next/static/chunks/webpack-7728982d04a1965c.js",
+      "bytes": 3483,
+      "gzip": 1766,
+      "brotli": 1565
+    }
+  ],
+  "homeScriptTotals": {
+    "bytes": 463269,
+    "gzip": 131522,
+    "brotli": 111394
+  },
+  "homeImages": {
+    "count": 31,
+    "eager": [
+      {
+        "src": "/brand/lis/logo-burgundy-512.png"
+      },
+      {
+        "src": "/brand/lis/logo-black-512.png"
+      },
+      {
+        "src": "/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=3840&amp;q=85"
+      },
+      {
+        "src": "/brand/lis/logo-white-512.png"
+      },
+      {
+        "src": "/brand/lis/logo-black-512.png"
+      },
+      {
+        "src": "/brand/lis/logo-black-512.png"
+      }
+    ],
+    "lazy": 25
+  },
+  "homePreloads": [
+    "<link rel=\"preload\" as=\"image\" imageSrcSet=\"/brand/lis/logo-burgundy-512.png 512w, /brand/lis/logo-burgundy-1024.png 1024w\" imageSizes=\"88px\"/>",
+    "<link rel=\"preload\" as=\"image\" imageSrcSet=\"/brand/lis/logo-black-512.png 512w, /brand/lis/logo-black-1024.png 1024w\" imageSizes=\"72px\"/>",
+    "<link rel=\"preload\" as=\"image\" imageSrcSet=\"/brand/lis/logo-white-512.png 512w, /brand/lis/logo-white-1024.png 1024w\" imageSizes=\"144px\"/>",
+    "<link rel=\"preload\" as=\"image\" imageSrcSet=\"/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=640&amp;q=85 640w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=750&amp;q=85 750w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=828&amp;q=85 828w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=1080&amp;q=85 1080w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=1200&amp;q=85 1200w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=1920&amp;q=85 1920w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=2048&amp;q=85 2048w, /_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&amp;w=3840&amp;q=85 3840w\" imageSizes=\"(max-width: 767px) 1081px, 100vw\"/>",
+    "<link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-7728982d04a1965c.js\"/>"
+  ],
+  "generatedCSSFontFaces": [
+    {
+      "family": "Manrope",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/23e998e565136a3e-s.woff2) format(\"woff2\")",
+      "range": "u+0460-052f,u+1c80-1c8a,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}"
+    },
+    {
+      "family": "Manrope",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/5b0b94a8ecf4f99e-s.woff2) format(\"woff2\")",
+      "range": "u+0301,u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}"
+    },
+    {
+      "family": "Manrope",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/07338c85bc166100-s.woff2) format(\"woff2\")",
+      "range": "u+0370-0377,u+037a-037f,u+0384-038a,u+038c,u+038e-03a1,u+03a3-03ff}"
+    },
+    {
+      "family": "Manrope",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/471dc1aef32e5fc3-s.p.woff2) format(\"woff2\")",
+      "range": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0301,u+0303-0304,u+0308-0309,u+0323,u+0329,u+1ea0-1ef9,u+20ab}"
+    },
+    {
+      "family": "Manrope",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/3d8cee235d63a690-s.woff2) format(\"woff2\")",
+      "range": "u+0100-02ba,u+02bd-02c5,u+02c7-02cc,u+02ce-02d7,u+02dd-02ff,u+0304,u+0308,u+0329,u+1d00-1dbf,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20ad-20c4,u+2113,u+2c60-2c7f,u+a720-a7ff}"
+    },
+    {
+      "family": "Manrope",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/bb2ad723e8eff800-s.p.woff2) format(\"woff2\")",
+      "range": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,u+2000-206f,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}"
+    },
+    {
+      "family": "Manrope Fallback",
+      "src": "local(\"Arial\")"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "400",
+      "display": "swap",
+      "src": "url(/_next/static/media/cd79e1ff94fa521b-s.p.woff2) format(\"woff2\")",
+      "range": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0301,u+0303-0304,u+0308-0309,u+0323,u+0329,u+1ea0-1ef9,u+20ab}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "400",
+      "display": "swap",
+      "src": "url(/_next/static/media/89362aa296165c6d-s.woff2) format(\"woff2\")",
+      "range": "u+0100-02ba,u+02bd-02c5,u+02c7-02cc,u+02ce-02d7,u+02dd-02ff,u+0304,u+0308,u+0329,u+1d00-1dbf,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20ad-20c4,u+2113,u+2c60-2c7f,u+a720-a7ff}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "400",
+      "display": "swap",
+      "src": "url(/_next/static/media/e11f95d95ac59fa4-s.p.woff2) format(\"woff2\")",
+      "range": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,u+2000-206f,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "500",
+      "display": "swap",
+      "src": "url(/_next/static/media/00f4982f357db61e-s.p.woff2) format(\"woff2\")",
+      "range": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0301,u+0303-0304,u+0308-0309,u+0323,u+0329,u+1ea0-1ef9,u+20ab}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "500",
+      "display": "swap",
+      "src": "url(/_next/static/media/62a3c74fa0e47362-s.woff2) format(\"woff2\")",
+      "range": "u+0100-02ba,u+02bd-02c5,u+02c7-02cc,u+02ce-02d7,u+02dd-02ff,u+0304,u+0308,u+0329,u+1d00-1dbf,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20ad-20c4,u+2113,u+2c60-2c7f,u+a720-a7ff}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "500",
+      "display": "swap",
+      "src": "url(/_next/static/media/8201559e247ad180-s.p.woff2) format(\"woff2\")",
+      "range": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,u+2000-206f,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/2173e4bb28c315da-s.p.woff2) format(\"woff2\")",
+      "range": "u+0102-0103,u+0110-0111,u+0128-0129,u+0168-0169,u+01a0-01a1,u+01af-01b0,u+0300-0301,u+0303-0304,u+0308-0309,u+0323,u+0329,u+1ea0-1ef9,u+20ab}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/c6f81e539d11fc99-s.woff2) format(\"woff2\")",
+      "range": "u+0100-02ba,u+02bd-02c5,u+02c7-02cc,u+02ce-02d7,u+02dd-02ff,u+0304,u+0308,u+0329,u+1d00-1dbf,u+1e00-1e9f,u+1ef2-1eff,u+2020,u+20a0-20ab,u+20ad-20c4,u+2113,u+2c60-2c7f,u+a720-a7ff}"
+    },
+    {
+      "family": "Be Vietnam Pro",
+      "weight": "600",
+      "display": "swap",
+      "src": "url(/_next/static/media/25ab8995c98996d7-s.p.woff2) format(\"woff2\")",
+      "range": "u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,u+2000-206f,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}"
+    },
+    {
+      "family": "Be Vietnam Pro Fallback",
+      "src": "local(\"Arial\")"
+    }
+  ],
+  "firstRow": [
+    {
+      "variant": "irisa-bag-pink",
+      "primary": [
+        {
+          "width": 320,
+          "bytes": 2144
+        },
+        {
+          "width": 480,
+          "bytes": 3608
+        },
+        {
+          "width": 640,
+          "bytes": 5476
+        },
+        {
+          "width": 960,
+          "bytes": 10658
+        },
+        {
+          "width": 1280,
+          "bytes": 15096
+        }
+      ],
+      "secondary": [
+        {
+          "width": 320,
+          "bytes": 5196
+        },
+        {
+          "width": 480,
+          "bytes": 9072
+        },
+        {
+          "width": 640,
+          "bytes": 13002
+        },
+        {
+          "width": 960,
+          "bytes": 24410
+        },
+        {
+          "width": 1280,
+          "bytes": 38080
+        }
+      ]
+    },
+    {
+      "variant": "dalia-bag-pink",
+      "primary": [
+        {
+          "width": 320,
+          "bytes": 3144
+        },
+        {
+          "width": 480,
+          "bytes": 5498
+        },
+        {
+          "width": 640,
+          "bytes": 8324
+        },
+        {
+          "width": 960,
+          "bytes": 14536
+        },
+        {
+          "width": 1280,
+          "bytes": 22002
+        }
+      ],
+      "secondary": [
+        {
+          "width": 320,
+          "bytes": 7742
+        },
+        {
+          "width": 480,
+          "bytes": 13514
+        },
+        {
+          "width": 640,
+          "bytes": 20832
+        },
+        {
+          "width": 960,
+          "bytes": 37804
+        },
+        {
+          "width": 1280,
+          "bytes": 57728
+        }
+      ]
+    },
+    {
+      "variant": "lilia-bag-white",
+      "primary": [
+        {
+          "width": 320,
+          "bytes": 2886
+        },
+        {
+          "width": 480,
+          "bytes": 5884
+        },
+        {
+          "width": 640,
+          "bytes": 9130
+        },
+        {
+          "width": 960,
+          "bytes": 16698
+        },
+        {
+          "width": 1280,
+          "bytes": 24278
+        }
+      ],
+      "secondary": [
+        {
+          "width": 320,
+          "bytes": 8944
+        },
+        {
+          "width": 480,
+          "bytes": 17206
+        },
+        {
+          "width": 640,
+          "bytes": 27662
+        },
+        {
+          "width": 960,
+          "bytes": 59726
+        },
+        {
+          "width": 1280,
+          "bytes": 102686
+        }
+      ]
+    },
+    {
+      "variant": "mia-bag-avocado",
+      "primary": [
+        {
+          "width": 320,
+          "bytes": 7270
+        },
+        {
+          "width": 480,
+          "bytes": 14230
+        },
+        {
+          "width": 640,
+          "bytes": 22622
+        },
+        {
+          "width": 960,
+          "bytes": 42212
+        },
+        {
+          "width": 1280,
+          "bytes": 64776
+        }
+      ],
+      "secondary": [
+        {
+          "width": 320,
+          "bytes": 14228
+        },
+        {
+          "width": 480,
+          "bytes": 26654
+        },
+        {
+          "width": 640,
+          "bytes": 42320
+        },
+        {
+          "width": 960,
+          "bytes": 81342
+        },
+        {
+          "width": 1280,
+          "bytes": 135818
+        }
+      ]
+    }
+  ],
+  "imageScenarios": [
+    {
+      "name": "Mobile 390px DPR2, sizes=50vw",
+      "primaryWidth": 480,
+      "primaryTotal": 29220,
+      "hoverTotal": 66446
+    },
+    {
+      "name": "Desktop 1440px DPR2, sizes=25vw",
+      "primaryWidth": 960,
+      "primaryTotal": 84104,
+      "hoverTotal": 203282
+    },
+    {
+      "name": "Desktop 1440px DPR2, actual CSS frame about302px",
+      "primaryWidth": 640,
+      "primaryTotal": 45552,
+      "hoverTotal": 103816
+    }
+  ],
+  "imageScenariosNote": "Sizes selection estimates from source/CSS for DPR2; not a captured browser request waterfall. Native lazy-loading, screen height and cache control actual first-load requests.",
+  "buildId": "DWfw2y-3yYOcXdvGYH322",
+  "measurementMethod": "Node fs.stat, zlib compression of compiled production files, Sharp in-memory WebP85 comparison. No requests to localhost, no Lighthouse, no CWV timings."
+}

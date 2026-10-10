@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-10",
+  "note": "New Irisa, Dalia and Lilia ZIP photographs provide seven real same-variant packshot/lifestyle pairs. Older variants still await matching photos. No verified street-scene photograph.",
+  "variants": [
+    {
+      "product": "Irisa Bag",
+      "variantId": "irisa-bag-beige",
+      "color": "Be",
+      "missing": [
+        "detail"
+      ]
+    },
+    {
+      "product": "Dalia Bag",
+      "variantId": "dalia-bag-beige",
+      "color": "Be",
+      "missing": [
+        "detail"
+      ]
+    },
+    {
+      "product": "Dalia Bag",
+      "variantId": "dalia-bag-mint",
+      "color": "Xanh",
+      "missing": [
+        "detail"
+      ]
+    },
+    {
+      "product": "Lilia Bag",
+      "variantId": "lilia-bag-white",
+      "color": "Trắng",
+      "missing": [
+        "detail"
+      ]
+    },
+    {
+      "product": "Mila",
+      "variantId": "mila-bag-burgundy",
+      "color": "Đỏ đô",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Mila",
+      "variantId": "mila-bag-earth",
+      "color": "Nâu đất",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Mila",
+      "variantId": "mila-bag-milk",
+      "color": "Be sữa",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Nina",
+      "variantId": "nina-bag-burgundy",
+      "color": "Đỏ burgundy",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Nina",
+      "variantId": "nina-bag-chocolate",
+      "color": "Nâu Socola",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Nina",
+      "variantId": "nina-bag-milk",
+      "color": "Be sữa",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucia Tote",
+      "variantId": "lucia-tote-chocolate",
+      "color": "Nâu Socola",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucia Tote",
+      "variantId": "lucia-tote-milk",
+      "color": "Be sữa",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucia Tote",
+      "variantId": "lucia-tote-earth",
+      "color": "Nâu đất",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucia Tote",
+      "variantId": "lucia-tote-black",
+      "color": "Đen",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Elena Tote",
+      "variantId": "elena-tote-brown",
+      "color": "Nâu",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Elena Tote",
+      "variantId": "elena-tote-black",
+      "color": "Đen",
+      "missing": [
+        "packshot",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucky charm",
+      "variantId": "lucky-charm-brown",
+      "color": "Nâu",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucky charm",
+      "variantId": "lucky-charm-red",
+      "color": "Đỏ",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lucky charm",
+      "variantId": "lucky-charm-beige",
+      "color": "Be",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Mia Bag",
+      "variantId": "mia-bag-beige",
+      "color": "Be",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Mia Bag",
+      "variantId": "mia-bag-brown",
+      "color": "Nâu",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Mia Bag",
+      "variantId": "mia-bag-avocado",
+      "color": "Xanh bơ",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Mia Bag",
+      "variantId": "mia-bag-red",
+      "color": "Đỏ",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Calla Bag",
+      "variantId": "calla-bag-moss",
+      "color": "Xanh rêu",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Calla Bag",
+      "variantId": "calla-bag-brown",
+      "color": "Nâu",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Calla Bag",
+      "variantId": "calla-bag-black",
+      "color": "Đen",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lily Charm",
+      "variantId": "lily-charm-brown",
+      "color": "Nâu",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lily Charm",
+      "variantId": "lily-charm-red",
+      "color": "Đỏ",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    },
+    {
+      "product": "Lily Charm",
+      "variantId": "lily-charm-beige",
+      "color": "Be",
+      "missing": [
+        "lifestyle",
+        "detail"
+      ]
+    }
+  ]
+}

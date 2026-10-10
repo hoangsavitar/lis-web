@@ -8,8 +8,10 @@ export async function generateMetadata({params}:{params:Promise<{slug:string}>})
  const category=CATEGORIES.find(c=>c.slug===slug);
  return {title:slug==="all"?"Túi xách & charm":category?.name||"Sản phẩm",description:category?.description||"Túi đan, tote và charm của LIS, với những phom túi nhỏ gọn và các màu dễ phối."};
 }
-export default async function Page({params}:{params:Promise<{slug:string}>}){
+export default async function Page({params,searchParams}:{params:Promise<{slug:string}>;searchParams:Promise<{color?:string|string[]}>}){
  const {slug}=await params;
+ const {color}=await searchParams;
+ const initialColor=typeof color==="string"?color:undefined;
  if(slug!=="all"&&!CATEGORIES.some(c=>c.slug===slug))notFound();
- return <Collection key={slug} slug={slug}/>;
+ return <Collection key={slug+":"+(initialColor||"all")} slug={slug} initialColor={initialColor}/>;
 }

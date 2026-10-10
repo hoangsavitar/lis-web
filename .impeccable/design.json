@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-09T20:03:15.557025Z",
+  "title": "Design System: LIS",
+  "extensions": {
+    "colorMeta": {
+      "brand": {
+        "role": "primary",
+        "displayName": "Đỏ LIS",
+        "tonalRamp": [
+          "oklch(0.15 0.1175 19.55)",
+          "oklch(0.26 0.1175 19.55)",
+          "oklch(0.38 0.1175 19.55)",
+          "oklch(0.49 0.1175 19.55)",
+          "oklch(0.61 0.1175 19.55)",
+          "oklch(0.72 0.1175 19.55)",
+          "oklch(0.84 0.1175 19.55)",
+          "oklch(0.95 0.1175 19.55)"
+        ]
+      },
+      "brand-hover": {
+        "role": "primary",
+        "displayName": "Đỏ LIS đậm",
+        "tonalRamp": [
+          "oklch(0.15 0.0900 15.63)",
+          "oklch(0.26 0.0900 15.63)",
+          "oklch(0.38 0.0900 15.63)",
+          "oklch(0.49 0.0900 15.63)",
+          "oklch(0.61 0.0900 15.63)",
+          "oklch(0.72 0.0900 15.63)",
+          "oklch(0.84 0.0900 15.63)",
+          "oklch(0.95 0.0900 15.63)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Kem giấy",
+        "tonalRamp": [
+          "oklch(0.15 0.0070 88.64)",
+          "oklch(0.26 0.0070 88.64)",
+          "oklch(0.38 0.0070 88.64)",
+          "oklch(0.49 0.0070 88.64)",
+          "oklch(0.61 0.0070 88.64)",
+          "oklch(0.72 0.0070 88.64)",
+          "oklch(0.84 0.0070 88.64)",
+          "oklch(0.95 0.0070 88.64)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Trắng",
+        "tonalRamp": [
+          "oklch(0.15 0.0000 89.88)",
+          "oklch(0.26 0.0000 89.88)",
+          "oklch(0.38 0.0000 89.88)",
+          "oklch(0.49 0.0000 89.88)",
+          "oklch(0.61 0.0000 89.88)",
+          "oklch(0.72 0.0000 89.88)",
+          "oklch(0.84 0.0000 89.88)",
+          "oklch(0.95 0.0000 89.88)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Mực tối",
+        "tonalRamp": [
+          "oklch(0.15 0.0037 106.66)",
+          "oklch(0.26 0.0037 106.66)",
+          "oklch(0.38 0.0037 106.66)",
+          "oklch(0.49 0.0037 106.66)",
+          "oklch(0.61 0.0037 106.66)",
+          "oklch(0.72 0.0037 106.66)",
+          "oklch(0.84 0.0037 106.66)",
+          "oklch(0.95 0.0037 106.66)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Xám chữ phụ",
+        "tonalRamp": [
+          "oklch(0.15 0.0094 106.74)",
+          "oklch(0.26 0.0094 106.74)",
+          "oklch(0.38 0.0094 106.74)",
+          "oklch(0.49 0.0094 106.74)",
+          "oklch(0.61 0.0094 106.74)",
+          "oklch(0.72 0.0094 106.74)",
+          "oklch(0.84 0.0094 106.74)",
+          "oklch(0.95 0.0094 106.74)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Xám viền",
+        "tonalRamp": [
+          "oklch(0.15 0.0108 106.61)",
+          "oklch(0.26 0.0108 106.61)",
+          "oklch(0.38 0.0108 106.61)",
+          "oklch(0.49 0.0108 106.61)",
+          "oklch(0.61 0.0108 106.61)",
+          "oklch(0.72 0.0108 106.61)",
+          "oklch(0.84 0.0108 106.61)",
+          "oklch(0.95 0.0108 106.61)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Xám xanh focus",
+        "tonalRamp": [
+          "oklch(0.15 0.0201 231.38)",
+          "oklch(0.26 0.0201 231.38)",
+          "oklch(0.38 0.0201 231.38)",
+          "oklch(0.49 0.0201 231.38)",
+          "oklch(0.61 0.0201 231.38)",
+          "oklch(0.72 0.0201 231.38)",
+          "oklch(0.84 0.0201 231.38)",
+          "oklch(0.95 0.0201 231.38)"
+        ]
+      },
+      "soft-hover": {
+        "role": "neutral",
+        "displayName": "Xám hover nhẹ",
+        "tonalRamp": [
+          "oklch(0.15 0.0080 106.55)",
+          "oklch(0.26 0.0080 106.55)",
+          "oklch(0.38 0.0080 106.55)",
+          "oklch(0.49 0.0080 106.55)",
+          "oklch(0.61 0.0080 106.55)",
+          "oklch(0.72 0.0080 106.55)",
+          "oklch(0.84 0.0080 106.55)",
+          "oklch(0.95 0.0080 106.55)"
+        ]
+      },
+      "footer": {
+        "role": "neutral",
+        "displayName": "Nền footer tối",
+        "tonalRamp": [
+          "oklch(0.15 0.0078 128.79)",
+          "oklch(0.26 0.0078 128.79)",
+          "oklch(0.38 0.0078 128.79)",
+          "oklch(0.49 0.0078 128.79)",
+          "oklch(0.61 0.0078 128.79)",
+          "oklch(0.72 0.0078 128.79)",
+          "oklch(0.84 0.0078 128.79)",
+          "oklch(0.95 0.0078 128.79)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Tiêu đề trang Về LIS; responsive được mô tả ở DESIGN.md."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Tiêu đề mục và bộ sưu tập."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Tên mẫu sản phẩm trên card."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Nội dung trang."
+      },
+      "body-small": {
+        "displayName": "Body small",
+        "purpose": "Đoạn văn trong drawer và nội dung hỗ trợ."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Nút và liên kết hành động."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Mô tả card, ghi chú và số kết quả."
+      },
+      "navigation-label": {
+        "displayName": "Navigation label",
+        "purpose": "Menu desktop và tư vấn header; kế thừa line-height 1.65 từ body."
+      }
+    },
+    "shadows": [
+      {
+        "name": "card-save",
+        "value": "0 1px 3px #0000000c",
+        "purpose": "Tách nút lưu khỏi ảnh."
+      },
+      {
+        "name": "color-popover",
+        "value": "0 10px 30px #2222201a",
+        "purpose": "Lớp nổi bộ lọc màu."
+      },
+      {
+        "name": "drawer",
+        "value": "-10px 0 50px #0002",
+        "purpose": "Panel bên phải."
+      },
+      {
+        "name": "sticky-selection",
+        "value": "0 -4px 24px #00000008",
+        "purpose": "Thanh chọn ở đáy PDP."
+      }
+    ],
+    "motion": [
+      {
+        "name": "swatch-hover",
+        "value": "background .16s",
+        "purpose": "Nền hover của vùng chọn màu."
+      },
+      {
+        "name": "control-hover",
+        "value": "background .18s, border-color .18s",
+        "purpose": "Nút và bộ lọc."
+      },
+      {
+        "name": "header-transition",
+        "value": "background .2s, color .2s, border-color .2s",
+        "purpose": "Đổi trạng thái header."
+      },
+      {
+        "name": "card-media-preview",
+        "value": "opacity 180ms ease-out",
+        "purpose": "Crossfade packshot sang lifestyle cùng variant sau decode, khi có cặp thật; không phóng ảnh."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none; transition: none; scroll-behavior: auto",
+        "purpose": "Áp dụng khi prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "single-column-below",
+        "value": "360px"
+      },
+      {
+        "name": "mobile-below",
+        "value": "768px"
+      },
+      {
+        "name": "drawer-menu-below",
+        "value": "1024px"
+      },
+      {
+        "name": "four-column-from",
+        "value": "1200px"
+      },
+      {
+        "name": "compact-header-below",
+        "value": "1280px"
+      },
+      {
+        "name": "header-container-drawer-below",
+        "value": "55em"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Nút chính",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Nút cửa hàng từ app/globals.css, kèm hover và focus bàn phím.",
+      "html": "<button class=\"ds-btn-primary\">Nhắn LIS trên Facebook</button>",
+      "css": ".ds-btn-primary{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:12px 22px;border:1px solid var(--brand,#630d1a);border-radius:8px;font-size:16px;font-weight:500;line-height:1.5;text-align:center;cursor:pointer;transition:background .18s,border-color .18s;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;background:var(--brand,#630d1a);color:#fff;border-color:var(--brand,#630d1a);}.ds-btn-primary:hover{background:#460915;border-color:#460915;}.ds-btn-primary:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}.ds-btn-primary:disabled{opacity:.5;cursor:not-allowed;}@media(prefers-reduced-motion:reduce){.ds-btn-primary{transition:none;}}"
+    },
+    {
+      "name": "Nút phụ",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Nút cửa hàng từ app/globals.css, kèm hover và focus bàn phím.",
+      "html": "<button class=\"ds-btn-secondary\">Xem sản phẩm</button>",
+      "css": ".ds-btn-secondary{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:12px 22px;border:1px solid var(--brand,#630d1a);border-radius:8px;font-size:16px;font-weight:500;line-height:1.5;text-align:center;cursor:pointer;transition:background .18s,border-color .18s;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;background:transparent;color:var(--ink,#222220);border-color:var(--line,#deded6);}.ds-btn-secondary:hover{background:#eeeee8;border-color:#a8a8a0;}.ds-btn-secondary:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}.ds-btn-secondary:disabled{opacity:.5;cursor:not-allowed;}@media(prefers-reduced-motion:reduce){.ds-btn-secondary{transition:none;}}"
+    },
+    {
+      "name": "Nút sáng",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Nút cửa hàng từ app/globals.css, kèm hover và focus bàn phím.",
+      "html": "<button class=\"ds-btn-light\">Xem sản phẩm</button>",
+      "css": ".ds-btn-light{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:12px 22px;border:1px solid var(--brand,#630d1a);border-radius:8px;font-size:16px;font-weight:500;line-height:1.5;text-align:center;cursor:pointer;transition:background .18s,border-color .18s;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;background:#fff;color:var(--ink,#222220);border-color:#fff;}.ds-btn-light:hover{background:#eae9e3;border-color:#eae9e3;}.ds-btn-light:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}.ds-btn-light:disabled{opacity:.5;cursor:not-allowed;}@media(prefers-reduced-motion:reduce){.ds-btn-light{transition:none;}}"
+    },
+    {
+      "name": "Tìm sản phẩm",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "Trường tìm kiếm theo tên mẫu hoặc màu trong drawer.",
+      "html": "<label class=\"ds-search-label\" for=\"ds-search\">Tên mẫu hoặc màu</label><div class=\"ds-search-field\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 256 256\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M229.66,218.34l-50.07-50.06a88.11,88.11,0,1,0-11.31,11.31l50.06,50.07a8,8,0,0,0,11.32-11.32ZM40,112a72,72,0,1,1,72,72A72.08,72.08,0,0,1,40,112Z\"/></svg><input class=\"ds-search-input\" id=\"ds-search\" type=\"search\" placeholder=\"Tên mẫu hoặc màu, ví dụ: Mia, đỏ\"/></div>",
+      "css": ".ds-search-label{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);}.ds-search-field{display:flex;align-items:center;gap:10px;border:1px solid #aaa9a1;border-radius:8px;background:var(--surface,#fff);color:var(--ink,#222220);padding:0 14px;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;}.ds-search-field:focus-within{outline:2px solid var(--focus,#46535a);outline-offset:3px;}.ds-search-field svg{flex-shrink:0;}.ds-search-input{border:0;outline:0;min-width:0;width:100%;min-height:56px;background:transparent;font-size:16px;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;}"
+    },
+    {
+      "name": "Menu chính",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Liên kết desktop; màn nhỏ dùng drawer của header.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Menu chính\"><a href=\"/collections/all\" aria-current=\"page\">Sản phẩm</a><a href=\"/collections/tui-xach-tay\">Túi xách</a><a href=\"/collections/tui-tote\">Tote</a><a href=\"/collections/phu-kien-charm\">Charm</a><a href=\"/ve-lis\">Về LIS</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;flex-wrap:wrap;gap:24px;color:var(--ink,#222220);font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;}.ds-nav a{display:flex;align-items:center;min-height:44px;font-size:16px;font-weight:500;line-height:1.65;color:inherit;text-decoration:none;}.ds-nav a:hover,.ds-nav a[aria-current=\"page\"]{text-decoration:underline;text-underline-offset:7px;text-decoration-color:var(--brand,#630d1a);}.ds-nav a:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}"
+    },
+    {
+      "name": "Chip danh mục",
+      "kind": "chip",
+      "refersTo": "category-chip",
+      "description": "Danh mục được chọn dùng aria-pressed và nền mực tối.",
+      "html": "<div class=\"ds-chips\" role=\"group\" aria-label=\"Lọc loại sản phẩm\"><button aria-pressed=\"true\">Tất cả</button><button aria-pressed=\"false\">Túi xách</button><button aria-pressed=\"false\">Tote</button></div>",
+      "css": ".ds-chips{display:flex;flex-wrap:wrap;gap:8px;}.ds-chips button{min-height:44px;padding:9px 20px;border:1px solid var(--line,#deded6);border-radius:24px;background:transparent;color:var(--ink,#222220);font-size:16px;line-height:1.5;cursor:pointer;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;}.ds-chips button[aria-pressed=\"true\"]{background:var(--ink,#222220);border-color:var(--ink,#222220);color:#fff;}.ds-chips button:hover:not([aria-pressed=\"true\"]){background:#eeede7;}.ds-chips button:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}@media(max-width:767px){.ds-chips{gap:6px;}.ds-chips button{padding-inline:14px;}}"
+    },
+    {
+      "name": "Card sản phẩm",
+      "kind": "card",
+      "refersTo": "product-card",
+      "description": "Card vuông, tên/chấm màu/tên màu/Hỏi giá và lưu luôn hiện. Nhúng packshot Mia Be thật; chưa có cặp lifestyle cùng variant để preview hai ảnh.",
+      "html": "<article class=\"ds-card\"><div class=\"ds-card-image-wrap\"><a class=\"ds-card-image\" href=\"/products/mia-bag?variant=mia-bag-beige\" aria-label=\"Xem Mia Bag màu Be\"><img class=\"ds-card-photo\" src=\"data:image/webp;base64,UklGRloSAABXRUJQVlA4IE4SAACwaACdASpAAUABPm02lkikIqIhJTJJgIANiWlu/HyZyOQDKJYl63dYQ55fcSc7Lps3oAdLPgSvl7s7trG7fa3LZiFcn1Y53jJAsTd3d3d3d3d3d3d3d3d3d3d3d3d3d3d2wnJNFi/FVVVVVSowlK7HrhFgN+/v1cRrE2DF+i9Tsyzd3d3d3d2WuL4wrM/PjRwFi9aiaIUBWp2wY1BfiqqqqmmgKgUelVG1vTVPXkCgkmKqPE7u7u7u6tr5pL3VJaykPOIOvm0J0ZNMzMzMyBrlTwVqTFa0a3yTL5HCs9Vri1VVVVUZWdM1y3tqcIlXq93S6Wvr37qKt3d3d0YMNEGm13LPDIFIeXA8h9nEf5JqGbqqvxid0FAgXJsIPV0g4sniYpZpUi8uUAvmI9/G5EI9zfZcElFFHBLzQDeT11wPOegwjomLEwQndOsYTiBH5M+PoWv7Ev2Ky/RVVgMoYNDw9i8QNa/Zw8vmbiWYDVfSwZTx+2kNaZmNrAopMFFfeGtCXySAvlGp/uI+EfQF33cL14iIXv+yD4DDYVdanRnaickQO6g4bjTiaZ+1c0UOcGF7EfSN0Kg0/EYjj/BGEXDZtUzIGgISgqt+0R7WjVVal1diIFKUARi5nttRYR1nJFQnmUIoqEIaerh2F37UTaJXVhR9Umdai8EkCcG/I1XhJRNnkZk26fYL+A+xn1FWIaz1tKbguJOdx3X8jUNUIhd7NdnFGrCHHkC131EacnSPkZ5CTrkYv3EINGG2c4SXCsoCE0VHkhRt3lfHq2efynM8RElN6mQsHhG4bvaQLQyL8m7k3o5C6gLfhHeOblY1HiG0H9Q7L+XE37lgY5eeaVGJnP5fzj6caoH4GEdJZcb8NSgKEDrScfhDkjRODZY3Nsw0HFCfmpCX0Jk9S8pjnTvl6Vy1RqYQSZ5RgobLrazoDUGx1nVR3rrbXRt3UJJ3yb/ZjsYH433s1dTqdm6OUI5P3eBb05UMWsAw2Wij5d7+EpLNQJqDLpGv+ok5b/U4O9H0w/f2dUyjP8jApRACpKvmNFNMw2eRPTSFc2rhaV/n/2d8Z/ibCNrxxad3d7qveYdsRJnlntPb5KLV7u7u7u7u7u7u7u7u7u7u7u7ukAAA/v/cOAAAAAAQpQABuSTArGjADUw5h9SEwfMOzfxzrUv+emSBQFt6B+ucfzwFwX8Zy3wtFHhQjCCWmK4DzpsydIdr2vWmaTJ7RjpaNrI1yEKvDuDB+NYEiQFQdtan3Nv/gZX23CtohPN6ELxaCGMWqGof93BzZxE2SNJIpRfXQLeB3DJQuxpNb01IPx6pKPxc5wEuWSGqjNIg8w/ftT28ern14CL6c0USHED8DIg+BUu6sObcNLlW1bmfMr8CFBM+ycARgF/YA4ywd4GVwvu4QkcLekFyR0uZmxnBg2AF5tNVH2uMK1wUnrzRRhxfCcwnK+Yg0g8A+v9KdOsJJhoimlIirApnRhlJ1SXs/MG6v+Kpl9y5chN6vwsQsZ7ywJhgdHBuwDW/84VMn1xpLfC487ENnBAd5QCEAiDarfHD53Sx5WwnqO5ru7VeOq7ntc4eXV0Ajt+WiCY1E9dZhyXo0bdquAEcVa/Bd3OmVODRBMG7s9+5NNspRybHP2ARyB335Jx+SFgOmeuK0lJuHgE6FiC5Ombpcjoc03CYEZqUy2mLEScLFmallm6phIdAWno8QzbmpqtOwxrdIzAZxY3XURYL7nuDnda6YvLqtwJScr7AIAtRVqGdKohWeJyDatcUqOpnAUJE27m+1j/hoeNs9Jgiym62zXaUswWn/nlKv9ZOAyupbw8rVC45CfcgWnTPgQlegQym2yPeRPYGJERuDMNuxAjwb0oXCAj7IrwxvPBOQ9djNAyuxqwPEOIpnfqaLaCf9OlDgf2mgT4t0QO4dY95JQbK/Rp//s7rHbLZbe40DzIr3UA2GjRVBmd0d0UVjEQy+yaQJ7nm8kkuIbXxrfmn40YbuniF5rV6fUhKMFZnKajNQs9AvbQcR6k5SRMdmGLt28pgi2EQrsD1ShX8CNaTVqw6b3rOyO3Cjd7TtH/EABKUBnBsvQRZEDcQ9BxxEjMTZZnsB7tefUWIIzBQjn4cOnS47lD+43QXuxE8JEeVE24JBqLLvUwjGnr3V/RBA4UjB3nsCJzux9dKgwG3PUCqO65P87uDMk6ERqtIDv9si2OfyJQOzQ5a7sjPf0RVCGKqo7uaInYUDAzm8+sG04+IHU1KfxRh/wGinMpgIQX5Y7FywpiPc05F7g858eILvmKRBH5idMEBw6gZJ+bbsE0owN937FEQqB1D8HQkDNobHPVGhh+PaNGNKWSXGo21pSIcOO7Kc0HHX9nrcVUoRmH0CB0vDOJkoN16UZyMc2/5e4S7cDK+EjYWq6bPqJ8R9697r73+CcMmm2l2ZHJF2SYP5yQQDD/NG6UUIhfjzBJxTZI8CuXvav3Ym5Q9cIJD3sKLyX4NCgCMeDI2+nRhowcfn2PrmCoGs2hLb5w6IO06mvZ0HWS1L1UabNioJ94yJ01UXo86Lx18ciYiAQ13tk1gG2JMy5YcWxR2zYgc6bRDBvBRObXTCRQ1ERqI0VaaNHQCSvYN9bcV7lCUwNmQ2AktD043086faDRbKYc0kwBvMlibHS/dPTSg9FkBUnJhmj8y8YOi/45uH3KX1rpfZzeNJDjXEfssMHcoew9AF0MSlhia8ESVRez8KdKNQB5JB5I8QtThkxJId/gtLKuTC/mgLO9miW+grWRT17foDTb9aIKeDTnnIoqd8Hf+Fpjm8M+Rtd5EVHm2jkFD+1hPZWH1hovtwZn0iWFHJKH/GkB4/SsDoQktJtsHhOlX06ynG9qh0rFQtRATMrdvMzYZqhN5MqPC7oLai+EJBXnEpIame3QfEhpnwpq8NrvDGM7Tp4vS7qfCcAXg3yFtULNXxaYKMp1L/wWxDh8aXG96Q6+igQggdGPsuQGBhcJr0b+SAhKiqNwZnD8S2CMsHdoWLTb9GCTaE0Vk3zoUIFr3iq/eTecrCg7N4odOVJwaStQTavpNymqMxq3dOPagCcNT+kEx9C/fdH0PsUk/nGbZ8f6oVVH4Z9IE2+JxOpMqrj+XCZomj5PdCfBgj5/jxIbU/C/7cJ8sXa7GoKvDWzmoyt+WsXP/pEpvswEc2+kOTaYM4McdPPdTzZEJrAHGcXmD9NYLZIa0j8rpn1nSAwknG1kjUZ3j9P+445xDGul+cB1N0ROHGcVeQ7vdKvesAh7zEMcnjbpFydcalH5faQxrj4aox+y+E0mbn+R6qOQSQbHfXTocfPYb3tVsMcPkkpCWPTuvIq7OJ2BT3ro53Da3kh+4yc7tFhqszSWhSAwbho3RWeJHv1xw6oDOECh/hLRx7tNOXUdHalJBKie7t6KoXutdrSWeNuDoqNqORYsLR65015cq8cOcCZECNeb0kNAQvRRdPYIO+Z1uDUc6UiuHgYRwKY9TcEF+g1xWLD0kPraKO27xM3iL5MfjY0NeSqypwNnKYqQOKF4TZjHf6kqBnDTZGWGzQXp1Dyxvx5OmxLXFJwTX1qC+AGZ/Zy6RSk5kLk8MM6g2WqyWgZPP00zPo2sZwMsoP5OQtBgivgE2T0lHdr8cvc7ozuNHR08wxruFq6th62Z1xSfyruDXepD7/j2ZBkqvPfo9SR2Hk6onBFSCebwbmHXowjB2W9Gfgq8wdIl0p4CLHNkBghL+HBiwipT6k4gmWkqN2DcWHOhU3tPIm3xY1t0eDACxxSo7BLWXF2S+NoEjTfxcmu9vhUy/SmlPDRJqmPx0xwrexJf2TDr0SJE6ixN9veza78dbgmu+UkbUu4zIxGCZWTlDfnR/Qf5WG0+1lJYcGRuK6cj9vBRGNgBO8WPgILC5nQeDCv+5Nl3l/TiM4chIGuqKTkCVxmB354X358zWHedkEAU/bm5He+d2AJDXH5VKKrOMMhSlqfGcD8Zr+bMRr6VC3s5xh8tr0wf6U4SrkdoHmlCSgC/xEXkeTbrgw44x4NTTYNCWakwfOARywMJm5jA7g5mhWh55eShVYGukhNNAMi5NHOw9cSNGAr8o6DYrdvip1osxHUsCv2mcUGIGcYrwqH8k7ClCXs/E+3t1qhafWbXDs4k1i5u38i6C3/zuKXpRi+m9iuhqgMKrLeBRX4PnE0mG2GBzwonaufmx7b1DOrlV0jc3JFM0dhUFd8FVku6GiRyrAW7N00ABOekkpKCmYc2JNRbdPYXQ4kvopIDRRiWfrF9hjwnNeolBqkS5t/Qa/sf63MYA3sXkvxZKtSJaEtrrG/CIuBxibTs1WNzJyyiVEQ6BQUAKZv/LT/9HKTIxdrpTjdLDb3dJ4EGfev7BQB7nAQ+8QttYX6aYHMnhyCTJYFu190ubu8XnnNISH+HW7k0spRvlUrVd2eRioqsAscJlOpC6GmVufznSiTbD4XyOUU0/YtzRrQUIvzLKjN+d1ZR2o9Zz1/X40qhuQNVCU/DNdGPBjW8dpOXmjBzrnVIQ5KwKCjJF+Whjko6q+Xfg4FmqiY8PQmvSOgKKIMKTgpTAavas+fwJP61a+icaIBanuFdnsrjMcGrWG9M/d1mq/UfwU1u6Lfha+J8uzqJF0BfMw2450mqwuwUM7dfJOn2oilWh9yMtWyp8DqD52yOcIs2THtTbSng6bm3TbIC35nrX7tdOCeYM67CeZYDvO5wSdKVFQSiavRS3F2RcO6PfrSF/BnrFPips66cOkTp7Ej4IJtJSEvqOFO8KX5qUG+o1P/vIWITk6X0MpGYWwVpC1NOq9uhsY16CnKBshn7pGfNC46MA4/MgQOY1uwe/tKMm6kRxz/ajwjszsBCPnueKzgNoaci1qluLm6fZPYaSRdIpL4GiS/B5MKXFhZmtvulhOcpAwuN+2VEV5JvHeBm6InoL84joHEIOA8Wbs0wkcCnVnJF/UAqrX/DB/TD1MAzBUhJvJ9Mql9cwPbKOZlwxHPPslwfTdnTJAW2umkW8e4tDF9TghwXX+rkHW6ITLtJuppwoat1WkZiQ3ctckwhi2TIOLDHsjoQPIYIMIsFgeMsvxSK2KIHBidA3xhq5Dky5TDQjEed2LDnb/4pvngsYvoYhcpbU566rcb8hx8wbNExUDZ/l8cwb9ZjcXHNBbVGA23gdegqazMJtmKnjuusGy5fESGpdhCLRnVLPb0Zs2yeWKebsTsag7JFqFfkn7B4KQlgSs5P0KAgKG51RIy9RVPb+K+tZL3qsXNszppZjI2NdgBOyATXsnv/hmJW83QTeLpvg5M7M3ivCrNVir6LGwRpjXDPAKQpfmaNN/Ywfp6nnT7QAie/N37XJL76VKg5S9u3y14M+uqZc8cjwl7vZTMptxe6zeakxtULPokPxVVtwSaqlizVSPkbbEiB0Ek/mdDjMhgDMMh+/pDi8/xRzhqgUGQZWR+9Jq/DN8e0jJka+etPV2wgzkyGNbrl0t9JfKD6OAlqi/sHrbtenPZJVYmFLO7+BwFw1ClFnrpIFMwehXF05neWbERV18UVfHKIb2CUzkxrquY6xpiGa6UgGYBrL/LEyUzffFLbwX/OVTXs3kVwmk8pRPAl6+vs+aM9/Hqb2uXk9WbtbJYMioOUMqIJcDOa0JJEwYw7CpnqN/rFkqFh7aXOkbJoEUv8yluIxVw9DGIyJmuFn0HzoMpRF/K7QXeEXB0o5TRkUKVIgY8BiHkQH6x/i74AtcPagCWltwsIk7Fp8oPLwkqHiNQte/PeLxXOwRfjFhMjb2bSu6xf+B9qnVYXPfPLal4OsQa6zhloY2MGDY7iSylIbslYRGrvop1ue7Aq8eJWCVinifYq3Cpc8xhrhOhkP+yz8dWGw7NJ6/SG/8/9+iylD+nG/YHa6QB38pIkZAhkmkJPQCHao9oBxKefDVnGjkSQQEeQnqIpUL8EtR8iJOiHUUZI6bSHXf25/S5tSqVlqQyE1v6g4n3LNvC5AnThkgXaiQrC6GNtyXbaPzQfS2LhoACFIJ/mlksLJ1RETr/7/be2YqqCjoXvztPNea72gMFvBuU5o6v40/c4AyXqny1XDvtiaLmnUZ9pSYhGk+5HcYDPiWWvQ93stZ5JxK3EWd3Ep9bNGNEPTPSMVYXYMZ9Sybu4Veto923g0TFJGbLz1y0GS1xanFmfV3eAGT9yu0Xzc7nfUibi+WMXpffYkaXV/B1m9HuoRMnVu9GKlk7JDXVAyYpwF3Bg3IB+2NJ3AAAAAAAAAAAA=\" alt=\"Mia Bag — Be\"/></a><button class=\"ds-card-save\" aria-label=\"Lưu Mia Bag màu Be\"><svg width=\"23\" height=\"23\" viewBox=\"0 0 256 256\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M178,40c-20.65,0-38.73,8.88-50,23.89C116.73,48.88,98.65,40,78,40a62.07,62.07,0,0,0-62,62c0,70,103.79,126.66,108.21,129a8,8,0,0,0,7.58,0C136.21,228.66,240,172,240,102A62.07,62.07,0,0,0,178,40ZM128,214.8C109.74,204.16,32,155.69,32,102A46.06,46.06,0,0,1,78,56c19.45,0,35.78,10.36,42.6,27a8,8,0,0,0,14.8,0c6.82-16.67,23.15-27,42.6-27a46.06,46.06,0,0,1,46,46C224,155.61,146.24,204.15,128,214.8Z\"/></svg></button></div><div class=\"ds-card-info\"><a class=\"ds-card-title\" href=\"/products/mia-bag?variant=mia-bag-beige\"><h3>Mia Bag</h3></a><div class=\"ds-card-swatches\" role=\"group\" aria-label=\"Chọn màu\"><button type=\"button\" aria-label=\"Be\" aria-pressed=\"true\"><span class=\"ds-card-beige\"></span></button><button type=\"button\" aria-label=\"Nâu\" aria-pressed=\"false\"><span class=\"ds-card-brown\"></span></button><button type=\"button\" aria-label=\"Xanh bơ\" aria-pressed=\"false\"><span class=\"ds-card-avocado\"></span></button><button type=\"button\" aria-label=\"Đỏ\" aria-pressed=\"false\"><span class=\"ds-card-red\"></span></button></div><p class=\"ds-card-color\" aria-live=\"polite\">Be</p><a class=\"ds-card-contact\" href=\"https://www.facebook.com/lisbyliiofficial\" target=\"_blank\" rel=\"noopener noreferrer\">Hỏi giá</a></div></article>",
+      "css": ".ds-card{min-width:0;background:transparent;color:var(--ink,#222220);font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;}.ds-card-image{display:block;aspect-ratio:1/1;border-radius:12px;overflow:hidden;background:#eeede8;color:inherit;text-decoration:none;}.ds-card-image-wrap{position:relative;}.ds-card-photo{display:block;width:100%;height:100%;object-fit:contain;}.ds-card-save{position:absolute;top:10px;right:10px;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border:0;border-radius:50%;background:rgba(255,255,255,.96);color:var(--ink,#222220);box-shadow:0 1px 3px #0000000c;cursor:pointer;}.ds-card-save:hover{background:#fff;color:var(--brand,#630d1a);}.ds-card-save:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}.ds-card-info{padding:12px 0 0;}.ds-card-title{display:inline-block;color:inherit;text-decoration:none;}.ds-card-title h3{margin:0;font-family:var(--font-heading,Manrope),sans-serif;font-size:22px;font-weight:600;letter-spacing:-.025em;line-height:1.4;}.ds-card-title:hover{text-decoration:underline;text-underline-offset:5px;}.ds-card-swatches{display:flex;flex-wrap:wrap;margin-top:5px;}.ds-card-swatches button{display:flex;align-items:center;justify-content:center;width:44px;height:44px;border:0;border-radius:8px;background:transparent;cursor:pointer;transition:background .16s;}.ds-card-swatches button:hover{background:#eaeae4;}.ds-card-swatches span{display:block;width:24px;height:24px;border-radius:50%;border:1px solid rgba(0,0,0,.15);}.ds-card-beige{background:#dfd8bd;}.ds-card-brown{background:#483032;}.ds-card-avocado{background:#9eac75;}.ds-card-red{background:#7b303c;}.ds-card-swatches button[aria-pressed=\"true\"] span{outline:1.5px solid var(--ink,#222220);outline-offset:3px;}.ds-card-swatches button:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}.ds-card-color{margin:0;color:var(--muted,#62625c);font-size:14px;line-height:1.7;}.ds-card-contact{display:inline-flex;align-items:center;min-height:44px;margin-top:3px;color:var(--brand,#630d1a);font-size:16px;font-weight:500;line-height:1.5;text-decoration:none;}.ds-card-contact:hover{text-decoration:underline;text-underline-offset:5px;}.ds-card a:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}@media(max-width:767px){.ds-card-title h3{font-size:18px;}.ds-card-color{min-height:48px;}.ds-card-save{right:6px;top:6px;}}@media(max-width:359px){.ds-card-color{min-height:0;}}@media(prefers-reduced-motion:reduce){.ds-card-swatches button{transition:none;}}"
+    },
+    {
+      "name": "Chấm chọn màu",
+      "kind": "custom",
+      "refersTo": "color-swatch",
+      "description": "Vùng bấm 44px; vòng đen thuộc màu đang chọn, focus là trạng thái riêng.",
+      "html": "<div class=\"ds-swatches\" aria-label=\"Màu Mia Bag\"><button aria-label=\"Be\" aria-pressed=\"true\"><span class=\"ds-swatch-first\"></span></button><button aria-label=\"Nâu\" aria-pressed=\"false\"><span class=\"ds-swatch-second\"></span></button></div>",
+      "css": ".ds-swatches{display:flex;flex-wrap:wrap;}.ds-swatches button{display:flex;align-items:center;justify-content:center;width:44px;height:44px;border:0;border-radius:8px;background:transparent;cursor:pointer;transition:background .16s;}.ds-swatches button:hover{background:#eaeae4;}.ds-swatches span{display:block;width:24px;height:24px;border-radius:50%;border:1px solid rgba(0,0,0,.15);}.ds-swatch-first{background:#dfd8bd;}.ds-swatch-second{background:#483032;}.ds-swatches button[aria-pressed=\"true\"] span{outline:1.5px solid var(--ink,#222220);outline-offset:3px;}.ds-swatches button:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-swatches button{transition:none;}}"
+    },
+    {
+      "name": "Nút chiến dịch Dearly",
+      "kind": "button",
+      "refersTo": "campaign-action",
+      "description": "Nút Chọn quà 20.10 của banner; cùng màu thương hiệu, góc 2px riêng cho bề mặt này.",
+      "html": "<a class=\"ds-campaign-action\" href=\"#thiet-ke\">Chọn quà 20.10<svg width=\"20\" height=\"20\" viewBox=\"0 0 256 256\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z\"/></svg></a>",
+      "css": ".ds-campaign-action{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:12px 22px;border:1px solid var(--brand,#630d1a);border-radius:2px;font-size:16px;font-weight:500;line-height:1.5;text-align:center;cursor:pointer;text-decoration:none;transition:background .18s,border-color .18s;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;background:var(--brand,#630d1a);color:#fff;border-color:var(--brand,#630d1a);}.ds-campaign-action:hover{background:#460915;border-color:#460915;}.ds-campaign-action:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}.ds-campaign-action:disabled{opacity:.5;cursor:not-allowed;}@media(prefers-reduced-motion:reduce){.ds-campaign-action{transition:none;}}@media(max-width:767px){.ds-campaign-action{padding-inline:18px;}}"
+    },
+    {
+      "name": "Dearly — chữ và hành động mobile",
+      "kind": "custom",
+      "refersTo": "campaign-mobile-copy",
+      "description": "Khối mobile dưới ảnh trên nền hồng liền mạch; desktop dùng chữ có sẵn trên ảnh.",
+      "html": "<section class=\"ds-campaign-mobile\"><h1 class=\"ds-campaign-heading\">Dearly<span class=\"ds-campaign-date\">Quà tặng 20.10</span></h1><div class=\"ds-campaign-actions\"><a class=\"ds-campaign-button\" href=\"#thiet-ke\">Chọn quà 20.10<svg width=\"20\" height=\"20\" viewBox=\"0 0 256 256\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z\"/></svg></a><a class=\"ds-campaign-contact\" href=\"https://www.facebook.com/lisbyliiofficial\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Nhắn LIS trên Facebook (mở tab mới)\">Nhắn LIS<svg width=\"20\" height=\"20\" viewBox=\"0 0 256 256\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z\"/></svg></a></div></section>",
+      "css": ".ds-campaign-mobile{background:#efd2cf;color:var(--brand,#630d1a);padding:22px 24px 28px;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;}.ds-campaign-heading{margin:0 0 20px;font-family:var(--font-heading,Manrope),sans-serif;font-size:36px;font-weight:600;line-height:1.25;letter-spacing:-.025em;}.ds-campaign-date{display:block;margin-top:6px;font-family:var(--font-body,\"Be Vietnam Pro\"),sans-serif;font-size:18px;line-height:1.6;font-weight:400;letter-spacing:0;}.ds-campaign-actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px 24px;}.ds-campaign-button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:12px 18px;border:1px solid var(--brand,#630d1a);border-radius:2px;background:var(--brand,#630d1a);color:#fff;font-size:16px;font-weight:500;line-height:1.5;text-decoration:none;transition:background .18s,border-color .18s;}.ds-campaign-button:hover{background:#460915;border-color:#460915;}.ds-campaign-contact{display:inline-flex;align-items:center;gap:7px;min-height:48px;color:var(--brand,#630d1a);font-size:16px;font-weight:500;text-decoration:underline;text-underline-offset:6px;}.ds-campaign-contact:hover{text-decoration-thickness:2px;}.ds-campaign-mobile a:focus-visible{outline:2px solid var(--focus,#46535a);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-campaign-button{transition:none;}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Cửa hàng LIS",
+    "overview": "Hệ thống hiện có dành phần lớn diện tích cho ảnh túi và charm thật. Nền kem, mặt trắng, chữ tối và đỏ lấy từ logo tạo một cửa hàng nhẹ, dễ đọc và dễ xem màu sản phẩm. Đây là bản ghi từ giao diện đã triển khai, dựa vào app/globals.css, app/layout.tsx và các thành phần cửa hàng.\n\nGiữ logo được người dùng cung cấp, Manrope cho tiêu đề và Be Vietnam Pro cho nội dung tiếng Việt. Nội dung và thao tác đi cùng ảnh, với vùng bấm đủ lớn và trạng thái chọn màu rõ ràng. Các cấu trúc chiến dịch riêng được ghi ở hợp đồng bề mặt; chúng không thay thế hệ thống cửa hàng chung.",
+    "keyCharacteristics": [
+      "Ảnh sản phẩm thật và màu đang chọn dẫn trải nghiệm.",
+      "Nền kem, mặt trắng, chữ tối và đỏ thương hiệu dùng tiết chế.",
+      "Tiêu đề Manrope 600, nội dung Be Vietnam Pro dễ đọc tiếng Việt.",
+      "Bố cục thoáng, điều khiển có focus rõ và vùng bấm từ 44px."
+    ],
+    "rules": [
+      {
+        "name": "The Logo Source Rule",
+        "body": "Dùng bản logo có alpha trong public/brand/lis/, xuất từ logo người dùng; không dựng lại chữ LIS bằng font.",
+        "section": "colors"
+      },
+      {
+        "name": "The Vietnamese Type Rule",
+        "body": "Giữ cặp font có subset tiếng Việt; không thay hệ tiêu đề hoặc dùng nhãn tiếng Anh viết hoa để thêm điểm nhấn.",
+        "section": "typography"
+      },
+      {
+        "name": "The Overlay Depth Rule",
+        "body": "Dùng độ nổi cho điều khiển che lên nội dung; card sản phẩm giữ nền mở và không có hộp shadow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do dùng logo có alpha, ảnh và tên màu thật từ catalog LIS.",
+      "Do giữ Manrope 600 và Be Vietnam Pro có tiếng Việt.",
+      "Do giữ vùng bấm từ 44px và vòng focus nhìn rõ trên nền hiện tại.",
+      "Do giữ mọi ảnh/card theo màu đã chọn; chỉ preview lifestyle khi có cặp cùng variant và giữ primary khi ảnh thứ hai lỗi.",
+      "Do áp prefers-reduced-motion cho chuyển động và scroll."
+    ],
+    "donts": [
+      "Don't vẽ lại logo bằng font hoặc thay hệ font trong một lần sửa bề mặt.",
+      "Don't thêm hộp shadow bao quanh card sản phẩm phẳng.",
+      "Don't lặp hướng dẫn thao tác dài hoặc thêm nhãn tiếng Anh viết hoa làm điểm nhấn.",
+      "Don't đưa bố cục của một chiến dịch thành quy tắc cho mọi trang."
+    ]
+  }
+}

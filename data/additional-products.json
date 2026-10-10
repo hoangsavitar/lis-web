@@ -1,0 +1,876 @@
+[
+  {
+    "id": "irisa-bag",
+    "slug": "irisa-bag",
+    "title": "Irisa Bag",
+    "subtitle": "Dáng ngang thanh thoát, quai mảnh và nơ nhỏ hai bên. Nhẹ nhàng cho ngày thường hay một buổi hẹn.",
+    "description": "Phom chữ nhật ngang, mềm vừa phải nhưng vẫn gọn dáng. Quai dài bản mảnh để xách tay hoặc đeo vai; nơ hai bên và logo LIS nhỏ tạo điểm nhấn trên bề mặt trơn tối giản.",
+    "collection": "Dearly",
+    "dimensions": "26 × 12 × 10 cm (ngang × cao × đáy)",
+    "material": "Da PU cao cấp",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "irisa-bag-pink",
+        "name": "Hồng",
+        "hex": "#e5b6c0",
+        "image": "/images/catalog/irisa-bag/pink/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/irisa-bag/pink/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/pink/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/01-packshot.jpg",
+            "alt": "Irisa Bag — Hồng"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/pink/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/pink/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/02-lifestyle.jpg",
+            "alt": "Irisa Bag — Hồng — góc 2"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/pink/angle-3-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/pink/angle-3",
+            "kind": "detail",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/03-detail.jpg",
+            "alt": "Irisa Bag — Hồng — góc 3"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/pink/angle-4-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/pink/angle-4",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/04-lifestyle.jpg",
+            "alt": "Irisa Bag — Hồng — góc 4"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/pink/angle-5-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/pink/angle-5",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/05-lifestyle.jpg",
+            "alt": "Irisa Bag — Hồng — góc 5"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/pink/angle-6-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/pink/angle-6",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/06-lifestyle.jpg",
+            "alt": "Irisa Bag — Hồng — góc 6"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/pink/angle-7-1254.webp",
+            "width": 1254,
+            "height": 1254,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1254
+            ],
+            "base": "/images/catalog/irisa-bag/pink/angle-7",
+            "kind": "detail",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/pink/07-detail-size.jpg",
+            "alt": "Irisa Bag — Hồng — góc 7"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      },
+      {
+        "id": "irisa-bag-beige",
+        "name": "Be",
+        "hex": "#e5e4d9",
+        "image": "/images/catalog/irisa-bag/beige/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/irisa-bag/beige/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/beige/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/beige/01-packshot.jpg",
+            "alt": "Irisa Bag — Be"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/beige/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/beige/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/beige/02-lifestyle.jpg",
+            "alt": "Irisa Bag — Be — góc 2"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/beige/angle-3-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/beige/angle-3",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/beige/03-lifestyle.jpg",
+            "alt": "Irisa Bag — Be — góc 3"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/beige/angle-4-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/beige/angle-4",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/beige/04-lifestyle.jpg",
+            "alt": "Irisa Bag — Be — góc 4"
+          },
+          {
+            "src": "/images/catalog/irisa-bag/beige/angle-5-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/irisa-bag/beige/angle-5",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/irisa-bag/beige/05-lifestyle.jpg",
+            "alt": "Irisa Bag — Be — góc 5"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      }
+    ],
+    "heroVariantId": "irisa-bag-pink",
+    "sourceCell": "",
+    "details": [
+      "3 ngăn chính, 2 ngăn phụ",
+      "Quai xách dài 27 cm",
+      "Bề mặt chống nước và chống trầy xước"
+    ],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/irisa-bag/pink/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/irisa-bag/pink/front-1280.webp",
+      "/images/catalog/irisa-bag/pink/angle-2-1280.webp",
+      "/images/catalog/irisa-bag/pink/angle-3-1280.webp",
+      "/images/catalog/irisa-bag/pink/angle-4-1280.webp",
+      "/images/catalog/irisa-bag/pink/angle-5-1280.webp",
+      "/images/catalog/irisa-bag/pink/angle-6-1280.webp",
+      "/images/catalog/irisa-bag/pink/angle-7-1254.webp"
+    ],
+    "colors": [
+      {
+        "name": "Hồng",
+        "hex": "#e5b6c0",
+        "image": "/images/catalog/irisa-bag/pink/front-1280.webp"
+      },
+      {
+        "name": "Be",
+        "hex": "#e5e4d9",
+        "image": "/images/catalog/irisa-bag/beige/front-1280.webp"
+      }
+    ],
+    "sku": "",
+    "isNew": true
+  },
+  {
+    "id": "dalia-bag",
+    "slug": "dalia-bag",
+    "title": "Dalia Bag",
+    "subtitle": "Nơ nhỏ trên phom túi mềm, cùng những gam màu nhẹ. Dalia gọn xinh để mang theo những món đồ thiết yếu.",
+    "description": "Phom chữ nhật bo mềm với nắp liền thân, nơ dây ở mặt trước và logo LIS nhỏ. Quai đôi vòng cung dễ cầm, kèm dây đeo chéo để thay đổi cách mang. Vừa điện thoại, ví, son và những vật dụng cá nhân nhỏ.",
+    "collection": "Dearly",
+    "dimensions": "23 × 15 × 8 cm (ngang × cao × đáy)",
+    "material": "Da PU cao cấp",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "dalia-bag-pink",
+        "name": "Hồng",
+        "hex": "#e5b6c0",
+        "image": "/images/catalog/dalia-bag/pink/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/dalia-bag/pink/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/pink/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/01-packshot.jpg",
+            "alt": "Dalia Bag — Hồng"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/pink/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/pink/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/02-lifestyle.jpg",
+            "alt": "Dalia Bag — Hồng — góc 2"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/pink/angle-3-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/pink/angle-3",
+            "kind": "detail",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/03-detail.jpg",
+            "alt": "Dalia Bag — Hồng — góc 3"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/pink/angle-4-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/pink/angle-4",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/04-lifestyle.jpg",
+            "alt": "Dalia Bag — Hồng — góc 4"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/pink/angle-5-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/pink/angle-5",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/05-lifestyle.jpg",
+            "alt": "Dalia Bag — Hồng — góc 5"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/pink/angle-6-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/pink/angle-6",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/06-lifestyle.jpg",
+            "alt": "Dalia Bag — Hồng — góc 6"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/pink/angle-7-1254.webp",
+            "width": 1254,
+            "height": 1254,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1254
+            ],
+            "base": "/images/catalog/dalia-bag/pink/angle-7",
+            "kind": "detail",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/pink/07-detail-size.jpg",
+            "alt": "Dalia Bag — Hồng — góc 7"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      },
+      {
+        "id": "dalia-bag-beige",
+        "name": "Be",
+        "hex": "#e5e4d9",
+        "image": "/images/catalog/dalia-bag/beige/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/dalia-bag/beige/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/beige/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/beige/01-packshot.jpg",
+            "alt": "Dalia Bag — Be"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/beige/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/beige/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/beige/02-lifestyle.jpg",
+            "alt": "Dalia Bag — Be — góc 2"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      },
+      {
+        "id": "dalia-bag-mint",
+        "name": "Xanh",
+        "hex": "#acd4ce",
+        "image": "/images/catalog/dalia-bag/mint/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/dalia-bag/mint/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/mint/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/mint/01-packshot.jpg",
+            "alt": "Dalia Bag — Xanh"
+          },
+          {
+            "src": "/images/catalog/dalia-bag/mint/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/dalia-bag/mint/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/dalia-bag/mint/02-lifestyle.jpg",
+            "alt": "Dalia Bag — Xanh — góc 2"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      }
+    ],
+    "heroVariantId": "dalia-bag-pink",
+    "sourceCell": "",
+    "details": [
+      "Quai xách 10 cm",
+      "Kèm dây đeo chéo",
+      "Bề mặt chống nước và chống trầy xước"
+    ],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/dalia-bag/pink/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/dalia-bag/pink/front-1280.webp",
+      "/images/catalog/dalia-bag/pink/angle-2-1280.webp",
+      "/images/catalog/dalia-bag/pink/angle-3-1280.webp",
+      "/images/catalog/dalia-bag/pink/angle-4-1280.webp",
+      "/images/catalog/dalia-bag/pink/angle-5-1280.webp",
+      "/images/catalog/dalia-bag/pink/angle-6-1280.webp",
+      "/images/catalog/dalia-bag/pink/angle-7-1254.webp"
+    ],
+    "colors": [
+      {
+        "name": "Hồng",
+        "hex": "#e5b6c0",
+        "image": "/images/catalog/dalia-bag/pink/front-1280.webp"
+      },
+      {
+        "name": "Be",
+        "hex": "#e5e4d9",
+        "image": "/images/catalog/dalia-bag/beige/front-1280.webp"
+      },
+      {
+        "name": "Xanh",
+        "hex": "#acd4ce",
+        "image": "/images/catalog/dalia-bag/mint/front-1280.webp"
+      }
+    ],
+    "sku": "",
+    "isNew": true
+  },
+  {
+    "id": "lilia-bag",
+    "slug": "lilia-bag",
+    "title": "Lilia Bag",
+    "subtitle": "Phom đứng chỉn chu, đường chần quả trám và charm hoa bên hông. Một điểm nhấn thanh lịch cho bộ đồ mỗi ngày.",
+    "description": "Túi chữ nhật đứng với bề mặt chần quả trám, quai tròn bo mềm và khoen kim loại ánh vàng. Charm hoa Calla bên hông làm phom túi thêm nữ tính; dây đeo chéo đi kèm giúp đổi cách mang.",
+    "collection": "Dearly",
+    "dimensions": "23 × 15 × 8 cm (ngang × cao × đáy)",
+    "material": "Da PU cao cấp",
+    "category": "tui-xach-tay",
+    "variants": [
+      {
+        "id": "lilia-bag-white",
+        "name": "Trắng",
+        "hex": "#eeeee7",
+        "image": "/images/catalog/lilia-bag/white/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lilia-bag/white/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/white/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/white/01-packshot.jpg",
+            "alt": "Lilia Bag — Trắng"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/white/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/white/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/white/02-lifestyle.jpg",
+            "alt": "Lilia Bag — Trắng — góc 2"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/white/angle-3-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/white/angle-3",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/white/03-packshot-angle.jpg",
+            "alt": "Lilia Bag — Trắng — góc 3"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/white/angle-4-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/white/angle-4",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/white/04-lifestyle.jpg",
+            "alt": "Lilia Bag — Trắng — góc 4"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/white/angle-5-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/white/angle-5",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/white/05-lifestyle.jpg",
+            "alt": "Lilia Bag — Trắng — góc 5"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      },
+      {
+        "id": "lilia-bag-black",
+        "name": "Đen",
+        "hex": "#1b1c1d",
+        "image": "/images/catalog/lilia-bag/black/front-1280.webp",
+        "gallery": [
+          {
+            "src": "/images/catalog/lilia-bag/black/front-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/front",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/01-packshot.jpg",
+            "alt": "Lilia Bag — Đen"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-2-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-2",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/02-lifestyle.jpg",
+            "alt": "Lilia Bag — Đen — góc 2"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-3-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-3",
+            "kind": "detail",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/03-detail.jpg",
+            "alt": "Lilia Bag — Đen — góc 3"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-4-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-4",
+            "kind": "packshot",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/04-packshot-angle.jpg",
+            "alt": "Lilia Bag — Đen — góc 4"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-5-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-5",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/05-lifestyle.jpg",
+            "alt": "Lilia Bag — Đen — góc 5"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-6-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-6",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/06-lifestyle.jpg",
+            "alt": "Lilia Bag — Đen — góc 6"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-7-1280.webp",
+            "width": 2160,
+            "height": 2160,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1280
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-7",
+            "kind": "lifestyle",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/07-lifestyle.jpg",
+            "alt": "Lilia Bag — Đen — góc 7"
+          },
+          {
+            "src": "/images/catalog/lilia-bag/black/angle-8-1254.webp",
+            "width": 1254,
+            "height": 1254,
+            "widths": [
+              320,
+              480,
+              640,
+              960,
+              1254
+            ],
+            "base": "/images/catalog/lilia-bag/black/angle-8",
+            "kind": "detail",
+            "sourceCell": "",
+            "sourceFile": "product-images/lilia-bag/black/08-detail-size.jpg",
+            "alt": "Lilia Bag — Đen — góc 8"
+          }
+        ],
+        "sku": "",
+        "skuVerified": false,
+        "availability": "unknown",
+        "price": null,
+        "sourceRow": 0
+      }
+    ],
+    "heroVariantId": "lilia-bag-white",
+    "sourceCell": "",
+    "details": [
+      "Quai xách 8 cm",
+      "Kèm charm hoa Calla và dây đeo chéo",
+      "Bề mặt chống nước và chống trầy xước"
+    ],
+    "price": 0,
+    "comparePrice": 0,
+    "discountPercentage": 0,
+    "inStock": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "weight": "",
+    "sizes": [
+      "Tiêu chuẩn"
+    ],
+    "categoryName": "Túi xách",
+    "mainImage": "/images/catalog/lilia-bag/white/front-1280.webp",
+    "hoverImage": "",
+    "gallery": [
+      "/images/catalog/lilia-bag/white/front-1280.webp",
+      "/images/catalog/lilia-bag/white/angle-2-1280.webp",
+      "/images/catalog/lilia-bag/white/angle-3-1280.webp",
+      "/images/catalog/lilia-bag/white/angle-4-1280.webp",
+      "/images/catalog/lilia-bag/white/angle-5-1280.webp"
+    ],
+    "colors": [
+      {
+        "name": "Trắng",
+        "hex": "#eeeee7",
+        "image": "/images/catalog/lilia-bag/white/front-1280.webp"
+      },
+      {
+        "name": "Đen",
+        "hex": "#1b1c1d",
+        "image": "/images/catalog/lilia-bag/black/front-1280.webp"
+      }
+    ],
+    "sku": "",
+    "isNew": true
+  }
+]

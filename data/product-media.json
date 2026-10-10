@@ -1,0 +1,276 @@
+{
+  "product-images/mila-bag/burgundy/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/mila-bag/earth/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/mila-bag/milk/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/nina-bag/burgundy/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/nina-bag/chocolate/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/nina-bag/milk/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lucia-tote/chocolate/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lucia-tote/milk/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lucia-tote/earth/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lucia-tote/black/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lucia-tote/black/02-angle.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/elena-tote/brown/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/elena-tote/black/01-front.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lucky-charm/brown/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lucky-charm/red/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lucky-charm/beige/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/mia-bag/beige/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/mia-bag/brown/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/mia-bag/avocado/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/mia-bag/red/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/calla-bag/moss/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/calla-bag/brown/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/calla-bag/black/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lily-charm/brown/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lily-charm/red/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lily-charm/beige/01-front.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/irisa-bag/pink/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/irisa-bag/pink/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/pink/03-detail.jpg": {
+    "kind": "detail"
+  },
+  "product-images/irisa-bag/pink/04-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/pink/05-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/pink/06-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/pink/07-detail-size.jpg": {
+    "kind": "detail"
+  },
+  "product-images/irisa-bag/beige/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/irisa-bag/beige/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/beige/03-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/beige/04-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/irisa-bag/beige/05-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/dalia-bag/pink/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/dalia-bag/pink/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/dalia-bag/pink/03-detail.jpg": {
+    "kind": "detail"
+  },
+  "product-images/dalia-bag/pink/04-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/dalia-bag/pink/05-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/dalia-bag/pink/06-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/dalia-bag/pink/07-detail-size.jpg": {
+    "kind": "detail"
+  },
+  "product-images/dalia-bag/beige/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/dalia-bag/beige/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/dalia-bag/mint/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/dalia-bag/mint/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/white/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lilia-bag/white/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/white/03-packshot-angle.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lilia-bag/white/04-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/white/05-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/black/01-packshot.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lilia-bag/black/02-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/black/03-detail.jpg": {
+    "kind": "detail"
+  },
+  "product-images/lilia-bag/black/04-packshot-angle.jpg": {
+    "kind": "packshot"
+  },
+  "product-images/lilia-bag/black/05-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/black/06-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/black/07-lifestyle.jpg": {
+    "kind": "lifestyle"
+  },
+  "product-images/lilia-bag/black/08-detail-size.jpg": {
+    "kind": "detail"
+  },
+  "product-images/mia-bag/beige/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+  },
+  "product-images/mia-bag/beige/03-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4786 copy.jpg"
+  },
+  "product-images/mia-bag/brown/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+  },
+  "product-images/mia-bag/avocado/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+  },
+  "product-images/mia-bag/red/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+  },
+  "product-images/mia-bag/red/03-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+  },
+  "product-images/mia-bag/red/04-detail.jpg": {
+    "kind": "detail",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+  },
+  "product-images/calla-bag/moss/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5539 copy.jpg"
+  },
+  "product-images/calla-bag/moss/03-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5529 copy.jpg"
+  },
+  "product-images/calla-bag/moss/04-detail.jpg": {
+    "kind": "detail",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+  },
+  "product-images/calla-bag/black/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5493 copy.jpg"
+  },
+  "product-images/calla-bag/brown/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5632 copy.jpg"
+  },
+  "product-images/lucia-tote/chocolate/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00119 copy.jpg"
+  },
+  "product-images/lucia-tote/milk/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00203 copy.jpg"
+  },
+  "product-images/elena-tote/black/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00436(2) copy.jpg"
+  },
+  "product-images/elena-tote/brown/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00479 copy.jpg"
+  },
+  "product-images/mila-bag/milk/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00898 copy.jpg"
+  },
+  "product-images/mila-bag/earth/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00571 copy.jpg"
+  },
+  "product-images/mila-bag/burgundy/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00717(2) copy.jpg"
+  },
+  "product-images/nina-bag/burgundy/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00855 copy.jpg"
+  },
+  "product-images/nina-bag/chocolate/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00971 copy.jpg"
+  },
+  "product-images/nina-bag/milk/02-lifestyle.jpg": {
+    "kind": "lifestyle",
+    "originalFile": "PTS Lis Bag/Lis 00880 copy.jpg"
+  }
+}

@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  distDir: process.env.LIS_BUILD_DIR || '.next',
   images: {
+    qualities: [75, 85],
     remotePatterns: [
       {
         protocol: 'https',

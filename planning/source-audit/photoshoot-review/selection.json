@@ -1,0 +1,568 @@
+{
+  "reviewDate": "2026-10-10",
+  "scope": "Visual inspection of all 35 original photos against the 25 existing variants. Filename mapping is not treated as proof. No catalog changes applied.",
+  "photos": 35,
+  "newPackshots": 0,
+  "samePoseQualityUpgrades": 8,
+  "hoverCandidates": [
+    "nina-bag-burgundy",
+    "nina-bag-chocolate",
+    "nina-bag-milk"
+  ],
+  "conditionalHoverCandidates": [
+    "lucky-charm-brown",
+    "lucky-charm-beige"
+  ],
+  "noSuitablePhotoFound": [
+    "mia-bag",
+    "calla-bag",
+    "lily-charm",
+    "lucia-tote-black"
+  ],
+  "matchingBasis": "Silhouette, handle, weave, flap/hardware and visible color; no SKU/color metadata provided.",
+  "catalogSha256": "451e85541c4db6bd9a7743daaf6f32dd8b12a087fbce97fb22007f7469ef4491",
+  "assets": [
+    {
+      "file": "Lis 00112 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00112 copy.jpg",
+      "variants": [
+        "lucia-tote-chocolate"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00119 là lựa chọn rõ dáng túi; 00112 phù hợp lookbook toàn thân.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        3973,
+        5959
+      ]
+    },
+    {
+      "file": "Lis 00119 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00119 copy.jpg",
+      "variants": [
+        "lucia-tote-chocolate"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00119 là lựa chọn rõ dáng túi; 00112 phù hợp lookbook toàn thân.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00127 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00127 copy.jpg",
+      "variants": [
+        "lucia-tote-chocolate"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại; nâng chất lượng thay vì thêm ảnh trùng.",
+      "samePoseAsCurrentVariant": "lucia-tote-chocolate",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00175 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00175 copy.jpg",
+      "variants": [
+        "lucia-tote-milk",
+        "lucky-charm-brown",
+        "lucky-charm-beige"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook; conditional charm-hover crop",
+      "notes": "Hai charm đều là Lucky cỏ bốn lá, vòng dây dài. Hai màu cạnh nhau; cần crop tập trung vào màu được chọn, không gán cho Lily.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        3768,
+        5651
+      ]
+    },
+    {
+      "file": "Lis 00185 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00185 copy.jpg",
+      "variants": [
+        "lucia-tote-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "lookbook",
+      "notes": "Toàn thân; túi nhỏ trong khung, không phải lựa chọn hover đầu tiên.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4035,
+        6051
+      ]
+    },
+    {
+      "file": "Lis 00203 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00203 copy.jpg",
+      "variants": [
+        "lucia-tote-milk",
+        "lucky-charm-brown",
+        "lucky-charm-beige"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook; conditional charm-hover crop",
+      "notes": "Hai charm đều là Lucky cỏ bốn lá, vòng dây dài. Hai màu cạnh nhau; cần crop tập trung vào màu được chọn, không gán cho Lily.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00237 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00237 copy.jpg",
+      "variants": [
+        "lucia-tote-earth"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image; pdp crop",
+      "notes": "Cùng góc với ảnh hiện tại. Có thể crop xem bề mặt; ảnh có người, không phải packshot.",
+      "samePoseAsCurrentVariant": "lucia-tote-earth",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00284 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00284 copy.jpg",
+      "variants": [
+        "lucia-tote-chocolate",
+        "lucia-tote-milk",
+        "lucia-tote-earth"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "collection editorial",
+      "notes": "Có nhiều màu túi trong cùng ảnh; không dùng làm hover một màu. Không xác nhận có Lucia Đen.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00292 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00292 copy.jpg",
+      "variants": [
+        "lucia-tote-chocolate"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00119 là lựa chọn rõ dáng túi; 00112 phù hợp lookbook toàn thân.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00334 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00334 copy.jpg",
+      "variants": [
+        "lucia-tote-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại.",
+      "samePoseAsCurrentVariant": "lucia-tote-milk",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00419 copy 2.jpg",
+      "source": "PTS Lis Bag/Lis 00419 copy 2.jpg",
+      "variants": [
+        "elena-tote-black"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00436 rõ dáng túi, 00419 là ảnh toàn thân; vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        3895,
+        5842
+      ]
+    },
+    {
+      "file": "Lis 00436(2) copy.jpg",
+      "source": "PTS Lis Bag/Lis 00436(2) copy.jpg",
+      "variants": [
+        "elena-tote-black"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00436 rõ dáng túi, 00419 là ảnh toàn thân; vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00456 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00456 copy.jpg",
+      "variants": [
+        "elena-tote-black"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại.",
+      "samePoseAsCurrentVariant": "elena-tote-black",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00479 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00479 copy.jpg",
+      "variants": [
+        "elena-tote-brown"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Túi rõ, ánh sáng đẹp; vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00505 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00505 copy.jpg",
+      "variants": [
+        "elena-tote-brown"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại.",
+      "samePoseAsCurrentVariant": "elena-tote-brown",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00532 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00532 copy.jpg",
+      "variants": [
+        "mila-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại.",
+      "samePoseAsCurrentVariant": "mila-bag-milk",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00551 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00551 copy.jpg",
+      "variants": [
+        "mila-bag-earth",
+        "mila-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "lookbook",
+      "notes": "Mẫu mang hai màu túi; không chọn làm hover một màu.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00571 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00571 copy.jpg",
+      "variants": [
+        "mila-bag-earth"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Ảnh đeo chéo rõ, khung trung; vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00603 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00603 copy.jpg",
+      "variants": [
+        "mila-bag-earth"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại.",
+      "samePoseAsCurrentVariant": "mila-bag-earth",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00639 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00639 copy.jpg",
+      "variants": [
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "upgrade-current-image",
+      "notes": "Cùng góc với ảnh hiện tại, bản lớn không chữ chèn.",
+      "samePoseAsCurrentVariant": "mila-bag-burgundy",
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00672 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00672 copy.jpg",
+      "variants": [
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00672 thấy đeo vai; 00717 rõ túi; 00706/01015 hợp lookbook. Vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00706 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00706 copy.jpg",
+      "variants": [
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00672 thấy đeo vai; 00717 rõ túi; 00706/01015 hợp lookbook. Vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00717(2) copy.jpg",
+      "source": "PTS Lis Bag/Lis 00717(2) copy.jpg",
+      "variants": [
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00672 thấy đeo vai; 00717 rõ túi; 00706/01015 hợp lookbook. Vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00807 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00807 copy.jpg",
+      "variants": [
+        "nina-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Các góc cầm túi/đứng/ngồi khác nhau, đủ bổ sung gallery.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00833 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00833 copy.jpg",
+      "variants": [
+        "nina-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "hover candidate",
+      "notes": "Khớp phom Nina và màu đỏ; túi được cầm cạnh mặt, không phải kẹp nách. Cần crop vuông ưu tiên phần trên để giữ túi.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00855 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00855 copy.jpg",
+      "variants": [
+        "nina-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Ảnh ngang, túi nhỏ trong khung; giữ làm ảnh bổ sung.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        6000,
+        4000
+      ]
+    },
+    {
+      "file": "Lis 00860 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00860 copy.jpg",
+      "variants": [
+        "nina-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Các góc cầm túi/đứng/ngồi khác nhau, đủ bổ sung gallery.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00880 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00880 copy.jpg",
+      "variants": [
+        "nina-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "hover candidate",
+      "notes": "Mẫu đứng cầm túi trước người, màu sáng và phom rõ; chọn thay vì ảnh nhiều túi.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00896 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00896 copy.jpg",
+      "variants": [
+        "nina-bag-chocolate"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Mẫu ngồi, mặt túi rõ. Crop vuông dễ cắt đầu hoặc đáy túi; nên giữ gallery thay vì hover ưu tiên.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00898 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00898 copy.jpg",
+      "variants": [
+        "mila-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Mẫu ngồi, túi rõ phía trước; vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 00971 copy.jpg",
+      "source": "PTS Lis Bag/Lis 00971 copy.jpg",
+      "variants": [
+        "nina-bag-chocolate"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "hover candidate",
+      "notes": "Ảnh ngang cầm túi cạnh mặt; crop vuông giữ trọn túi và gương mặt. Phom khớp; màu tối dưới ánh sáng ấm, đối chiếu với packshot trong preview.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        6000,
+        4000
+      ]
+    },
+    {
+      "file": "Lis 01015 copy.jpg",
+      "source": "PTS Lis Bag/Lis 01015 copy.jpg",
+      "variants": [
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "00672 thấy đeo vai; 00717 rõ túi; 00706/01015 hợp lookbook. Vẫn thiếu packshot.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        6000,
+        4000
+      ]
+    },
+    {
+      "file": "Lis 01033 copy.jpg",
+      "source": "PTS Lis Bag/Lis 01033 copy.jpg",
+      "variants": [
+        "nina-bag-milk"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "pdp/lookbook",
+      "notes": "Các góc cầm túi/đứng/ngồi khác nhau, đủ bổ sung gallery.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    },
+    {
+      "file": "Lis 01053 copy.jpg",
+      "source": "PTS Lis Bag/Lis 01053 copy.jpg",
+      "variants": [
+        "nina-bag-milk",
+        "nina-bag-chocolate",
+        "nina-bag-burgundy",
+        "mila-bag-milk",
+        "mila-bag-earth",
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "collection editorial",
+      "notes": "Nhiều túi và màu trong cùng ảnh; không chọn làm hover đơn màu.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        6000,
+        4000
+      ]
+    },
+    {
+      "file": "Lis 01072 copy.jpg",
+      "source": "PTS Lis Bag/Lis 01072 copy.jpg",
+      "variants": [
+        "nina-bag-milk",
+        "nina-bag-chocolate",
+        "nina-bag-burgundy",
+        "mila-bag-milk",
+        "mila-bag-earth",
+        "mila-bag-burgundy"
+      ],
+      "classification": "lifestyle",
+      "recommendedUse": "collection editorial",
+      "notes": "Nhiều túi và màu trong cùng ảnh; không chọn làm hover đơn màu.",
+      "samePoseAsCurrentVariant": null,
+      "dimensions": [
+        4000,
+        6000
+      ]
+    }
+  ]
+}

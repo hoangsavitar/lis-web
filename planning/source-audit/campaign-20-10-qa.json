@@ -1,0 +1,211 @@
+{
+  "campaign": "User-supplied Dearly banner 20.10",
+  "capturedAt": "2026-10-09T19:26:21.627Z",
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "name": "desktop",
+      "overflow": 0,
+      "hero": {
+        "width": 1440,
+        "height": 533.015625,
+        "top": 0
+      },
+      "imageLoaded": true,
+      "imageFit": "contain",
+      "imageCurrentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fdearly.png&w=1920&q=85",
+      "imageSourceWidth": 1276,
+      "headingVisible": false,
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "headerText": "rgb(34, 34, 32)",
+      "logo": "/brand/lis/logo-burgundy-512.png",
+      "contact": {
+        "left": 290.796875,
+        "right": 387.25,
+        "top": 452.015625
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "name": "mobile",
+      "overflow": 0,
+      "hero": {
+        "width": 390,
+        "height": 599.796875,
+        "top": 0
+      },
+      "imageLoaded": true,
+      "imageFit": "cover",
+      "imageCurrentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fdearly.png&w=1200&q=85",
+      "imageSourceWidth": 1081,
+      "headingVisible": true,
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "headerText": "rgb(34, 34, 32)",
+      "logo": "/brand/lis/logo-burgundy-512.png",
+      "contact": {
+        "left": 238.796875,
+        "right": 335.25,
+        "top": 522.796875
+      }
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "name": "mobile-360",
+      "overflow": 0,
+      "hero": {
+        "width": 360,
+        "height": 599.796875,
+        "top": 0
+      },
+      "imageLoaded": true,
+      "imageFit": "cover",
+      "imageCurrentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fdearly.png&w=1200&q=85",
+      "imageSourceWidth": 1081,
+      "headingVisible": true,
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "headerText": "rgb(34, 34, 32)",
+      "logo": "/brand/lis/logo-burgundy-512.png",
+      "contact": {
+        "left": 238.796875,
+        "right": 335.25,
+        "top": 522.796875
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "name": "tablet",
+      "overflow": 0,
+      "hero": {
+        "width": 768,
+        "height": 284.265625,
+        "top": 0
+      },
+      "imageLoaded": true,
+      "imageFit": "contain",
+      "imageCurrentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fdearly.png&w=828&q=85",
+      "imageSourceWidth": 768,
+      "headingVisible": false,
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "headerText": "rgb(34, 34, 32)",
+      "logo": "/brand/lis/logo-burgundy-512.png",
+      "contact": {
+        "left": 639.546875,
+        "right": 736,
+        "top": 215.265625
+      }
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "name": "desktop-1024",
+      "overflow": 0,
+      "hero": {
+        "width": 1024,
+        "height": 379.03125,
+        "top": 0
+      },
+      "imageLoaded": true,
+      "imageFit": "contain",
+      "imageCurrentSrc": "http://localhost:3000/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fdearly.png&w=1080&q=85",
+      "imageSourceWidth": 1024,
+      "headingVisible": false,
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "headerText": "rgb(34, 34, 32)",
+      "logo": "/brand/lis/logo-burgundy-512.png",
+      "contact": {
+        "left": 266.796875,
+        "right": 363.25,
+        "top": 306.03125
+      }
+    }
+  ],
+  "interactions": {
+    "desktop": {
+      "ctaHash": "#thiet-ke",
+      "catalogTop": 208.015625,
+      "scrolledHeaderBackground": "rgba(255, 255, 255, 0.97)"
+    },
+    "mobile": {
+      "ctaHash": "#thiet-ke",
+      "catalogTop": 195.796875,
+      "scrolledHeaderBackground": "rgba(255, 255, 255, 0.97)"
+    },
+    "mobile-360": {
+      "ctaHash": "#thiet-ke",
+      "catalogTop": 195.796875,
+      "scrolledHeaderBackground": "rgba(255, 255, 255, 0.97)"
+    },
+    "tablet": {
+      "ctaHash": "#thiet-ke",
+      "catalogTop": 208.265625,
+      "scrolledHeaderBackground": "rgba(255, 255, 255, 0.97)"
+    },
+    "desktop-1024": {
+      "ctaHash": "#thiet-ke",
+      "catalogTop": 208.03125,
+      "scrolledHeaderBackground": "rgba(255, 255, 255, 0.97)"
+    },
+    "facebook": {
+      "href": "https://www.facebook.com/lisbyliiofficial",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    },
+    "searchOpens": true,
+    "savedOpens": true,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "rgb(70, 83, 90) solid 2px",
+      "outlineOffset": "4px"
+    },
+    "reducedMotion": {
+      "scroll": "auto",
+      "headerTransition": "0s"
+    },
+    "mobileAbout": "/ve-lis"
+  },
+  "errors": [],
+  "asset": {
+    "width": 1702,
+    "height": 630,
+    "originalUnchanged": true,
+    "webPixelsUnchanged": true,
+    "webOriginMetadata": "embedded by Impeccable; scan: 1 raster, 0 missing",
+    "hashes": [
+      {
+        "path": "C:/Users/hoang/AppData/Local/Temp/codex-clipboard-d89843dc-ccc7-414c-b49d-a4d46aef304f.png",
+        "sha256": "3098264a5462d4e5a7221cfdf29ae9c9496258ba251ac955c45823eef59e2a53"
+      },
+      {
+        "path": "brand-assets/lis/campaigns/20-10/dearly-original.png",
+        "sha256": "3098264a5462d4e5a7221cfdf29ae9c9496258ba251ac955c45823eef59e2a53"
+      },
+      {
+        "path": "public/images/campaigns/20-10/dearly.png",
+        "sha256": "f26afe8edfe1ab81bbadf8d2e9ea2590ed7e0244974a90869834ecf2c4505176"
+      }
+    ]
+  },
+  "detector": {
+    "scope": "Earlier paired-photo implementation",
+    "findings": [],
+    "note": "No second detector pass; supplied-banner finish review is the final visual gate."
+  },
+  "corrections": [
+    "Mobile Next image sizes accounts for 400px portrait crop, avoiding low-resolution source selection.",
+    "Tablet contact link sits on clear background at right, away from bags."
+  ],
+  "previewRuntime": "Next dev at localhost:3000; production build passed before preview was restarted",
+  "interactionsCheckedAt": "2026-10-09T19:29:06.481Z",
+  "finishReview": {
+    "disposition": "ship",
+    "scope": "Full final supplied Dearly banner review",
+    "date": "2026-10-10",
+    "report": ".impeccable/critique/campaign-20-10.md"
+  }
+}

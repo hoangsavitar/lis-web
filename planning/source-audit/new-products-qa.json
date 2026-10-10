@@ -1,0 +1,134 @@
+{
+  "production": true,
+  "viewports": [
+    {
+      "width": 1440,
+      "overflow": 0,
+      "cards": 11,
+      "first": [
+        "Irisa Bag",
+        "Dalia Bag",
+        "Lilia Bag"
+      ],
+      "livePairs": 3,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "cards": 11,
+      "first": [
+        "Irisa Bag",
+        "Dalia Bag",
+        "Lilia Bag"
+      ],
+      "livePairs": 3,
+      "broken": []
+    },
+    {
+      "width": 360,
+      "overflow": 0,
+      "cards": 11,
+      "first": [
+        "Irisa Bag",
+        "Dalia Bag",
+        "Lilia Bag"
+      ],
+      "livePairs": 3,
+      "broken": []
+    },
+    {
+      "width": 768,
+      "overflow": 0,
+      "cards": 11,
+      "first": [
+        "Irisa Bag",
+        "Dalia Bag",
+        "Lilia Bag"
+      ],
+      "livePairs": 3,
+      "broken": []
+    },
+    {
+      "width": 1024,
+      "overflow": 0,
+      "cards": 11,
+      "first": [
+        "Irisa Bag",
+        "Dalia Bag",
+        "Lilia Bag"
+      ],
+      "livePairs": 3,
+      "broken": []
+    }
+  ],
+  "realPhotoPreviews": [
+    "irisa-bag-pink",
+    "irisa-bag-beige",
+    "dalia-bag-pink",
+    "dalia-bag-beige",
+    "dalia-bag-mint",
+    "lilia-bag-white",
+    "lilia-bag-black"
+  ],
+  "pdp": [
+    {
+      "slug": "irisa-bag",
+      "color": "beige",
+      "savedAfterReload": true
+    },
+    {
+      "slug": "dalia-bag",
+      "color": "mint",
+      "savedAfterReload": true
+    },
+    {
+      "slug": "lilia-bag",
+      "color": "black",
+      "savedAfterReload": true
+    }
+  ],
+  "errors": [],
+  "newSearch": true,
+  "touchSwipe": true,
+  "colorResetsTouch": true,
+  "captureMethod": "Headless Edge; mobile coarse-pointer engine flags preserve touch media during capture (screenshot API otherwise resets pointer). Product source/CSS unchanged.",
+  "originals": 36,
+  "import": {
+    "models": 11,
+    "variants": 32,
+    "photos": 62,
+    "identicalCatalog": true,
+    "additionalRetained": true
+  },
+  "typecheck": "passed",
+  "build": "passed",
+  "detector": [],
+  "provenance": {
+    "rasters": 304,
+    "missing": 0
+  },
+  "pdpImageCapture": {
+    "recapturedAfterDecode": true,
+    "daliaMint": true,
+    "irisaBeige": true
+  },
+  "finalFix": {
+    "pdpCategoryEyebrowAbsent": true,
+    "productionRebuilt": true,
+    "typecheck": "passed"
+  },
+  "finishReview": {
+    "disposition": "ship",
+    "scope": "Scored PDP eyebrow fix resolved; initial review had no other material fixes",
+    "path": ".impeccable/critique/new-products.md"
+  },
+  "documentation": {
+    "complete": true,
+    "canonicalTokensPreserved": true,
+    "yamlRefs": "passed",
+    "folderRows": 32,
+    "originalHashesChecked": 36,
+    "hashMismatches": 0
+  }
+}

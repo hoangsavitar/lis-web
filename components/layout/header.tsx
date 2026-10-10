@@ -13,13 +13,21 @@ export function Header(){
  const pathname=usePathname();
  const [menuOpen,setMenuOpen]=useState(false);
  const [mounted,setMounted]=useState(false);
+ const [scrolled,setScrolled]=useState(false);
+ const overHero=pathname==="/"&&!scrolled;
  const items=useCartStore(s=>s.items);
  const openCart=useCartStore(s=>s.openCart);
  const openSearch=useSearchStore(s=>s.openSearch);
  useEffect(()=>setMounted(true),[]);
+ useEffect(()=>{
+  const update=()=>setScrolled(window.scrollY>24);
+  update();
+  window.addEventListener("scroll",update,{passive:true});
+  return()=>window.removeEventListener("scroll",update);
+ },[pathname]);
  const count=mounted?items.length:0;
  return <>
- <header className="site-header">
+ <header className={overHero?"site-header site-header-over-hero":"site-header"}>
   <div className="header-inner">
    <button className="icon-button mobile-menu-button" aria-label="Mở menu" onClick={()=>setMenuOpen(true)}><List size={26}/></button>
    <Link href="/" className="header-logo" aria-label="LIS — Trang chủ"><BrandLogo width={88}/></Link>

@@ -1,0 +1,178 @@
+{
+  "production": true,
+  "viewports": [
+    {
+      "width": 1440,
+      "overflow": 0,
+      "cards": 8,
+      "descriptions": 0,
+      "previewPairs": 0,
+      "ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "duplicateIds": [],
+      "failedVisibleImages": []
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "cards": 8,
+      "descriptions": 0,
+      "previewPairs": 0,
+      "ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "duplicateIds": [],
+      "failedVisibleImages": []
+    },
+    {
+      "width": 360,
+      "overflow": 0,
+      "cards": 8,
+      "descriptions": 0,
+      "previewPairs": 0,
+      "ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "duplicateIds": [],
+      "failedVisibleImages": []
+    },
+    {
+      "width": 768,
+      "overflow": 0,
+      "cards": 8,
+      "descriptions": 0,
+      "previewPairs": 0,
+      "ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "duplicateIds": [],
+      "failedVisibleImages": []
+    },
+    {
+      "width": 1024,
+      "overflow": 0,
+      "cards": 8,
+      "descriptions": 0,
+      "previewPairs": 0,
+      "ratios": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "duplicateIds": [],
+      "failedVisibleImages": []
+    }
+  ],
+  "regressions": {
+    "facebookLinks": 20,
+    "searchAccentNormalized": true,
+    "colorPdpSaveReload": true,
+    "collectionColorFilter": true,
+    "aboutPage": "Về LIS",
+    "fixtureRemoved": true,
+    "mobileMenu": true,
+    "reducedMotion": {
+      "media": true,
+      "imageTransitionDuration": "0s"
+    },
+    "zoom200": [
+      {
+        "route": "/",
+        "method": "CSS page zoom 200%; not native browser zoom",
+        "rootOverflow": 0
+      },
+      {
+        "route": "/collections/all",
+        "method": "CSS page zoom 200%; not native browser zoom",
+        "rootOverflow": 0
+      },
+      {
+        "route": "/products/mia-bag?variant=mia-bag-red",
+        "method": "CSS page zoom 200%; not native browser zoom",
+        "rootOverflow": 0
+      }
+    ]
+  },
+  "consoleErrors": [],
+  "fixture": {
+    "synthetic": true,
+    "roleUnitAssertions": 4,
+    "hoverOpacity": "1",
+    "focusOpacity": "1",
+    "colorVariant": "nina-bag-chocolate",
+    "noPair": true,
+    "secondaryErrorKeepsPrimary": true,
+    "swipe": "true",
+    "swipeDidNotNavigate": true,
+    "dotReset": "true",
+    "dotKeyboard": "true",
+    "colorResets": "true"
+  },
+  "import": {
+    "isolated": true,
+    "models": 8,
+    "variants": 25,
+    "photos": 26,
+    "rolesMatch": true,
+    "extraShotsRetained": true
+  },
+  "typecheck": "passed",
+  "productionBuild": "passed",
+  "provenance": {
+    "rasters": 124,
+    "missing": 0,
+    "format": "WebP JSON sidecars"
+  },
+  "mediaScope": {
+    "sameVariantPairs": 0,
+    "missingPackshotVariants": 8,
+    "missingLifestyleVariants": 17,
+    "streetPhotoAvailable": false,
+    "detailPhotosAvailable": false
+  },
+  "detector": {
+    "runs": 1,
+    "scope": "changed targets",
+    "findings": "advisory design-system drift including legacy CSS font sizes, overlay/footer/campaign colors and radii; stdout was truncated; no claim of zero findings",
+    "secondPass": false
+  },
+  "finishReview": {
+    "disposition": "ship",
+    "scope": "Authorized phase 1; actual photo pairs and street photography remain missing",
+    "path": ".impeccable/critique/hybrid-shop.md"
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "archiveEntries": [
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5103 copy(1).jpg",
+      "sha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5103 copy.jpg",
+      "sha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4691_(2) copy.jpg",
+      "sha256": "9341721e71f266c16545ee1e9ad33cd5f49d7ace81622ee5c93fc6008f971775",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4691_(2) copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5103 copy (1).jpg",
+      "sha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4778 copy.jpg",
+      "sha256": "a4923970c2a3fc2793400ef06503000d5aaf76c7cdbd0155b0b5a423553e5cbc",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4778 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5007 copy (1).jpg",
+      "sha256": "aa177d67da3358fad5f34486d15ef9df0ef36f59041bfe606ec3b867901579ad",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5007 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5007 copy.jpg",
+      "sha256": "aa177d67da3358fad5f34486d15ef9df0ef36f59041bfe606ec3b867901579ad",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5007 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5018 copy(1).jpg",
+      "sha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4431 copy.jpg",
+      "sha256": "fa21d311673436a91a57f5a53016535306f7c2b6c2871b8fbe00baeac4f3cd87",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4431 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4542 copy.jpg",
+      "sha256": "c91483ff6025553a06e1d8b767e9e27eb01bb263047f8b05cda6bed15e85d1e3",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4542 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5018 copy (1).jpg",
+      "sha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5018 copy.jpg",
+      "sha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5007 copy(1).jpg",
+      "sha256": "aa177d67da3358fad5f34486d15ef9df0ef36f59041bfe606ec3b867901579ad",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5007 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4656 copy.jpg",
+      "sha256": "2ee9a4e7ce2a143bad8aa73795cd78a90f5ec55fca8865115819c90f1c2f1f3f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4656 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5334 copy(1).jpg",
+      "sha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5334 copy (1).jpg",
+      "sha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4597 copy.jpg",
+      "sha256": "c1ca95f448e07be640d8703efc80419af221a8568b5015ef21808fa2ba256d8f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4597 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5334 copy.jpg",
+      "sha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4929 copy (1).jpg",
+      "sha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4567_(2) copy.jpg",
+      "sha256": "0770fe3f35b1f0edadb1a7f50e6443446c3ebe7e8551489e7b5060b3c87163a2",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4567_(2) copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4929 copy(1).jpg",
+      "sha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4404 copy.jpg",
+      "sha256": "6701bee023074fa732402041e9d3ba6cb3ed4055f1943fa4386d9635ad73ae76",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4404 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5539 copy.jpg",
+      "sha256": "be7386e14f0e0c190d4962f711068d3e272e8e2a06debce92dfa84c4e9cce9ed",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5539 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5493 copy.jpg",
+      "sha256": "6835fe5e5756369009cd12fa01e41f9d56d7ef2f80d19b57eba75a5505b90bc4",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5493 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4945 copy.jpg",
+      "sha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4958 copy (1).jpg",
+      "sha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4868 copy.jpg",
+      "sha256": "06a4b60e0cef22c0e0f1d1109349c586b7360fa2863ac9cdc9e92f9d5fa401d6",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4868 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4945 copy(1).jpg",
+      "sha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4958 copy.jpg",
+      "sha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4945 copy (1).jpg",
+      "sha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5632 copy.jpg",
+      "sha256": "c429e41115a707b1f450e1a8c473937faa60ee6cc72d7fe927454ba60f4b1537",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5632 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_5529 copy.jpg",
+      "sha256": "0ea2379490aa098c6039121be357325e9a643c6c217092d4c27855659d2e78f6",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5529 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4510 copy.jpg",
+      "sha256": "8e3d9681b951c54d9274f98327b95b07aa54e5a49e402d968ad4619928472b98",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4510 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4410 copy.jpg",
+      "sha256": "2d6923eac0ac856cbad09a3f1c3a103826b20acf35fc763260fc23508a9147bb",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4410 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4929 copy.jpg",
+      "sha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4903 copy (1).jpg",
+      "sha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4786 copy.jpg",
+      "sha256": "0cf5ad5e21aa95fe1940c8972375792b2110b441c5629fad0c277dbf709c9f24",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4786 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4958 copy(1).jpg",
+      "sha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4691 copy.jpg",
+      "sha256": "739c493fbfc211d94f0151388e65cc4e0af25868edb2fe783bc06043db935046",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4691 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4903 copy(1).jpg",
+      "sha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063251Z-1-001.zip",
+      "entry": "lookbook /IMG_4903 copy.jpg",
+      "sha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4691_(2) copy.jpg",
+      "sha256": "9341721e71f266c16545ee1e9ad33cd5f49d7ace81622ee5c93fc6008f971775",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4691_(2) copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5018 copy(1).jpg",
+      "sha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4929 copy (1).jpg",
+      "sha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5018 copy.jpg",
+      "sha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4431 copy.jpg",
+      "sha256": "fa21d311673436a91a57f5a53016535306f7c2b6c2871b8fbe00baeac4f3cd87",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4431 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5539 copy.jpg",
+      "sha256": "be7386e14f0e0c190d4962f711068d3e272e8e2a06debce92dfa84c4e9cce9ed",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5539 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5018 copy (1).jpg",
+      "sha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5103 copy (1).jpg",
+      "sha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5007 copy (1).jpg",
+      "sha256": "aa177d67da3358fad5f34486d15ef9df0ef36f59041bfe606ec3b867901579ad",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5007 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5334 copy.jpg",
+      "sha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4945 copy (1).jpg",
+      "sha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5334 copy (1).jpg",
+      "sha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5334 copy(1).jpg",
+      "sha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5103 copy.jpg",
+      "sha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5007 copy(1).jpg",
+      "sha256": "aa177d67da3358fad5f34486d15ef9df0ef36f59041bfe606ec3b867901579ad",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5007 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5103 copy(1).jpg",
+      "sha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4945 copy.jpg",
+      "sha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5007 copy.jpg",
+      "sha256": "aa177d67da3358fad5f34486d15ef9df0ef36f59041bfe606ec3b867901579ad",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5007 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4958 copy.jpg",
+      "sha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4656 copy.jpg",
+      "sha256": "2ee9a4e7ce2a143bad8aa73795cd78a90f5ec55fca8865115819c90f1c2f1f3f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4656 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4868 copy.jpg",
+      "sha256": "06a4b60e0cef22c0e0f1d1109349c586b7360fa2863ac9cdc9e92f9d5fa401d6",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4868 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4958 copy(1).jpg",
+      "sha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4597 copy.jpg",
+      "sha256": "c1ca95f448e07be640d8703efc80419af221a8568b5015ef21808fa2ba256d8f",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4597 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5529 copy.jpg",
+      "sha256": "0ea2379490aa098c6039121be357325e9a643c6c217092d4c27855659d2e78f6",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5529 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4945 copy(1).jpg",
+      "sha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4567_(2) copy.jpg",
+      "sha256": "0770fe3f35b1f0edadb1a7f50e6443446c3ebe7e8551489e7b5060b3c87163a2",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4567_(2) copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4510 copy.jpg",
+      "sha256": "8e3d9681b951c54d9274f98327b95b07aa54e5a49e402d968ad4619928472b98",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4510 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4404 copy.jpg",
+      "sha256": "6701bee023074fa732402041e9d3ba6cb3ed4055f1943fa4386d9635ad73ae76",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4404 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4929 copy(1).jpg",
+      "sha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5493 copy.jpg",
+      "sha256": "6835fe5e5756369009cd12fa01e41f9d56d7ef2f80d19b57eba75a5505b90bc4",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5493 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4958 copy (1).jpg",
+      "sha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4542 copy.jpg",
+      "sha256": "c91483ff6025553a06e1d8b767e9e27eb01bb263047f8b05cda6bed15e85d1e3",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4542 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4410 copy.jpg",
+      "sha256": "2d6923eac0ac856cbad09a3f1c3a103826b20acf35fc763260fc23508a9147bb",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4410 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4778 copy.jpg",
+      "sha256": "a4923970c2a3fc2793400ef06503000d5aaf76c7cdbd0155b0b5a423553e5cbc",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4778 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4786 copy.jpg",
+      "sha256": "0cf5ad5e21aa95fe1940c8972375792b2110b441c5629fad0c277dbf709c9f24",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4786 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4903 copy.jpg",
+      "sha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_5632 copy.jpg",
+      "sha256": "c429e41115a707b1f450e1a8c473937faa60ee6cc72d7fe927454ba60f4b1537",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5632 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4929 copy.jpg",
+      "sha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4691 copy.jpg",
+      "sha256": "739c493fbfc211d94f0151388e65cc4e0af25868edb2fe783bc06043db935046",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4691 copy.jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4903 copy(1).jpg",
+      "sha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+    },
+    {
+      "archive": "lookbook -20261010T063147Z-1-001.zip",
+      "entry": "lookbook /IMG_4903 copy (1).jpg",
+      "sha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "original": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg"
+    }
+  ],
+  "selection": [
+    {
+      "variantId": "mia-bag-beige",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/mia-bag/beige/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4903 copy (1).jpg",
+      "originalSha256": "01ffb263ee0a8e444eff47b45c9ad6096f954a2830dfaba2c9f5edea2bdf5126",
+      "optimizedSha256": "4f8b7a1ef887b2855970cf7bd4d4be7f593b8eddc65681ae7b69e20865681c51"
+    },
+    {
+      "variantId": "mia-bag-beige",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/mia-bag/beige/03-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4786 copy.jpg",
+      "originalSha256": "0cf5ad5e21aa95fe1940c8972375792b2110b441c5629fad0c277dbf709c9f24",
+      "optimizedSha256": "ebceaa90011b43d2cc40f099a412eed666479178908816260a0879088540e142"
+    },
+    {
+      "variantId": "mia-bag-brown",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/mia-bag/brown/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5018 copy(1).jpg",
+      "originalSha256": "3e1e2df3dfdb06e7b5dff32117ff994c63fc1f9ba65923d8ebcc5cd65ba58e00",
+      "optimizedSha256": "0a5e08a08b024136c8f6307981171940e132926b33ad70ad546309db62437918"
+    },
+    {
+      "variantId": "mia-bag-avocado",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/mia-bag/avocado/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5103 copy(1).jpg",
+      "originalSha256": "ae4f31b2cf3feda3d9d39a4817ef40eb6acf98832c7de1dd3a5dc381d13a2f5f",
+      "optimizedSha256": "cb0bb6eda83f9195f6362b83fc47e6fc9ef7444498867d5d3109428458438860"
+    },
+    {
+      "variantId": "mia-bag-red",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/mia-bag/red/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4945 copy.jpg",
+      "originalSha256": "4513df87535847e54d0aae6f4f30299917a15cdb93a5a6bc350bbf269494ca00",
+      "optimizedSha256": "6b81a431bc9530c800c929c059d10bb84475764908fb5fca705bf0df76da40aa"
+    },
+    {
+      "variantId": "mia-bag-red",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/mia-bag/red/03-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4929 copy (1).jpg",
+      "originalSha256": "7a916a02de64081b06e41bb6d4cd4dca0985f056f3afb217d3007403060945fa",
+      "optimizedSha256": "0a773d22464a676774e2b553024863c327f78419483d6cae813d33b9eada6e8e"
+    },
+    {
+      "variantId": "mia-bag-red",
+      "kind": "detail",
+      "sourceFile": "product-images/mia-bag/red/04-detail.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_4958 copy (1).jpg",
+      "originalSha256": "6defbe1f2540355f01ef704b881e97e52c5b74810b3ce9882a7b5fab38c77016",
+      "optimizedSha256": "b3799737043984f6c683bf9e1bfae063dd932ea4e917e06d2f624f2a21a4a77e"
+    },
+    {
+      "variantId": "calla-bag-moss",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/calla-bag/moss/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5539 copy.jpg",
+      "originalSha256": "be7386e14f0e0c190d4962f711068d3e272e8e2a06debce92dfa84c4e9cce9ed",
+      "optimizedSha256": "1941504bd2f34ce9651665449186bc3b22f4b5dd9e94045bc2cc5803511396ad"
+    },
+    {
+      "variantId": "calla-bag-moss",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/calla-bag/moss/03-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5529 copy.jpg",
+      "originalSha256": "0ea2379490aa098c6039121be357325e9a643c6c217092d4c27855659d2e78f6",
+      "optimizedSha256": "b630b7c5fa448d55a9229bc7f8144432b642a81bcfbd921d8d427ad79eab90fc"
+    },
+    {
+      "variantId": "calla-bag-moss",
+      "kind": "detail",
+      "sourceFile": "product-images/calla-bag/moss/04-detail.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5334 copy(1).jpg",
+      "originalSha256": "eea361fb25d3461b072fb006c26da46b3c715a99abccb61c1731070d53a6346e",
+      "optimizedSha256": "d55302528dcba811fd8553d6bcbc5e04e0a372cf56b534ff4deb6e2127f2c1aa"
+    },
+    {
+      "variantId": "calla-bag-black",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/calla-bag/black/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5493 copy.jpg",
+      "originalSha256": "6835fe5e5756369009cd12fa01e41f9d56d7ef2f80d19b57eba75a5505b90bc4",
+      "optimizedSha256": "9be0e4a6eec2ced258dde8aeb18fb7f24263f61ab44208850041f7654b097a6c"
+    },
+    {
+      "variantId": "calla-bag-brown",
+      "kind": "lifestyle",
+      "sourceFile": "product-images/calla-bag/brown/02-lifestyle.jpg",
+      "originalFile": "brand-assets/lis/lookbook/mia-calla/originals/IMG_5632 copy.jpg",
+      "originalSha256": "c429e41115a707b1f450e1a8c473937faa60ee6cc72d7fe927454ba60f4b1537",
+      "optimizedSha256": "713273e782358391216a5a257233e8d8539924a21fdd068d5006178fab516338"
+    }
+  ]
+}

@@ -2,31 +2,86 @@
 node_modules/
 /.pnp
 .pnp.js
+.pnp.cjs
 
 # Testing
 /coverage
+.nyc_output/
 
 # Next.js
 /.next/
+/.next-*/
 /out/
+.turbo/
 
 # Cloudflare OpenNext & Wrangler
 .open-next/
 .wrangler/
 
 # Production build
-/build
+/build/
+/dist/
 
-# Misc
+# OS and editor files
 .DS_Store
-*.pem
+Thumbs.db
+Desktop.ini
+.idea/
+*.swp
+*.swo
 
-# Local env files
-.env*.local
+# Local credentials and environment files (keep shareable templates)
+*.pem
+*.key
+.env*
+!.env.example
+!.env.template
+.dev.vars*
+!.dev.vars.example
+
+# Logs, temporary files and interrupted downloads
+*.log
+*.tmp
+*.temp
+*.part
+*.crdownload
+*.tsbuildinfo
+
+# Import archives; selected product images stay versioned
+*.zip
+*.7z
+*.rar
+
+# Local photo library: selected web sources already live in product-images/
+/PTS Lis Bag/
+/brand-assets/lis/lookbook/**/originals/
+/image_extracted/downloaded_images/
+
+# One-off bulk import helpers; keep on disk, outside the distributable app
+/apply_photos.bat
+/scripts/apply-photoshoot.mjs
+/image_extracted/scratch_*.py
+
+# Generated provenance sidecars; images:sync recreates these with WebP assets
+/public/images/catalog/**/*.webp.json
 
 # Vercel
 .vercel
 
 # TypeScript
-*.tsbuildinfo
 next-env.d.ts
+
+# impeccable-ignore-start
+**/.impeccable/review/
+**/.impeccable/config.local.json
+**/.impeccable/hook.cache.json
+**/.impeccable/hook.pending.json
+**/.impeccable/*.png
+# impeccable-ignore-end
+
+# Python tool cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/

@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-10",
+  "photos": 36,
+  "images": [
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/115.jpg",
+      "sourceFile": "product-images/irisa-bag/pink/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "9a7100fd7d5d13e1de0a859f6bc00d692f8299f506cc1e705861a907005ed184",
+      "bytes": 856442
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/125.jpg",
+      "sourceFile": "product-images/irisa-bag/pink/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "8214342de7b2f288b55623ff0d6434c93556bc91f96d225489226f9ca29ec516",
+      "bytes": 3060967
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/117.jpg",
+      "sourceFile": "product-images/irisa-bag/pink/03-detail.jpg",
+      "kind": "detail",
+      "sha256": "7a6dcd5c06585ce723672f319ecc6e2df53b4cd6ed1754f34675067ce83dcc43",
+      "bytes": 4619084
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/119.jpg",
+      "sourceFile": "product-images/irisa-bag/pink/04-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "d3f1b3061514d4cd325233968b313cb1a5c4d2e1c1d10edf456193f3f59811d0",
+      "bytes": 3538498
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/122.jpg",
+      "sourceFile": "product-images/irisa-bag/pink/05-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "0d255673a6bc18ca9601e97861ad763d0131cc3d86322ae74801ae76b62bf012",
+      "bytes": 3359667
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/123.jpg",
+      "sourceFile": "product-images/irisa-bag/pink/06-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "ee6064c60719c05023dea45cc764ece848e25f90360c4fdb96d2db39cf87baa0",
+      "bytes": 3124274
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/IMG_2426.JPG",
+      "sourceFile": "product-images/irisa-bag/pink/07-detail-size.jpg",
+      "kind": "detail",
+      "sha256": "f7be811dba47bff71ed79f619830939b5263a290d320b598d43da2af7d0cb33a",
+      "bytes": 91083
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/116.jpg",
+      "sourceFile": "product-images/irisa-bag/beige/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "35248703516b12b4a9be331c6db15d73c4c0e434bc0f204317427725d94f54c1",
+      "bytes": 823945
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/120.jpg",
+      "sourceFile": "product-images/irisa-bag/beige/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "0037f274dd96eb9a3f7d1cbc10718ed1d50b60656b3c603e1612b333e13fc092",
+      "bytes": 2850281
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/118.jpg",
+      "sourceFile": "product-images/irisa-bag/beige/03-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "8236de55259e7e40bf4e2fb1f636d05fbe485d7db96973799e03584a477fc50c",
+      "bytes": 3261267
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/121.jpg",
+      "sourceFile": "product-images/irisa-bag/beige/04-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "c567b73c10e7c973831cda287c70f55e58ca4df89c428b958e3ace1d339d37af",
+      "bytes": 3008876
+    },
+    {
+      "archive": "Irisa-20261010T034656Z-1-001.zip",
+      "entry": "Irisa/124.jpg",
+      "sourceFile": "product-images/irisa-bag/beige/05-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "bb1f4d36c440b4994bdf43436ab03453e364ee61871745c1c2f18e860c1b814f",
+      "bytes": 3175047
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/126.jpg",
+      "sourceFile": "product-images/dalia-bag/pink/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "5b36a1cccbfd2990a757d07d9fdf2456b1561f5a087a900f0b27d43a6f7435b4",
+      "bytes": 1382443
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/133.jpg",
+      "sourceFile": "product-images/dalia-bag/pink/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "600a48729a2f24121ab86fd10383f2a232b6e9c452e8eb5a4024981ce0bbf205",
+      "bytes": 3006174
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/129.jpg",
+      "sourceFile": "product-images/dalia-bag/pink/03-detail.jpg",
+      "kind": "detail",
+      "sha256": "006d8a8517e48668bafae13492f3b792c70ff6a750cbf4c966af9b2de5081eb1",
+      "bytes": 3223096
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/130.jpg",
+      "sourceFile": "product-images/dalia-bag/pink/04-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "4a7bf412b2b3e4bafc4f72ab7703415b1aafb5b74192be43e547bf9a3015d505",
+      "bytes": 3194504
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/134.jpg",
+      "sourceFile": "product-images/dalia-bag/pink/05-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "991e1853cd9a22b12273f48a9e1dd41ee1d77a77321c2ad3abf5978b66d7c7f1",
+      "bytes": 2715391
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/135.jpg",
+      "sourceFile": "product-images/dalia-bag/pink/06-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "c407f04d3cf67e8ae1cf738051103c22047aa53515a9631295218a71b40698b1",
+      "bytes": 2849107
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/IMG_2427.JPG",
+      "sourceFile": "product-images/dalia-bag/pink/07-detail-size.jpg",
+      "kind": "detail",
+      "sha256": "9e9d7f20832a4af4f326eb930625fd3eddb7bf6b8ab6b998d47a36f71c0fdee4",
+      "bytes": 103426
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/128.jpg",
+      "sourceFile": "product-images/dalia-bag/beige/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "b093d9ded365b9bd4813233d16ec8d5e62645f6e990e00098470822fd5d50242",
+      "bytes": 1172759
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/131.jpg",
+      "sourceFile": "product-images/dalia-bag/beige/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "ef9357b2f1977781ad8c4f1eeb8838f98c6318eca4257c5a0a16c18c683d7098",
+      "bytes": 3472826
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/127.jpg",
+      "sourceFile": "product-images/dalia-bag/mint/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "42d2459b66f7c2dcdba7fb7ea4275554f1addee495de11d0806b86cb48f13978",
+      "bytes": 1498792
+    },
+    {
+      "archive": "Dalia-20261010T034700Z-1-001.zip",
+      "entry": "Dalia/132.jpg",
+      "sourceFile": "product-images/dalia-bag/mint/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "e3c16754c50cc4d64f67de0067702fca4412f5581473b4c165d038a2540ef5d9",
+      "bytes": 3311363
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/137.jpg",
+      "sourceFile": "product-images/lilia-bag/white/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "6a5f392a84e363077f9b22cae3fe7a912276f114f5f9a144b17e41be4643726b",
+      "bytes": 1255522
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/144.jpg",
+      "sourceFile": "product-images/lilia-bag/white/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "fb38effcf8b514a886283ef1cd4e7b71bf6ae9201e50f4d61c99c456cafa150b",
+      "bytes": 3603840
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/139.jpg",
+      "sourceFile": "product-images/lilia-bag/white/03-packshot-angle.jpg",
+      "kind": "packshot",
+      "sha256": "6164c8e5bcb778916ea919e251117dcd9cef69180849e4d255b8848d4a3b98ee",
+      "bytes": 1227622
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/141.jpg",
+      "sourceFile": "product-images/lilia-bag/white/04-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "79383ad14bcb7621d54f98f9e9fa818ec8639cdd53cc94ce44c0aa1496432ff4",
+      "bytes": 3753929
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/143.jpg",
+      "sourceFile": "product-images/lilia-bag/white/05-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "a7fb3b6e7cb826c6ab9da445fb3e610556dd4f85579e703fe2f257350b7d77f8",
+      "bytes": 3641956
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/136.jpg",
+      "sourceFile": "product-images/lilia-bag/black/01-packshot.jpg",
+      "kind": "packshot",
+      "sha256": "91a7c7a3e357525cbccc0ce6d0235f928e9c0404c1fd4efb7f823c2a04283136",
+      "bytes": 1778289
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/146.jpg",
+      "sourceFile": "product-images/lilia-bag/black/02-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "47ecbc729f263f0e38756a6c2121e4c484cb717e9c10d392f77eb8863fea6855",
+      "bytes": 3017706
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/140.jpg",
+      "sourceFile": "product-images/lilia-bag/black/03-detail.jpg",
+      "kind": "detail",
+      "sha256": "bf846345cb7164ccebc5a15e67e9878b3cf935f6469f6e3845edafb5f5ee9f4a",
+      "bytes": 4984612
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/138.jpg",
+      "sourceFile": "product-images/lilia-bag/black/04-packshot-angle.jpg",
+      "kind": "packshot",
+      "sha256": "e19ef21d6e3a80b4ef7fd6c86b2bdd3fa55e2d9e2f00f9a2c7c1cbb06d4ffb7e",
+      "bytes": 858297
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/142.jpg",
+      "sourceFile": "product-images/lilia-bag/black/05-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "366166b94ea48157e18f9e1a41df0b45756717b1e569675a0622d4c7cc57f27b",
+      "bytes": 3438900
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/145.jpg",
+      "sourceFile": "product-images/lilia-bag/black/06-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "109efb90b41d98557641d254dd5377fc98efb688c13a631caa1d1758e0c99c56",
+      "bytes": 3067084
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/147.jpg",
+      "sourceFile": "product-images/lilia-bag/black/07-lifestyle.jpg",
+      "kind": "lifestyle",
+      "sha256": "6241281a629ef0760ca145f47cc13f9cab05d45d0cade967163b2b6bffa8d2aa",
+      "bytes": 3074340
+    },
+    {
+      "archive": "Lilia-20261010T034702Z-1-001.zip",
+      "entry": "Lilia/IMG_2425.JPG",
+      "sourceFile": "product-images/lilia-bag/black/08-detail-size.jpg",
+      "kind": "detail",
+      "sha256": "82c3c1757efb84499e44630f6b87ac912e8e0e80dfd17e249e9c98f67ae44bfd",
+      "bytes": 183954
+    }
+  ]
+}

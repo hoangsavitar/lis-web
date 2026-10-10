@@ -1,5 +1,689 @@
 [
   {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/pink/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/01-packshot.jpg",
+    "alt": "Irisa Bag — Hồng"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/pink/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/02-lifestyle.jpg",
+    "alt": "Irisa Bag — Hồng — góc 2"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/angle-3-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/pink/angle-3",
+    "kind": "detail",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/03-detail.jpg",
+    "alt": "Irisa Bag — Hồng — góc 3"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/angle-4-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/pink/angle-4",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/04-lifestyle.jpg",
+    "alt": "Irisa Bag — Hồng — góc 4"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/angle-5-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/pink/angle-5",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/05-lifestyle.jpg",
+    "alt": "Irisa Bag — Hồng — góc 5"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/angle-6-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/pink/angle-6",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/06-lifestyle.jpg",
+    "alt": "Irisa Bag — Hồng — góc 6"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-pink",
+    "src": "/images/catalog/irisa-bag/pink/angle-7-1254.webp",
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1254
+    ],
+    "base": "/images/catalog/irisa-bag/pink/angle-7",
+    "kind": "detail",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/pink/07-detail-size.jpg",
+    "alt": "Irisa Bag — Hồng — góc 7"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-beige",
+    "src": "/images/catalog/irisa-bag/beige/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/beige/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/beige/01-packshot.jpg",
+    "alt": "Irisa Bag — Be"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-beige",
+    "src": "/images/catalog/irisa-bag/beige/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/beige/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/beige/02-lifestyle.jpg",
+    "alt": "Irisa Bag — Be — góc 2"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-beige",
+    "src": "/images/catalog/irisa-bag/beige/angle-3-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/beige/angle-3",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/beige/03-lifestyle.jpg",
+    "alt": "Irisa Bag — Be — góc 3"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-beige",
+    "src": "/images/catalog/irisa-bag/beige/angle-4-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/beige/angle-4",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/beige/04-lifestyle.jpg",
+    "alt": "Irisa Bag — Be — góc 4"
+  },
+  {
+    "product": "irisa-bag",
+    "variant": "irisa-bag-beige",
+    "src": "/images/catalog/irisa-bag/beige/angle-5-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/irisa-bag/beige/angle-5",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/irisa-bag/beige/05-lifestyle.jpg",
+    "alt": "Irisa Bag — Be — góc 5"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/pink/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/01-packshot.jpg",
+    "alt": "Dalia Bag — Hồng"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/pink/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/02-lifestyle.jpg",
+    "alt": "Dalia Bag — Hồng — góc 2"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/angle-3-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/pink/angle-3",
+    "kind": "detail",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/03-detail.jpg",
+    "alt": "Dalia Bag — Hồng — góc 3"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/angle-4-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/pink/angle-4",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/04-lifestyle.jpg",
+    "alt": "Dalia Bag — Hồng — góc 4"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/angle-5-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/pink/angle-5",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/05-lifestyle.jpg",
+    "alt": "Dalia Bag — Hồng — góc 5"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/angle-6-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/pink/angle-6",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/06-lifestyle.jpg",
+    "alt": "Dalia Bag — Hồng — góc 6"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-pink",
+    "src": "/images/catalog/dalia-bag/pink/angle-7-1254.webp",
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1254
+    ],
+    "base": "/images/catalog/dalia-bag/pink/angle-7",
+    "kind": "detail",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/pink/07-detail-size.jpg",
+    "alt": "Dalia Bag — Hồng — góc 7"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-beige",
+    "src": "/images/catalog/dalia-bag/beige/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/beige/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/beige/01-packshot.jpg",
+    "alt": "Dalia Bag — Be"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-beige",
+    "src": "/images/catalog/dalia-bag/beige/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/beige/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/beige/02-lifestyle.jpg",
+    "alt": "Dalia Bag — Be — góc 2"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-mint",
+    "src": "/images/catalog/dalia-bag/mint/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/mint/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/mint/01-packshot.jpg",
+    "alt": "Dalia Bag — Xanh"
+  },
+  {
+    "product": "dalia-bag",
+    "variant": "dalia-bag-mint",
+    "src": "/images/catalog/dalia-bag/mint/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/dalia-bag/mint/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/dalia-bag/mint/02-lifestyle.jpg",
+    "alt": "Dalia Bag — Xanh — góc 2"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-white",
+    "src": "/images/catalog/lilia-bag/white/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/white/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/white/01-packshot.jpg",
+    "alt": "Lilia Bag — Trắng"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-white",
+    "src": "/images/catalog/lilia-bag/white/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/white/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/white/02-lifestyle.jpg",
+    "alt": "Lilia Bag — Trắng — góc 2"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-white",
+    "src": "/images/catalog/lilia-bag/white/angle-3-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/white/angle-3",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/white/03-packshot-angle.jpg",
+    "alt": "Lilia Bag — Trắng — góc 3"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-white",
+    "src": "/images/catalog/lilia-bag/white/angle-4-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/white/angle-4",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/white/04-lifestyle.jpg",
+    "alt": "Lilia Bag — Trắng — góc 4"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-white",
+    "src": "/images/catalog/lilia-bag/white/angle-5-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/white/angle-5",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/white/05-lifestyle.jpg",
+    "alt": "Lilia Bag — Trắng — góc 5"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/front-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/front",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/01-packshot.jpg",
+    "alt": "Lilia Bag — Đen"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-2-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/02-lifestyle.jpg",
+    "alt": "Lilia Bag — Đen — góc 2"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-3-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-3",
+    "kind": "detail",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/03-detail.jpg",
+    "alt": "Lilia Bag — Đen — góc 3"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-4-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-4",
+    "kind": "packshot",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/04-packshot-angle.jpg",
+    "alt": "Lilia Bag — Đen — góc 4"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-5-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-5",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/05-lifestyle.jpg",
+    "alt": "Lilia Bag — Đen — góc 5"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-6-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-6",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/06-lifestyle.jpg",
+    "alt": "Lilia Bag — Đen — góc 6"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-7-1280.webp",
+    "width": 2160,
+    "height": 2160,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-7",
+    "kind": "lifestyle",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/07-lifestyle.jpg",
+    "alt": "Lilia Bag — Đen — góc 7"
+  },
+  {
+    "product": "lilia-bag",
+    "variant": "lilia-bag-black",
+    "src": "/images/catalog/lilia-bag/black/angle-8-1254.webp",
+    "width": 1254,
+    "height": 1254,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1254
+    ],
+    "base": "/images/catalog/lilia-bag/black/angle-8",
+    "kind": "detail",
+    "sourceCell": "",
+    "sourceFile": "product-images/lilia-bag/black/08-detail-size.jpg",
+    "alt": "Lilia Bag — Đen — góc 8"
+  },
+  {
     "product": "mila-bag",
     "variant": "mila-bag-burgundy",
     "src": "/images/catalog/mila-bag/burgundy/front-1280.webp",
@@ -17,6 +701,25 @@
     "sourceCell": "D2",
     "sourceFile": "product-images/mila-bag/burgundy/01-front.jpg",
     "alt": "Mila — Đỏ đô"
+  },
+  {
+    "product": "mila-bag",
+    "variant": "mila-bag-burgundy",
+    "src": "/images/catalog/mila-bag/burgundy/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mila-bag/burgundy/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D2",
+    "sourceFile": "product-images/mila-bag/burgundy/02-lifestyle.jpg",
+    "alt": "Mila — Đỏ đô — góc 2"
   },
   {
     "product": "mila-bag",
@@ -39,6 +742,25 @@
   },
   {
     "product": "mila-bag",
+    "variant": "mila-bag-earth",
+    "src": "/images/catalog/mila-bag/earth/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mila-bag/earth/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D3",
+    "sourceFile": "product-images/mila-bag/earth/02-lifestyle.jpg",
+    "alt": "Mila — Nâu đất — góc 2"
+  },
+  {
+    "product": "mila-bag",
     "variant": "mila-bag-milk",
     "src": "/images/catalog/mila-bag/milk/front-1280.webp",
     "width": 2048,
@@ -55,6 +777,25 @@
     "sourceCell": "D4",
     "sourceFile": "product-images/mila-bag/milk/01-front.jpg",
     "alt": "Mila — Be sữa"
+  },
+  {
+    "product": "mila-bag",
+    "variant": "mila-bag-milk",
+    "src": "/images/catalog/mila-bag/milk/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mila-bag/milk/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D4",
+    "sourceFile": "product-images/mila-bag/milk/02-lifestyle.jpg",
+    "alt": "Mila — Be sữa — góc 2"
   },
   {
     "product": "nina-bag",
@@ -76,6 +817,25 @@
   },
   {
     "product": "nina-bag",
+    "variant": "nina-bag-burgundy",
+    "src": "/images/catalog/nina-bag/burgundy/angle-2-1280.webp",
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/nina-bag/burgundy/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D5",
+    "sourceFile": "product-images/nina-bag/burgundy/02-lifestyle.jpg",
+    "alt": "Nina — Đỏ burgundy — góc 2"
+  },
+  {
+    "product": "nina-bag",
     "variant": "nina-bag-chocolate",
     "src": "/images/catalog/nina-bag/chocolate/front-800.webp",
     "width": 800,
@@ -94,6 +854,25 @@
   },
   {
     "product": "nina-bag",
+    "variant": "nina-bag-chocolate",
+    "src": "/images/catalog/nina-bag/chocolate/angle-2-1280.webp",
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/nina-bag/chocolate/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D6",
+    "sourceFile": "product-images/nina-bag/chocolate/02-lifestyle.jpg",
+    "alt": "Nina — Nâu Socola — góc 2"
+  },
+  {
+    "product": "nina-bag",
     "variant": "nina-bag-milk",
     "src": "/images/catalog/nina-bag/milk/front-800.webp",
     "width": 800,
@@ -109,6 +888,25 @@
     "sourceCell": "D7",
     "sourceFile": "product-images/nina-bag/milk/01-front.jpg",
     "alt": "Nina — Be sữa"
+  },
+  {
+    "product": "nina-bag",
+    "variant": "nina-bag-milk",
+    "src": "/images/catalog/nina-bag/milk/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/nina-bag/milk/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D7",
+    "sourceFile": "product-images/nina-bag/milk/02-lifestyle.jpg",
+    "alt": "Nina — Be sữa — góc 2"
   },
   {
     "product": "lucia-tote",
@@ -131,6 +929,25 @@
   },
   {
     "product": "lucia-tote",
+    "variant": "lucia-tote-chocolate",
+    "src": "/images/catalog/lucia-tote/chocolate/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/chocolate/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D8",
+    "sourceFile": "product-images/lucia-tote/chocolate/02-lifestyle.jpg",
+    "alt": "Lucia Tote — Nâu Socola — góc 2"
+  },
+  {
+    "product": "lucia-tote",
     "variant": "lucia-tote-milk",
     "src": "/images/catalog/lucia-tote/milk/front-1280.webp",
     "width": 2048,
@@ -147,6 +964,25 @@
     "sourceCell": "D9",
     "sourceFile": "product-images/lucia-tote/milk/01-front.jpg",
     "alt": "Lucia Tote — Be sữa"
+  },
+  {
+    "product": "lucia-tote",
+    "variant": "lucia-tote-milk",
+    "src": "/images/catalog/lucia-tote/milk/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/lucia-tote/milk/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D9",
+    "sourceFile": "product-images/lucia-tote/milk/02-lifestyle.jpg",
+    "alt": "Lucia Tote — Be sữa — góc 2"
   },
   {
     "product": "lucia-tote",
@@ -226,6 +1062,25 @@
   },
   {
     "product": "elena-tote",
+    "variant": "elena-tote-brown",
+    "src": "/images/catalog/elena-tote/brown/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/elena-tote/brown/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D12",
+    "sourceFile": "product-images/elena-tote/brown/02-lifestyle.jpg",
+    "alt": "Elena Tote — Nâu — góc 2"
+  },
+  {
+    "product": "elena-tote",
     "variant": "elena-tote-black",
     "src": "/images/catalog/elena-tote/black/front-1280.webp",
     "width": 2048,
@@ -242,6 +1097,25 @@
     "sourceCell": "D13",
     "sourceFile": "product-images/elena-tote/black/01-front.jpg",
     "alt": "Elena Tote — Đen"
+  },
+  {
+    "product": "elena-tote",
+    "variant": "elena-tote-black",
+    "src": "/images/catalog/elena-tote/black/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/elena-tote/black/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D13",
+    "sourceFile": "product-images/elena-tote/black/02-lifestyle.jpg",
+    "alt": "Elena Tote — Đen — góc 2"
   },
   {
     "product": "lucky-charm",
@@ -321,6 +1195,44 @@
   },
   {
     "product": "mia-bag",
+    "variant": "mia-bag-beige",
+    "src": "/images/catalog/mia-bag/beige/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/beige/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D17",
+    "sourceFile": "product-images/mia-bag/beige/02-lifestyle.jpg",
+    "alt": "Mia Bag — Be — góc 2"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-beige",
+    "src": "/images/catalog/mia-bag/beige/angle-3-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/beige/angle-3",
+    "kind": "lifestyle",
+    "sourceCell": "D17",
+    "sourceFile": "product-images/mia-bag/beige/03-lifestyle.jpg",
+    "alt": "Mia Bag — Be — góc 3"
+  },
+  {
+    "product": "mia-bag",
     "variant": "mia-bag-brown",
     "src": "/images/catalog/mia-bag/brown/front-1280.webp",
     "width": 1800,
@@ -337,6 +1249,25 @@
     "sourceCell": "D18",
     "sourceFile": "product-images/mia-bag/brown/01-front.jpg",
     "alt": "Mia Bag — Nâu"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-brown",
+    "src": "/images/catalog/mia-bag/brown/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/brown/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D18",
+    "sourceFile": "product-images/mia-bag/brown/02-lifestyle.jpg",
+    "alt": "Mia Bag — Nâu — góc 2"
   },
   {
     "product": "mia-bag",
@@ -359,6 +1290,25 @@
   },
   {
     "product": "mia-bag",
+    "variant": "mia-bag-avocado",
+    "src": "/images/catalog/mia-bag/avocado/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/avocado/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D19",
+    "sourceFile": "product-images/mia-bag/avocado/02-lifestyle.jpg",
+    "alt": "Mia Bag — Xanh bơ — góc 2"
+  },
+  {
+    "product": "mia-bag",
     "variant": "mia-bag-red",
     "src": "/images/catalog/mia-bag/red/front-1280.webp",
     "width": 1800,
@@ -375,6 +1325,63 @@
     "sourceCell": "D20",
     "sourceFile": "product-images/mia-bag/red/01-front.jpg",
     "alt": "Mia Bag — Đỏ"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-red",
+    "src": "/images/catalog/mia-bag/red/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/red/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D20",
+    "sourceFile": "product-images/mia-bag/red/02-lifestyle.jpg",
+    "alt": "Mia Bag — Đỏ — góc 2"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-red",
+    "src": "/images/catalog/mia-bag/red/angle-3-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/red/angle-3",
+    "kind": "lifestyle",
+    "sourceCell": "D20",
+    "sourceFile": "product-images/mia-bag/red/03-lifestyle.jpg",
+    "alt": "Mia Bag — Đỏ — góc 3"
+  },
+  {
+    "product": "mia-bag",
+    "variant": "mia-bag-red",
+    "src": "/images/catalog/mia-bag/red/angle-4-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/mia-bag/red/angle-4",
+    "kind": "detail",
+    "sourceCell": "D20",
+    "sourceFile": "product-images/mia-bag/red/04-detail.jpg",
+    "alt": "Mia Bag — Đỏ — góc 4"
   },
   {
     "product": "calla-bag",
@@ -396,6 +1403,63 @@
   },
   {
     "product": "calla-bag",
+    "variant": "calla-bag-moss",
+    "src": "/images/catalog/calla-bag/moss/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/calla-bag/moss/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D21",
+    "sourceFile": "product-images/calla-bag/moss/02-lifestyle.jpg",
+    "alt": "Calla Bag — Xanh rêu — góc 2"
+  },
+  {
+    "product": "calla-bag",
+    "variant": "calla-bag-moss",
+    "src": "/images/catalog/calla-bag/moss/angle-3-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/calla-bag/moss/angle-3",
+    "kind": "lifestyle",
+    "sourceCell": "D21",
+    "sourceFile": "product-images/calla-bag/moss/03-lifestyle.jpg",
+    "alt": "Calla Bag — Xanh rêu — góc 3"
+  },
+  {
+    "product": "calla-bag",
+    "variant": "calla-bag-moss",
+    "src": "/images/catalog/calla-bag/moss/angle-4-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/calla-bag/moss/angle-4",
+    "kind": "detail",
+    "sourceCell": "D21",
+    "sourceFile": "product-images/calla-bag/moss/04-detail.jpg",
+    "alt": "Calla Bag — Xanh rêu — góc 4"
+  },
+  {
+    "product": "calla-bag",
     "variant": "calla-bag-brown",
     "src": "/images/catalog/calla-bag/brown/front-800.webp",
     "width": 800,
@@ -414,6 +1478,25 @@
   },
   {
     "product": "calla-bag",
+    "variant": "calla-bag-brown",
+    "src": "/images/catalog/calla-bag/brown/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/calla-bag/brown/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D22",
+    "sourceFile": "product-images/calla-bag/brown/02-lifestyle.jpg",
+    "alt": "Calla Bag — Nâu — góc 2"
+  },
+  {
+    "product": "calla-bag",
     "variant": "calla-bag-black",
     "src": "/images/catalog/calla-bag/black/front-800.webp",
     "width": 800,
@@ -429,6 +1512,25 @@
     "sourceCell": "D23",
     "sourceFile": "product-images/calla-bag/black/01-front.jpg",
     "alt": "Calla Bag — Đen"
+  },
+  {
+    "product": "calla-bag",
+    "variant": "calla-bag-black",
+    "src": "/images/catalog/calla-bag/black/angle-2-1280.webp",
+    "width": 1600,
+    "height": 2400,
+    "widths": [
+      320,
+      480,
+      640,
+      960,
+      1280
+    ],
+    "base": "/images/catalog/calla-bag/black/angle-2",
+    "kind": "lifestyle",
+    "sourceCell": "D23",
+    "sourceFile": "product-images/calla-bag/black/02-lifestyle.jpg",
+    "alt": "Calla Bag — Đen — góc 2"
   },
   {
     "product": "lily-charm",

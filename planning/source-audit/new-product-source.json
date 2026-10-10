@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-10",
+  "authority": "Descriptions, dimensions, PU material, resistance properties, compartments, straps and colors supplied directly by user in chat; images supplied in three ZIPs. No SKU/price/stock supplied.",
+  "displayOrder": [
+    "irisa-bag",
+    "dalia-bag",
+    "lilia-bag"
+  ],
+  "products": [
+    {
+      "slug": "irisa-bag",
+      "title": "Irisa Bag",
+      "subtitle": "Dáng ngang thanh thoát, quai mảnh và nơ nhỏ hai bên. Nhẹ nhàng cho ngày thường hay một buổi hẹn.",
+      "description": "Phom chữ nhật ngang, mềm vừa phải nhưng vẫn gọn dáng. Quai dài bản mảnh để xách tay hoặc đeo vai; nơ hai bên và logo LIS nhỏ tạo điểm nhấn trên bề mặt trơn tối giản.",
+      "dimensions": "26 × 12 × 10 cm (ngang × cao × đáy)",
+      "details": [
+        "3 ngăn chính, 2 ngăn phụ",
+        "Quai xách dài 27 cm",
+        "Bề mặt chống nước và chống trầy xước"
+      ],
+      "colors": [
+        [
+          "pink",
+          "Hồng",
+          "#e5b6c0"
+        ],
+        [
+          "beige",
+          "Be",
+          "#e5e4d9"
+        ]
+      ]
+    },
+    {
+      "slug": "dalia-bag",
+      "title": "Dalia Bag",
+      "subtitle": "Nơ nhỏ trên phom túi mềm, cùng những gam màu nhẹ. Dalia gọn xinh để mang theo những món đồ thiết yếu.",
+      "description": "Phom chữ nhật bo mềm với nắp liền thân, nơ dây ở mặt trước và logo LIS nhỏ. Quai đôi vòng cung dễ cầm, kèm dây đeo chéo để thay đổi cách mang. Vừa điện thoại, ví, son và những vật dụng cá nhân nhỏ.",
+      "dimensions": "23 × 15 × 8 cm (ngang × cao × đáy)",
+      "details": [
+        "Quai xách 10 cm",
+        "Kèm dây đeo chéo",
+        "Bề mặt chống nước và chống trầy xước"
+      ],
+      "colors": [
+        [
+          "pink",
+          "Hồng",
+          "#e5b6c0"
+        ],
+        [
+          "beige",
+          "Be",
+          "#e5e4d9"
+        ],
+        [
+          "mint",
+          "Xanh",
+          "#acd4ce"
+        ]
+      ]
+    },
+    {
+      "slug": "lilia-bag",
+      "title": "Lilia Bag",
+      "subtitle": "Phom đứng chỉn chu, đường chần quả trám và charm hoa bên hông. Một điểm nhấn thanh lịch cho bộ đồ mỗi ngày.",
+      "description": "Túi chữ nhật đứng với bề mặt chần quả trám, quai tròn bo mềm và khoen kim loại ánh vàng. Charm hoa Calla bên hông làm phom túi thêm nữ tính; dây đeo chéo đi kèm giúp đổi cách mang.",
+      "dimensions": "23 × 15 × 8 cm (ngang × cao × đáy)",
+      "details": [
+        "Quai xách 8 cm",
+        "Kèm charm hoa Calla và dây đeo chéo",
+        "Bề mặt chống nước và chống trầy xước"
+      ],
+      "colors": [
+        [
+          "white",
+          "Trắng",
+          "#eeeee7"
+        ],
+        [
+          "black",
+          "Đen",
+          "#1b1c1d"
+        ]
+      ]
+    }
+  ]
+}

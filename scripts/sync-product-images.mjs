@@ -6,6 +6,15 @@ import sharp from 'sharp';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const catalogFile = path.join(root, 'data/catalog.json');
 const catalog = JSON.parse(await fs.readFile(catalogFile, 'utf8'));
+const mediaRoles = JSON.parse(await fs.readFile(path.join(root, 'data/product-media.json'), 'utf8'));
+const kinds = new Set(['packshot', 'lifestyle', 'detail']);
+function getKind(sourceFile) {
+  const mapped = mediaRoles[sourceFile]?.kind;
+  const named = path.basename(sourceFile).toLowerCase().match(/(?:^|[-_])(packshot|lifestyle|detail)(?:[-_.]|$)/)?.[1];
+  const kind = mapped || named;
+  if (!kinds.has(kind)) throw new Error('Cần phân loại ảnh trong data/product-media.json: ' + sourceFile);
+  return kind;
+}
 const manifest = [];
 let count = 0;
 
@@ -23,6 +32,8 @@ for (const product of catalog) {
     const gallery = [];
     for (let index = 0; index < files.length; index++) {
       const input = path.join(inputDirectory, files[index]);
+      const sourceFile = `product-images/${product.slug}/${color}/${files[index]}`;
+      const kind = getKind(sourceFile);
       // Rotate once according to EXIF, then drop metadata from customer-facing assets.
       const buffer = await sharp(input).rotate().toBuffer();
       const metadata = await sharp(buffer).metadata();
@@ -33,12 +44,14 @@ for (const product of catalog) {
       for (const size of widths) {
         await sharp(buffer).resize({ width: size, withoutEnlargement: true })
           .webp({ quality: 80, effort: 5 }).toFile(path.join(outputDirectory, `${name}-${size}.webp`));
+        const provenance = {prompt: `Origin: ${sourceFile}, supplied LIS product image (source cell ${previous?.sourceCell || 'manual addition'}). Responsive WebP via Sharp. No synthetic photography.`};
+        await fs.writeFile(path.join(outputDirectory, `${name}-${size}.webp.json`), JSON.stringify(provenance, null, 2) + '\n');
       }
       const base = `/images/catalog/${product.slug}/${color}/${name}`;
       const asset = {
         src: `${base}-${Math.max(...widths)}.webp`, width, height, widths, base,
-        kind: previous?.kind || 'packshot', sourceCell: previous?.sourceCell || '',
-        sourceFile: `product-images/${product.slug}/${color}/${files[index]}`,
+        kind, sourceCell: previous?.sourceCell || '',
+        sourceFile,
         alt: `${product.title} — ${variant.name}${index ? ` — góc ${index + 1}` : ''}`,
       };
       gallery.push(asset);
@@ -46,7 +59,7 @@ for (const product of catalog) {
       count++;
     }
     variant.gallery = gallery;
-    variant.image = gallery[0].src;
+    variant.image = (gallery.find(a => a.kind === 'packshot') || gallery.find(a => a.kind === 'lifestyle') || gallery[0]).src;
   }
   const hero = product.variants.find(v => v.id === product.heroVariantId) || product.variants[0];
   product.mainImage = hero.image;
