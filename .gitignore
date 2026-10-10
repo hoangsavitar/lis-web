@@ -64,6 +64,8 @@ Desktop.ini
 
 # Generated provenance sidecars; images:sync recreates these with WebP assets
 /public/images/catalog/**/*.webp.json
+/public/media/**/*.webp.json
+/public/media/**/*.png.json
 
 # Vercel
 .vercel
