@@ -1,0 +1,6 @@
+# Content-fingerprinted images only. Legacy editable image URLs keep the default revalidation policy.
+/media/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable

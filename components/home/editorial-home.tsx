@@ -25,7 +25,7 @@ export function EditorialHome(){
   <section className="lis-lookbook" id="lookbook" aria-labelledby="lookbook-title">
    <div className="lookbook-inner">
     <div className="editorial-heading"><h2 id="lookbook-title">Cảm hứng phối đồ cùng LIS</h2></div>
-    <div className="lookbook-pair">{HOME_EDITORIAL.lookbook.map(item=>{const {product,variant}=findItem(item);const asset=variant.gallery.find(a=>a.kind==="lifestyle")!;return <figure key={item.id}><Link className="lookbook-image" href={productUrl(product,variant)} aria-label={"Xem "+product.title+" màu "+variant.name}><VariantImage asset={asset} sizes="(max-width: 767px) 100vw, 60vw"/></Link><figcaption><Link href={productUrl(product,variant)}>{item.caption}<ArrowUpRight size={20} aria-hidden="true"/></Link></figcaption></figure>;})}</div>
+    <div className="lookbook-pair">{HOME_EDITORIAL.lookbook.map((item,index)=>{const {product,variant}=findItem(item);const asset=variant.gallery.find(a=>a.kind==="lifestyle")!;const sizes=index===0?"(max-width: 767px) calc(100vw - 40px), (max-width: 1023px) calc(41.667vw - 30px), (max-width: 1359px) calc(41.667vw - 50px), 517px":"(max-width: 767px) calc(100vw - 40px), (max-width: 1023px) calc(58.333vw - 42px), (max-width: 1359px) calc(58.333vw - 70px), 723px";return <figure key={item.id}><Link className="lookbook-image" href={productUrl(product,variant)} aria-label={"Xem "+product.title+" màu "+variant.name}><VariantImage asset={asset} sizes={sizes}/></Link><figcaption><Link href={productUrl(product,variant)}>{item.caption}<ArrowUpRight size={20} aria-hidden="true"/></Link></figcaption></figure>;})}</div>
    </div>
   </section>
   <ProductEdit secondary/>

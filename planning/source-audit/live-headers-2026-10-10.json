@@ -1,0 +1,63 @@
+{
+  "capturedAt": "2026-10-10T14:47:10.145Z",
+  "note": "One GET per URL from the local Node runtime, without network throttling. Headers-received timings include connection setup; not TTFB from a browser trace. Body bytes may be decoded if content-encoding is set.",
+  "entries": [
+    {
+      "url": "https://lisbylii.com/",
+      "status": 200,
+      "headersReceivedMs": 1394,
+      "completeMs": 1401,
+      "decodedBodyBytes": 143210,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-length": null,
+        "content-encoding": "br",
+        "cache-control": "s-maxage=31536000",
+        "cf-cache-status": null,
+        "cf-ray": "a4866b22986dd5ba-NRT",
+        "age": null,
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "server": "cloudflare",
+        "server-timing": null
+      }
+    },
+    {
+      "url": "https://lisbylii.com/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&w=1920&q=85",
+      "status": 200,
+      "headersReceivedMs": 445,
+      "completeMs": 902,
+      "decodedBodyBytes": 777630,
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-length": "777630",
+        "content-encoding": null,
+        "cache-control": null,
+        "cf-cache-status": null,
+        "cf-ray": "a4866b293e52d5ba-NRT",
+        "age": null,
+        "vary": "Accept",
+        "server": "cloudflare",
+        "server-timing": null
+      }
+    },
+    {
+      "url": "https://lisbylii.com/images/catalog/irisa-bag/pink/front-320.webp",
+      "status": 200,
+      "headersReceivedMs": 436,
+      "completeMs": 436,
+      "decodedBodyBytes": 2144,
+      "headers": {
+        "content-type": "image/webp",
+        "content-length": "2144",
+        "content-encoding": null,
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "MISS",
+        "cf-ray": "a4866b2f6af95f82-SIN",
+        "age": null,
+        "vary": null,
+        "server": "cloudflare",
+        "server-timing": null
+      }
+    }
+  ]
+}

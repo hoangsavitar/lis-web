@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
+import { createHash } from 'node:crypto';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const catalogFile = path.join(root, 'data/catalog.json');
@@ -27,7 +28,7 @@ for (const product of catalog) {
       .sort((a, b) => a.localeCompare(b, 'en', { numeric: true }));
     if (!files.length) throw new Error(`Thiếu ảnh: product-images/${product.slug}/${color}`);
     const previous = variant.gallery[0];
-    const outputDirectory = path.join(root, 'public/images/catalog', product.slug, color);
+    const outputDirectory = path.join(root, 'public/media/catalog', product.slug, color);
     await fs.mkdir(outputDirectory, { recursive: true });
     const gallery = [];
     for (let index = 0; index < files.length; index++) {
@@ -40,14 +41,19 @@ for (const product of catalog) {
       const { width, height } = metadata;
       if (!width || !height) throw new Error(`Ảnh không hợp lệ: ${input}`);
       const name = index === 0 ? 'front' : `angle-${index + 1}`;
-      const widths = [...new Set([320, 480, 640, 960, 1280].map(w => Math.min(w, width)))];
+      const widths = [...new Set([160, 320, 480, 640, 960, 1280].map(w => Math.min(w, width)))];
+      // A changed photo or encoder profile gets a new URL, safe for immutable caching.
+      const revision = createHash('sha256').update(buffer).update(JSON.stringify({ widths, quality: 80, effort: 5, encoder: sharp.versions })).digest('hex').slice(0, 16);
+      const versionedName = `${name}-${revision}`;
       for (const size of widths) {
+        const output = path.join(outputDirectory, `${versionedName}-${size}.webp`);
+        try { await fs.access(output); continue; } catch {}
         await sharp(buffer).resize({ width: size, withoutEnlargement: true })
-          .webp({ quality: 80, effort: 5 }).toFile(path.join(outputDirectory, `${name}-${size}.webp`));
+          .webp({ quality: 80, effort: 5 }).toFile(output);
         const provenance = {prompt: `Origin: ${sourceFile}, supplied LIS product image (source cell ${previous?.sourceCell || 'manual addition'}). Responsive WebP via Sharp. No synthetic photography.`};
-        await fs.writeFile(path.join(outputDirectory, `${name}-${size}.webp.json`), JSON.stringify(provenance, null, 2) + '\n');
+        await fs.writeFile(output + '.json', JSON.stringify(provenance, null, 2) + '\n');
       }
-      const base = `/images/catalog/${product.slug}/${color}/${name}`;
+      const base = `/media/catalog/${product.slug}/${color}/${versionedName}`;
       const asset = {
         src: `${base}-${Math.max(...widths)}.webp`, width, height, widths, base,
         kind, sourceCell: previous?.sourceCell || '',

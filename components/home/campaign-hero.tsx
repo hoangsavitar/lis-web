@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, ArrowUpRight } from "@phosphor-icons/react/dist/ssr";
 import { HOME_CAMPAIGN } from "@/data/home-campaign";
@@ -9,7 +8,10 @@ export function CampaignHero() {
     <section className="campaign-hero" aria-labelledby="campaign-title" id="mia-bag-feature">
       <div className="campaign-media">
         <div className="campaign-photo">
-          <Image src={HOME_CAMPAIGN.image.src} alt={HOME_CAMPAIGN.image.alt} fill priority sizes="(max-width: 767px) 1081px, 100vw" quality={85} />
+          <img src={HOME_CAMPAIGN.image.src}
+            srcSet={HOME_CAMPAIGN.image.widths.map(width => `${HOME_CAMPAIGN.image.base}-${width}.webp ${width}w`).join(", ")}
+            sizes="(max-width: 767px) 1081px, 100vw" width={HOME_CAMPAIGN.image.width} height={HOME_CAMPAIGN.image.height}
+            alt={HOME_CAMPAIGN.image.alt} loading="eager" fetchPriority="high" decoding="async" />
         </div>
       </div>
       <div className="campaign-inner">

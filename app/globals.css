@@ -105,14 +105,14 @@ a,button,input,select,summary {scroll-margin-block:112px;}
 .card-save:hover {background:white;color:var(--brand);}
 .card-info {padding:16px 2px 0;}
 .card-title {display:inline-block;}
-.card-title h3 {font-size:22px;line-height:1.4;}
+.card-title :is(h2,h3) {font-size:22px;line-height:1.4;}
 .card-title:hover {text-decoration:underline;text-underline-offset:5px;}
 .card-description {font-size:14px;line-height:1.65;color:var(--muted);margin-top:5px;min-height:4.95em;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;}
 .card-info .contact-link {margin-top:2px;}
 .site-footer {background:#242622;color:#fff;scroll-margin-top:80px;}
 .footer-inner {max-width:1360px;margin:0 auto;padding:56px 40px 40px;display:grid;grid-template-columns:1.1fr .6fr 1.3fr;gap:48px;}
 .footer-intro p {color:#d0d2ca;font-size:16px;line-height:1.75;margin:24px 0;}
-.footer-links h3,.footer-faq h3 {font-size:22px;margin-bottom:20px;}
+.footer-links h2,.footer-faq h2 {font-size:22px;margin-bottom:20px;}
 .footer-links a {display:flex;align-items:center;min-height:44px;font-size:16px;color:#e7e8e1;}
 .footer-links a:hover,.footer-bottom a:hover {text-decoration:underline;text-underline-offset:5px;}
 .footer-faq details {border-bottom:1px solid #50524a;}
@@ -293,7 +293,7 @@ details[open] summary svg {transform:rotate(180deg);}
 
  .collection-grid {grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 14px;}
  .card-info {padding-top:12px;}
- .card-title h3 {font-size:18px;}
+ .card-title :is(h2,h3) {font-size:18px;}
  .card-description {font-size:14px;min-height:6.6em;-webkit-line-clamp:4;}
  .card-save {right:6px;top:6px;}
  .card-info .contact-link {font-size:16px;}
@@ -304,7 +304,7 @@ details[open] summary svg {transform:rotate(180deg);}
  .footer-intro .brand-logo {width:120px;}
  .footer-intro p {margin-top:20px;}
  .footer-links {display:grid;grid-template-columns:1fr 1fr;gap:4px 16px;}
- .footer-links h3 {grid-column:1/-1;margin-bottom:8px;}
+ .footer-links h2 {grid-column:1/-1;margin-bottom:8px;}
  .footer-bottom {margin-inline:20px;}
  .drawer-inner {padding:20px;}
  .drawer-title {font-size:28px;margin-bottom:20px;}
@@ -405,7 +405,7 @@ details[open] summary svg {transform:rotate(180deg);}
 .campaign-hero {position:relative;isolation:isolate;aspect-ratio:1702 / 630;margin-top:calc(-1 * var(--header-height));background:#efd2cf;display:flex;align-items:flex-end;}
 .campaign-media {position:absolute;inset:0;z-index:-1;}
 .campaign-photo {position:relative;width:100%;height:100%;overflow:hidden;}
-.campaign-photo img {object-fit:contain;}
+.campaign-photo img {position:absolute;inset:0;width:100%;height:100%;object-fit:contain;}
 .campaign-inner {width:100%;max-width:1440px;margin:0 auto;padding:0 64px 32px;}
 .campaign-copy {max-width:620px;}
 .campaign-copy h1 {position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;}

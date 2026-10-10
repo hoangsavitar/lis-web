@@ -1,0 +1,47 @@
+{
+  "source": "Completed Google PageSpeed Insights UI reports; manually transcribed visible metrics and calculator links, not raw Lighthouse JSON",
+  "date": "2026-10-10",
+  "timezone": "Asia/Bangkok",
+  "lighthouseVersion": "13.5.0",
+  "browser": "HeadlessChromium 153.0.8010.36",
+  "runsPerPagePerFormFactor": 1,
+  "crux": "No Data on all three reports",
+  "mobileConditions": "Emulated Moto G Power; Slow 4G; initial page load",
+  "desktopConditions": "Emulated Desktop; Custom throttling; initial page load",
+  "metricsPrecision": "Milliseconds from visible Lighthouse calculator links; score and CLS from report",
+  "reports": [
+    {
+      "url": "https://lisbylii.com/",
+      "capturedAtLocal": "2026-10-10T21:44:30+07:00",
+      "report": "https://pagespeed.web.dev/analysis/https-lisbylii-com/cebnkcontg",
+      "mobile": { "performance": 71, "accessibility": 100, "bestPractices": 100, "seo": 100, "fcpMs": 1678, "lcpMs": 7357, "tbtMs": 1, "cls": 0, "speedIndexMs": 5196 },
+      "desktop": { "performance": 99, "accessibility": 100, "bestPractices": 100, "seo": 100, "fcpMs": 475, "lcpMs": 946, "tbtMs": 25, "cls": 0, "speedIndexMs": 838 },
+      "observations": {
+        "lcpElement": "20/10 campaign image",
+        "bannerUrl": "https://lisbylii.com/_next/image?url=%2Fimages%2Fcampaigns%2F20-10%2Fcampaign-20-10.jpg&w=1920&q=85",
+        "bannerResourceBytes": 777630,
+        "bannerTransferBytes": 778249,
+        "bannerCacheTTL": "None",
+        "bannerImageSavingsEstimateBytes": 709519,
+        "allListedImageSavingsEstimateBytes": 787906,
+        "heroAndImagePreloadFetchPriorityAttribute": null
+      }
+    },
+    {
+      "url": "https://lisbylii.com/collections/all",
+      "capturedAtLocal": "2026-10-10T21:45:03+07:00",
+      "report": "https://pagespeed.web.dev/analysis/https-lisbylii-com-collections-all/j07302rt1a",
+      "mobile": { "performance": 98, "accessibility": 98, "bestPractices": 100, "seo": 100, "fcpMs": 1523, "lcpMs": 2337, "tbtMs": 8, "cls": 0, "speedIndexMs": 1523 },
+      "desktop": { "performance": 100, "accessibility": 98, "bestPractices": 100, "seo": 100, "fcpMs": 449, "lcpMs": 637, "tbtMs": 3, "cls": 0, "speedIndexMs": 451 },
+      "observations": { "accessibilityIssue": "Heading elements are not in a sequentially-descending order" }
+    },
+    {
+      "url": "https://lisbylii.com/products/irisa-bag?variant=irisa-bag-pink",
+      "capturedAtLocal": "2026-10-10T21:45:08+07:00",
+      "report": "https://pagespeed.web.dev/analysis/https-lisbylii-com-products-irisa-bag/flb3koubpa",
+      "mobile": { "performance": 95, "accessibility": 100, "bestPractices": 100, "seo": 100, "fcpMs": 1519, "lcpMs": 2851, "tbtMs": 8, "cls": 0, "speedIndexMs": 1519 },
+      "desktop": { "performance": 100, "accessibility": 100, "bestPractices": 100, "seo": 100, "fcpMs": 452, "lcpMs": 680, "tbtMs": 17, "cls": 0, "speedIndexMs": 452 },
+      "observations": { "listedImageSavingsEstimateBytes": 99479, "listedImageResourceBytes": 159780 }
+    }
+  ]
+}

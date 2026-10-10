@@ -17,8 +17,8 @@ export function Footer(){
     <p>Túi đan, tote và charm cho những ngày đi làm và những buổi hẹn.</p>
     <FacebookLink label="Nhắn LIS trên Facebook" className="button button-light"/>
    </div>
-   <nav className="footer-links" aria-label="Danh mục ở chân trang"><h3>Khám phá</h3>{NAVIGATION.slice(0,4).map(item=><Link key={item.href} href={item.href}>{item.label==="Sản phẩm"?"Tất cả sản phẩm":item.label}</Link>)}<Link href="/ve-lis">Về LIS</Link></nav>
-   <div className="footer-faq"><h3>Bạn cần biết thêm?</h3>{questions.map(q=><details key={q.title}><summary>{q.title}<CaretDown size={20}/></summary><p>{q.answer}</p></details>)}</div>
+   <nav className="footer-links" aria-label="Danh mục ở chân trang"><h2>Khám phá</h2>{NAVIGATION.slice(0,4).map(item=><Link key={item.href} href={item.href}>{item.label==="Sản phẩm"?"Tất cả sản phẩm":item.label}</Link>)}<Link href="/ve-lis">Về LIS</Link></nav>
+   <div className="footer-faq"><h2>Bạn cần biết thêm?</h2>{questions.map(q=><details key={q.title}><summary>{q.title}<CaretDown size={20}/></summary><p>{q.answer}</p></details>)}</div>
   </div>
   <div className="footer-bottom"><span>© {new Date().getFullYear()} LIS</span><a href="#top">Lên đầu trang <ArrowUp size={18}/></a></div>
  </footer>;

@@ -1,0 +1,60 @@
+{
+  "campaign": {
+    "source": "/images/campaigns/20-10/campaign-20-10.jpg",
+    "base": "/media/storefront/campaign-20-10-48e7e1149de8c223",
+    "widths": [
+      640,
+      1080,
+      1280,
+      1702
+    ],
+    "format": "webp",
+    "width": 1702,
+    "height": 630,
+    "src": "/media/storefront/campaign-20-10-48e7e1149de8c223-1702.webp"
+  },
+  "logos": {
+    "burgundy": {
+      "source": "/brand/lis/logo-burgundy-1024.png",
+      "base": "/media/storefront/logo-burgundy-a14b8c4c80b1b6ec",
+      "widths": [
+        160,
+        256,
+        512,
+        1024
+      ],
+      "format": "png",
+      "width": 1024,
+      "height": 476,
+      "src": "/media/storefront/logo-burgundy-a14b8c4c80b1b6ec-1024.png"
+    },
+    "black": {
+      "source": "/brand/lis/logo-black-1024.png",
+      "base": "/media/storefront/logo-black-74026e225ff1eae4",
+      "widths": [
+        160,
+        256,
+        512,
+        1024
+      ],
+      "format": "png",
+      "width": 1024,
+      "height": 476,
+      "src": "/media/storefront/logo-black-74026e225ff1eae4-1024.png"
+    },
+    "white": {
+      "source": "/brand/lis/logo-white-1024.png",
+      "base": "/media/storefront/logo-white-14f541a32c055080",
+      "widths": [
+        160,
+        256,
+        512,
+        1024
+      ],
+      "format": "png",
+      "width": 1024,
+      "height": 476,
+      "src": "/media/storefront/logo-white-14f541a32c055080-1024.png"
+    }
+  }
+}

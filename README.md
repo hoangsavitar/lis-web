@@ -21,6 +21,14 @@ product-images/
 
 Không cần sửa component khi thêm/thay góc ảnh của màu đã có; phải giữ phân loại ảnh theo tên hoặc mapping. Import XLSX cũng đọc mapping, giữ ảnh gốc đã có trong thư mục, chỉ tạo ảnh gốc còn thiếu và gọi sync để giữ góc ảnh thêm. Ba mẫu Irisa/Dalia/Lilia nằm trong `data/additional-products.json`, được ghép phía trước dữ liệu XLSX mỗi lần import rồi sync ảnh. Thêm sản phẩm hoặc màu mới cần cập nhật catalog và nguồn import tương ứng. Push lên GitHub chỉ xuất bản website nếu dịch vụ hosting đã được cấu hình build/deploy từ Git.
 
+## Ảnh và cache sau tối ưu hiệu năng
+
+`npm run images:sync` tạo ảnh sản phẩm WebP 160/320/480/640/960/1280px trong `public/media/catalog/`, cùng banner WebP và logo PNG thu nhỏ trong `public/media/storefront/`. Tên file có hash theo nội dung và cấu hình encoder: thay ảnh rồi sync sẽ tạo URL mới, không dùng lại ảnh cũ trong cache. Không chỉnh thủ công file ảnh có hash hoặc `data/storefront-media.json`.
+
+Nguồn banner/logo nằm trong `data/storefront-image-sources.json`; khi đổi banner, cập nhật ảnh nguồn và nội dung trong `data/home-campaign.ts`, rồi chạy sync/build. Ảnh gốc và các URL `/images/catalog/` cũ vẫn giữ để tương thích liên kết đã chia sẻ. File `public/_headers` đặt cache một năm cho `/media/*` và Next static chunks; các URL ảnh cũ không bị áp dụng immutable.
+
+Build Cloudflare dùng `npm run build:worker`, sau đó `npm run deploy` nếu muốn xuất bản thủ công. `public/_headers` phải có trong `.open-next/assets/`. Đo lại tên miền bằng PageSpeed sau deploy; số đo trước tối ưu nằm trong `planning/24-live-performance-audit.md`.
+
 ## Chạy local
 
 ```bash

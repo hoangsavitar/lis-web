@@ -1,3 +1,5 @@
+import media from './storefront-media.json';
+
 export const SITE = {
   name: "LIS",
   facebookUrl: "https://www.facebook.com/lisbyliiofficial",
@@ -12,10 +14,6 @@ export const NAVIGATION = [
   { label: "Về LIS", href: "/ve-lis" },
 ] as const;
 
-export const BRAND_LOGOS = {
-  burgundy: "/brand/lis/logo-burgundy",
-  black: "/brand/lis/logo-black",
-  white: "/brand/lis/logo-white",
-} as const;
+export const BRAND_LOGOS = media.logos;
 
 export type LogoVariant = keyof typeof BRAND_LOGOS;

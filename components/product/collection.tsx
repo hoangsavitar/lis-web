@@ -26,7 +26,7 @@ export function Collection({slug,embedded=false,initialColor}:{slug:string;embed
    <ColorFilter colors={colors} value={color} onChange={next=>change(filter,next)}/>
   </div>
   <p className="result-count" role="status">{items.length} sản phẩm</p>
-  <div className="collection-grid">{items.map((p,i)=><ProductCard key={p.id+color} product={p} priority={!embedded&&i===0} initialVariantId={p.variants.find(v=>v.name===color)?.id} anchor={embedded}/>)}</div>
-  {!items.length&&<div className="empty-state"><h3>Không tìm thấy sản phẩm phù hợp</h3><p>Thử xem các màu khác nhé.</p><button className="button" onClick={()=>change(filter,"all")}>Xem tất cả màu</button></div>}
+  <div className="collection-grid">{items.map((p,i)=><ProductCard key={p.id+color} product={p} priority={!embedded&&i===0} headingLevel={embedded?3:2} initialVariantId={p.variants.find(v=>v.name===color)?.id} anchor={embedded}/>)}</div>
+  {!items.length&&<div className="empty-state"><Heading>Không tìm thấy sản phẩm phù hợp</Heading><p>Thử xem các màu khác nhé.</p><button className="button" onClick={()=>change(filter,"all")}>Xem tất cả màu</button></div>}
  </section>;
 }

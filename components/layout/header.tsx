@@ -30,7 +30,7 @@ export function Header(){
  <header className={overHero?"site-header site-header-over-hero":"site-header"}>
   <div className="header-inner">
    <button className="icon-button mobile-menu-button" aria-label="Mở menu" onClick={()=>setMenuOpen(true)}><List size={26}/></button>
-   <Link href="/" className="header-logo" aria-label="LIS — Trang chủ"><BrandLogo width={88}/></Link>
+   <Link href="/" className="header-logo" aria-label="LIS — Trang chủ"><BrandLogo width={88} eager/></Link>
    <nav className="desktop-nav" aria-label="Menu chính">{NAVIGATION.map(item=><Link key={item.href} href={item.href} aria-current={pathname===item.href?"page":undefined}>{item.label}</Link>)}</nav>
    <div className="header-actions">
     <button className="header-action" onClick={openSearch} aria-label="Tìm sản phẩm"><MagnifyingGlass size={23}/><span>Tìm kiếm</span></button>

@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit",
     "deploy": "opennextjs-cloudflare deploy",
     "preview": "opennextjs-cloudflare preview",
-    "images:sync": "node scripts/sync-product-images.mjs",
+    "images:sync": "node scripts/sync-product-images.mjs && node scripts/sync-storefront-images.mjs",
     "prebuild": "npm run images:sync",
     "prebuild:worker": "npm run images:sync"
   },

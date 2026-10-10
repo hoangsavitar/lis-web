@@ -9,6 +9,7 @@ import {VariantImage} from "./variant-image";
 export function ProductGallery({variant,title}:{variant:Variant;title:string}){
  const gallery=getProductGallery(variant);
  const [active,setActive]=useState(0);
+ const [visited,setVisited]=useState<number[]>([0]);
  const track=useRef<HTMLDivElement>(null);
  const thumbnails=useRef<HTMLDivElement>(null);
  const selected=useRef(0);
@@ -35,6 +36,7 @@ export function ProductGallery({variant,title}:{variant:Variant;title:string}){
   const next=Math.max(0,Math.min(gallery.length-1,index));
   clearTimeout(settleTimer.current);
   selected.current=next;
+  setVisited(previous=>previous.includes(next)?previous:[...previous,next]);
   navigating.current=true;
   setActive(next);
   track.current?.scrollTo({
@@ -46,6 +48,7 @@ export function ProductGallery({variant,title}:{variant:Variant;title:string}){
   const el=track.current;
   if(!el?.clientWidth)return;
   const index=Math.max(0,Math.min(gallery.length-1,Math.round(el.scrollLeft/el.clientWidth)));
+  if(!navigating.current)setVisited(previous=>previous.includes(index)?previous:[...previous,index]);
   if(!navigating.current){selected.current=index;setActive(index);}
   clearTimeout(settleTimer.current);
   settleTimer.current=setTimeout(()=>{
@@ -73,6 +76,7 @@ export function ProductGallery({variant,title}:{variant:Variant;title:string}){
      onPointerDown={()=>{navigating.current=false;}}
      onWheel={()=>{navigating.current=false;}}>
      {gallery.map((asset,i)=><VariantImage key={asset.src} asset={asset} priority={i===0}
+      enabled={Math.abs(i-active)<=1||visited.includes(i)}
       sizes="(max-width: 767px) calc(100vw - 40px), (max-width: 1023px) 50vw, (max-width: 1439px) 45vw, 560px"/>)}
     </div>
     {gallery.length>1&&<>
